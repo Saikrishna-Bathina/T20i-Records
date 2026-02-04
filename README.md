@@ -23,4 +23,4 @@ Open `index.html` to view the interactive dashboard:
 4.  `index.html` uses Chart.js to visualize this data without needing a backend server.
 
 ## 🚀 Live Demo
-[Link to your Netlify/GitHub Pages site here]
+https://t20i-records.netlify.app/
