@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Bhutan
+info,gender,female
+info,season,2025/26
+info,date,2026/01/24
+info,event,Lotus Cup Women's Tri-Series
+info,match_number,4
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,N Choden
+info,umpire,AK Rai
+info,umpire,U Dorji
+info,reserve_umpire,Subas Lama
+info,tv_umpire,ON Pradhan
+info,winner,Bhutan
+info,winner_wickets,8
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Irdina Beh Nabil
+info,player,Malaysia,Nur Izzatul Syafiqa
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Musfirah Nur Ainaa
+info,player,Malaysia,Suabika Manivannan
+info,player,Bhutan,N Choden
+info,player,Bhutan,K Dema
+info,player,Bhutan,S Paldon
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,A Gurung
+info,player,Bhutan,S Choden
+info,player,Bhutan,Sonam
+info,player,Bhutan,R Choden
+info,player,Bhutan,Chado Om
+info,player,Bhutan,Eva Somsel Yangzom
+info,player,Bhutan,Tshering Choden
+info,registry,people,A Gurung,10854c82
+info,registry,people,AK Rai,1d70834a
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,Eva Somsel Yangzom,12cff704
+info,registry,people,Irdina Beh Nabil,59ace6d9
+info,registry,people,K Dema,0b211a32
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Musfirah Nur Ainaa,acd1fec7
+info,registry,people,N Choden,a904600a
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,Nur Izzatul Syafiqa,fc282a40
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,R Choden,c0266a6e
+info,registry,people,S Choden,e1e0775d
+info,registry,people,S Paldon,47c3d294
+info,registry,people,Sonam,09cbca15
+info,registry,people,Suabika Manivannan,a044506e
+info,registry,people,Subas Lama,0a0c48dc
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,Tshering Choden,3f38caff
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,WA Duraisingam,7467fe01
+ball,1,0.1,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,0.2,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,0.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,1,0,,,,,,"",""
+ball,1,0.4,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,0,0,,,,,,"",""
+ball,1,0.5,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,0,0,,,,,,"",""
+ball,1,0.6,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,4,0,,,,,,"",""
+ball,1,1.1,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,0,0,,,,,,"",""
+ball,1,1.2,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,0,0,,,,,,"",""
+ball,1,1.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,0,0,,,,,,"",""
+ball,1,1.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,0,0,,,,,,"",""
+ball,1,1.5,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,1,0,,,,,,"",""
+ball,1,1.6,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,0,1,1,,,,,"",""
+ball,1,1.7,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,0,1,1,,,,,"",""
+ball,1,1.8,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,0,1,1,,,,,"",""
+ball,1,1.9,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,1,0,,,,,,"",""
+ball,1,2.1,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,0,0,,,,,,"",""
+ball,1,2.2,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,4,0,,,,,,"",""
+ball,1,2.3,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,1,0,,,,,,"",""
+ball,1,2.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,2.5,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,2.6,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,3.1,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,0,1,1,,,,,"",""
+ball,1,3.2,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,1,0,,,,,,"",""
+ball,1,3.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,6,0,,,,,,"",""
+ball,1,3.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,4,0,,,,,,"",""
+ball,1,3.5,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Sonam,1,0,,,,,,"",""
+ball,1,3.6,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,0,0,,,,,,"",""
+ball,1,3.7,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Sonam,1,0,,,,,,"",""
+ball,1,4.1,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,A Gurung,1,0,,,,,,"",""
+ball,1,4.2,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,4.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,4.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,4.5,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,4.6,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,A Gurung,0,0,,,,,,"",""
+ball,1,5.1,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,R Choden,1,0,,,,,,"",""
+ball,1,5.2,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,R Choden,0,0,,,,,,"",""
+ball,1,5.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,R Choden,0,0,,,,,,"",""
+ball,1,5.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,R Choden,4,0,,,,,,"",""
+ball,1,5.5,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,R Choden,0,0,,,,,,"",""
+ball,1,5.6,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,R Choden,1,0,,,,,,"",""
+ball,1,6.1,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Tshering Choden,1,0,,,,,,"",""
+ball,1,6.2,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Tshering Choden,1,0,,,,,,"",""
+ball,1,6.3,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Tshering Choden,0,0,,,,,,"",""
+ball,1,6.4,Malaysia,Ainna Hamizah Hashim,WA Duraisingam,Tshering Choden,1,0,,,,,,"",""
+ball,1,6.5,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Tshering Choden,0,0,,,,,,"",""
+ball,1,6.6,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,Tshering Choden,1,0,,,,,,"",""
+ball,1,7.1,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,7.2,Malaysia,WA Duraisingam,Ainna Hamizah Hashim,R Choden,0,0,,,,,,lbw,WA Duraisingam
+ball,1,7.3,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,1,0,,,,,,"",""
+ball,1,7.4,Malaysia,Ainna Hamizah Hashim,Mas Elysa,R Choden,0,0,,,,,,"",""
+ball,1,7.5,Malaysia,Ainna Hamizah Hashim,Mas Elysa,R Choden,1,0,,,,,,"",""
+ball,1,7.6,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,1,0,,,,,,"",""
+ball,1,8.1,Malaysia,Mas Elysa,Ainna Hamizah Hashim,Tshering Choden,4,0,,,,,,"",""
+ball,1,8.2,Malaysia,Mas Elysa,Ainna Hamizah Hashim,Tshering Choden,1,0,,,,,,"",""
+ball,1,8.3,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Tshering Choden,2,0,,,,,,"",""
+ball,1,8.4,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Tshering Choden,1,0,,,,,,"",""
+ball,1,8.5,Malaysia,Mas Elysa,Ainna Hamizah Hashim,Tshering Choden,1,0,,,,,,"",""
+ball,1,8.6,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Tshering Choden,0,0,,,,,,"",""
+ball,1,9.1,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,1,1,,,,,"",""
+ball,1,9.2,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,4,0,,,,,,"",""
+ball,1,9.3,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,9.4,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,9.5,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,9.6,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,9.7,Malaysia,Mas Elysa,Ainna Hamizah Hashim,R Choden,0,0,,,,,,"",""
+ball,1,10.1,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Eva Somsel Yangzom,1,0,,,,,,"",""
+ball,1,10.2,Malaysia,Mas Elysa,Ainna Hamizah Hashim,Eva Somsel Yangzom,0,0,,,,,,"",""
+ball,1,10.3,Malaysia,Mas Elysa,Ainna Hamizah Hashim,Eva Somsel Yangzom,1,0,,,,,,"",""
+ball,1,10.4,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Eva Somsel Yangzom,6,0,,,,,,"",""
+ball,1,10.5,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Eva Somsel Yangzom,0,0,,,,,,"",""
+ball,1,10.6,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Eva Somsel Yangzom,2,0,,,,,,"",""
+ball,1,11.1,Malaysia,Mas Elysa,Ainna Hamizah Hashim,T Zangmo,4,0,,,,,,"",""
+ball,1,11.2,Malaysia,Mas Elysa,Ainna Hamizah Hashim,T Zangmo,0,0,,,,,,"",""
+ball,1,11.3,Malaysia,Mas Elysa,Ainna Hamizah Hashim,T Zangmo,2,0,,,,,,"",""
+ball,1,11.4,Malaysia,Mas Elysa,Ainna Hamizah Hashim,T Zangmo,1,0,,,,,,"",""
+ball,1,11.5,Malaysia,Ainna Hamizah Hashim,Mas Elysa,T Zangmo,1,0,,,,,,"",""
+ball,1,11.6,Malaysia,Mas Elysa,Ainna Hamizah Hashim,T Zangmo,4,0,,,,,,"",""
+ball,1,12.1,Malaysia,Ainna Hamizah Hashim,Mas Elysa,Sonam,0,0,,,,,,lbw,Ainna Hamizah Hashim
+ball,1,12.2,Malaysia,Mahirah Izzati Ismail,Mas Elysa,Sonam,1,0,,,,,,"",""
+ball,1,12.3,Malaysia,Mas Elysa,Mahirah Izzati Ismail,Sonam,0,0,,,,,,"",""
+ball,1,12.4,Malaysia,Mas Elysa,Mahirah Izzati Ismail,Sonam,1,0,,,,,,"",""
+ball,1,12.5,Malaysia,Mahirah Izzati Ismail,Mas Elysa,Sonam,0,0,,,,,,"",""
+ball,1,12.6,Malaysia,Mahirah Izzati Ismail,Mas Elysa,Sonam,0,0,,,,,,lbw,Mahirah Izzati Ismail
+ball,1,13.1,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,4,0,,,,,,"",""
+ball,1,13.2,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,13.3,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,0,1,,,1,,,"",""
+ball,1,13.4,Malaysia,Nur Arianna Natsya,Mas Elysa,T Zangmo,0,0,,,,,,"",""
+ball,1,13.5,Malaysia,Nur Arianna Natsya,Mas Elysa,T Zangmo,1,0,,,,,,"",""
+ball,1,13.6,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,1,0,,,,,,"",""
+ball,1,14.1,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,0,0,,,,,,"",""
+ball,1,14.2,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,0,0,,,,,,"",""
+ball,1,14.3,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,0,1,1,,,,,"",""
+ball,1,14.4,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,0,0,,,,,,"",""
+ball,1,14.5,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,1,0,,,,,,"",""
+ball,1,14.6,Malaysia,Nur Arianna Natsya,Mas Elysa,Sonam,1,0,,,,,,"",""
+ball,1,14.7,Malaysia,Mas Elysa,Nur Arianna Natsya,Sonam,0,0,,,,,,"",""
+ball,1,15.1,Malaysia,Nur Arianna Natsya,Mas Elysa,T Zangmo,0,0,,,,,,"",""
+ball,1,15.2,Malaysia,Nur Arianna Natsya,Mas Elysa,T Zangmo,0,0,,,,,,"",""
+ball,1,15.3,Malaysia,Nur Arianna Natsya,Mas Elysa,T Zangmo,1,0,,,,,,"",""
+ball,1,15.4,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,15.5,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,6,0,,,,,,"",""
+ball,1,15.6,Malaysia,Mas Elysa,Nur Arianna Natsya,T Zangmo,0,0,,,,,,caught,Mas Elysa
+ball,1,16.1,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,Tshering Choden,0,0,,,,,,"",""
+ball,1,16.2,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,Tshering Choden,1,0,,,,,,"",""
+ball,1,16.3,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,Tshering Choden,1,0,,,,,,"",""
+ball,1,16.4,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,Tshering Choden,1,0,,,,,,"",""
+ball,1,16.5,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,Tshering Choden,0,0,,,,,,"",""
+ball,1,16.6,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,Tshering Choden,1,0,,,,,,"",""
+ball,1,17.1,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,T Zangmo,1,0,,,,,,"",""
+ball,1,17.2,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,T Zangmo,1,0,,,,,,"",""
+ball,1,17.3,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,17.4,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,17.5,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,17.6,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,T Zangmo,0,0,,,,,,"",""
+ball,1,18.1,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,R Choden,0,0,,,,,,"",""
+ball,1,18.2,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,R Choden,1,0,,,,,,"",""
+ball,1,18.3,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,R Choden,0,1,,,,1,,"",""
+ball,1,18.4,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,R Choden,1,0,,,,,,"",""
+ball,1,18.5,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,R Choden,1,0,,,,,,"",""
+ball,1,18.6,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,R Choden,0,0,,,,,,"",""
+ball,1,19.1,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,A Gurung,0,0,,,,,,"",""
+ball,1,19.2,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,A Gurung,2,0,,,,,,"",""
+ball,1,19.3,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,A Gurung,1,0,,,,,,"",""
+ball,1,19.4,Malaysia,Nur Arianna Natsya,Nur Dania Syuhada,A Gurung,1,0,,,,,,"",""
+ball,1,19.5,Malaysia,Nur Dania Syuhada,Nur Arianna Natsya,A Gurung,0,0,,,,,,run out,Nur Dania Syuhada
+ball,1,19.6,Malaysia,Nur Arianna Natsya,Irdina Beh Nabil,A Gurung,1,0,,,,,,run out,Nur Arianna Natsya
+ball,2,0.1,Bhutan,N Choden,K Dema,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,0.2,Bhutan,N Choden,K Dema,Suabika Manivannan,0,1,,1,,,,"",""
+ball,2,0.3,Bhutan,N Choden,K Dema,Suabika Manivannan,4,0,,,,,,"",""
+ball,2,0.4,Bhutan,N Choden,K Dema,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,0.5,Bhutan,N Choden,K Dema,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,0.6,Bhutan,N Choden,K Dema,Suabika Manivannan,4,0,,,,,,"",""
+ball,2,0.7,Bhutan,N Choden,K Dema,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,1.1,Bhutan,K Dema,N Choden,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,1.2,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,1,1,,,,,"",""
+ball,2,1.3,Bhutan,N Choden,K Dema,Nur Dania Syuhada,4,0,,,,,,"",""
+ball,2,1.4,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.5,Bhutan,N Choden,K Dema,Nur Dania Syuhada,4,0,,,,,,"",""
+ball,2,1.6,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,1.7,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,2.1,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,2.2,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,2.3,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,2.4,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,2.5,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,2.6,Bhutan,K Dema,N Choden,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,3.1,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.2,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.3,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.4,Bhutan,N Choden,K Dema,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,3.5,Bhutan,N Choden,K Dema,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,3.6,Bhutan,K Dema,N Choden,Nur Dania Syuhada,4,0,,,,,,"",""
+ball,2,4.1,Bhutan,N Choden,K Dema,Suabika Manivannan,0,0,,,,,,"",""
+ball,2,4.2,Bhutan,N Choden,K Dema,Suabika Manivannan,1,0,,,,,,"",""
+ball,2,4.3,Bhutan,K Dema,N Choden,Suabika Manivannan,0,1,1,,,,,"",""
+ball,2,4.4,Bhutan,K Dema,N Choden,Suabika Manivannan,1,0,,,,,,"",""
+ball,2,4.5,Bhutan,N Choden,K Dema,Suabika Manivannan,4,0,,,,,,"",""
+ball,2,4.6,Bhutan,N Choden,K Dema,Suabika Manivannan,1,0,,,,,,"",""
+ball,2,4.7,Bhutan,K Dema,N Choden,Suabika Manivannan,1,0,,,,,,"",""
+ball,2,5.1,Bhutan,K Dema,N Choden,WA Duraisingam,1,0,,,,,,"",""
+ball,2,5.2,Bhutan,N Choden,K Dema,WA Duraisingam,0,1,1,,,,,"",""
+ball,2,5.3,Bhutan,N Choden,K Dema,WA Duraisingam,0,0,,,,,,"",""
+ball,2,5.4,Bhutan,N Choden,K Dema,WA Duraisingam,0,0,,,,,,"",""
+ball,2,5.5,Bhutan,N Choden,K Dema,WA Duraisingam,4,0,,,,,,"",""
+ball,2,5.6,Bhutan,N Choden,K Dema,WA Duraisingam,4,0,,,,,,"",""
+ball,2,5.7,Bhutan,N Choden,K Dema,WA Duraisingam,0,0,,,,,,"",""
+ball,2,6.1,Bhutan,K Dema,N Choden,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,6.2,Bhutan,N Choden,K Dema,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,6.3,Bhutan,K Dema,N Choden,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,6.4,Bhutan,N Choden,K Dema,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,6.5,Bhutan,K Dema,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,6.6,Bhutan,K Dema,N Choden,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,7.1,Bhutan,K Dema,N Choden,Nur Arianna Natsya,0,0,,,,,,bowled,K Dema
+ball,2,7.2,Bhutan,S Paldon,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,7.3,Bhutan,S Paldon,N Choden,Nur Arianna Natsya,0,1,,,,1,,"",""
+ball,2,7.4,Bhutan,N Choden,S Paldon,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,7.5,Bhutan,N Choden,S Paldon,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,7.6,Bhutan,S Paldon,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,8.1,Bhutan,N Choden,S Paldon,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,8.2,Bhutan,S Paldon,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,8.3,Bhutan,S Paldon,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,8.4,Bhutan,S Paldon,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,8.5,Bhutan,S Paldon,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,8.6,Bhutan,S Paldon,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,9.1,Bhutan,N Choden,S Paldon,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,9.2,Bhutan,N Choden,S Paldon,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,9.3,Bhutan,N Choden,S Paldon,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,9.4,Bhutan,S Paldon,N Choden,Nur Arianna Natsya,0,0,,,,,,lbw,S Paldon
+ball,2,9.5,Bhutan,T Zangmo,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,9.6,Bhutan,T Zangmo,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,10.1,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,10.2,Bhutan,N Choden,T Zangmo,Mas Elysa,0,1,1,,,,,"",""
+ball,2,10.3,Bhutan,N Choden,T Zangmo,Mas Elysa,1,0,,,,,,"",""
+ball,2,10.4,Bhutan,T Zangmo,N Choden,Mas Elysa,0,1,,,,1,,"",""
+ball,2,10.5,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,10.6,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,10.7,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,11.1,Bhutan,T Zangmo,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,11.2,Bhutan,T Zangmo,N Choden,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,11.3,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,1,1,,,,,"",""
+ball,2,11.4,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,11.5,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,11.6,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,11.7,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,12.1,Bhutan,N Choden,T Zangmo,Mas Elysa,2,0,,,,,,"",""
+ball,2,12.2,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,12.3,Bhutan,N Choden,T Zangmo,Mas Elysa,4,0,,,,,,"",""
+ball,2,12.4,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,12.5,Bhutan,N Choden,T Zangmo,Mas Elysa,0,1,1,,,,,"",""
+ball,2,12.6,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,12.7,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,13.1,Bhutan,T Zangmo,N Choden,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,13.2,Bhutan,T Zangmo,N Choden,Ainna Hamizah Hashim,1,0,,,,,,"",""
+ball,2,13.3,Bhutan,N Choden,T Zangmo,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,13.4,Bhutan,N Choden,T Zangmo,Ainna Hamizah Hashim,4,0,,,,,,"",""
+ball,2,13.5,Bhutan,N Choden,T Zangmo,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,13.6,Bhutan,N Choden,T Zangmo,Ainna Hamizah Hashim,0,0,,,,,,"",""
+ball,2,14.1,Bhutan,T Zangmo,N Choden,Mas Elysa,1,0,,,,,,"",""
+ball,2,14.2,Bhutan,N Choden,T Zangmo,Mas Elysa,1,0,,,,,,"",""
+ball,2,14.3,Bhutan,T Zangmo,N Choden,Mas Elysa,1,0,,,,,,"",""
+ball,2,14.4,Bhutan,N Choden,T Zangmo,Mas Elysa,0,0,,,,,,"",""
+ball,2,14.5,Bhutan,N Choden,T Zangmo,Mas Elysa,4,0,,,,,,"",""
+ball,2,14.6,Bhutan,N Choden,T Zangmo,Mas Elysa,1,0,,,,,,"",""
+ball,2,15.1,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,4,0,,,,,,"",""
+ball,2,15.2,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,15.3,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,1,1,,,,,"",""
+ball,2,15.4,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,6,0,,,,,,"",""
+ball,2,15.5,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,15.6,Bhutan,N Choden,T Zangmo,Nur Arianna Natsya,1,0,,,,,,"",""
+ball,2,15.7,Bhutan,T Zangmo,N Choden,Nur Arianna Natsya,0,0,,,,,,"",""
+ball,2,16.1,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,6,0,,,,,,"",""
+ball,2,16.2,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,16.3,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,16.4,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,16.5,Bhutan,T Zangmo,N Choden,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,16.6,Bhutan,T Zangmo,N Choden,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,17.1,Bhutan,T Zangmo,N Choden,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,17.2,Bhutan,N Choden,T Zangmo,Nur Dania Syuhada,4,0,,,,,,"",""
+ball,2,17.3,Bhutan,N Choden,T Zangmo,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,17.4,Bhutan,N Choden,T Zangmo,Nur Dania Syuhada,1,0,,,,,,"",""
+ball,2,17.5,Bhutan,T Zangmo,N Choden,Nur Dania Syuhada,0,0,,,,,,"",""
+ball,2,17.6,Bhutan,T Zangmo,N Choden,Nur Dania Syuhada,6,0,,,,,,"",""
+ball,2,18.1,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,0,1,1,,,,,"",""
+ball,2,18.2,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,0,0,,,,,,"",""
+ball,2,18.3,Bhutan,N Choden,T Zangmo,Mahirah Izzati Ismail,1,0,,,,,,"",""
+ball,2,18.4,Bhutan,T Zangmo,N Choden,Mahirah Izzati Ismail,2,0,,,,,,"",""

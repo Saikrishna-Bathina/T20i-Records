@@ -1,0 +1,1343 @@
+match_id,date,opponent,inning,milestone,legal_balls_faced,record_type
+1007655,2016/06/18,Zimbabwe,1,50,41,Against India
+1007655,2016/06/18,Zimbabwe,1,100,84,Against India
+1007655,2016/06/18,Zimbabwe,1,150,113,Against India
+1007655,2016/06/18,Zimbabwe,2,50,43,India
+1007655,2016/06/18,Zimbabwe,2,100,81,India
+1007655,2016/06/18,Zimbabwe,2,150,107,India
+1007657,2016/06/20,Zimbabwe,1,50,58,Against India
+1007657,2016/06/20,Zimbabwe,2,50,46,India
+1007657,2016/06/20,Zimbabwe,2,100,79,India
+1007659,2016/06/22,Zimbabwe,1,50,55,India
+1007659,2016/06/22,Zimbabwe,1,100,103,India
+1007659,2016/06/22,Zimbabwe,2,50,47,Against India
+1007659,2016/06/22,Zimbabwe,2,100,99,Against India
+1034825,2017/01/26,England,1,50,38,India
+1034825,2017/01/26,England,1,100,82,India
+1034825,2017/01/26,England,2,50,38,Against India
+1034825,2017/01/26,England,2,100,75,Against India
+1034827,2017/01/29,England,1,50,40,India
+1034827,2017/01/29,England,1,100,82,India
+1034827,2017/01/29,England,2,50,49,Against India
+1034827,2017/01/29,England,2,100,89,Against India
+1034829,2017/02/01,England,1,50,35,India
+1034829,2017/02/01,England,1,100,73,India
+1034829,2017/02/01,England,1,150,101,India
+1034829,2017/02/01,England,1,200,119,India
+1034829,2017/02/01,England,2,50,34,Against India
+1034829,2017/02/01,England,2,100,69,Against India
+1041615,2016/08/27,West Indies,1,50,25,Against India
+1041615,2016/08/27,West Indies,1,100,46,Against India
+1041615,2016/08/27,West Indies,1,150,63,Against India
+1041615,2016/08/27,West Indies,1,200,91,Against India
+1041615,2016/08/27,West Indies,2,50,29,India
+1041615,2016/08/27,West Indies,2,100,51,India
+1041615,2016/08/27,West Indies,2,150,78,India
+1041615,2016/08/27,West Indies,2,200,98,India
+1041617,2016/08/28,West Indies,1,50,30,Against India
+1041617,2016/08/28,West Indies,1,100,80,Against India
+1098211,2017/07/09,West Indies,1,50,28,India
+1098211,2017/07/09,West Indies,1,100,65,India
+1098211,2017/07/09,West Indies,1,150,92,India
+1098211,2017/07/09,West Indies,2,50,28,Against India
+1098211,2017/07/09,West Indies,2,100,61,Against India
+1098211,2017/07/09,West Indies,2,150,91,Against India
+1109610,2017/09/06,Sri Lanka,1,50,31,Against India
+1109610,2017/09/06,Sri Lanka,1,100,69,Against India
+1109610,2017/09/06,Sri Lanka,1,150,113,Against India
+1109610,2017/09/06,Sri Lanka,2,50,43,India
+1109610,2017/09/06,Sri Lanka,2,100,69,India
+1109610,2017/09/06,Sri Lanka,2,150,104,India
+1119501,2017/10/07,Australia,1,50,37,Against India
+1119501,2017/10/07,Australia,1,100,98,Against India
+1119502,2017/10/10,Australia,1,50,49,India
+1119502,2017/10/10,Australia,1,100,101,India
+1119502,2017/10/10,Australia,2,50,48,Against India
+1119502,2017/10/10,Australia,2,100,86,Against India
+1119543,2018/07/03,England,1,50,29,Against India
+1119543,2018/07/03,England,1,100,72,Against India
+1119543,2018/07/03,England,1,150,112,Against India
+1119543,2018/07/03,England,2,50,34,India
+1119543,2018/07/03,England,2,100,59,India
+1119543,2018/07/03,England,2,150,104,India
+1119544,2018/07/06,England,1,50,58,India
+1119544,2018/07/06,England,1,100,96,India
+1119544,2018/07/06,England,2,50,49,Against India
+1119544,2018/07/06,England,2,100,86,Against India
+1119545,2018/07/08,England,1,50,27,Against India
+1119545,2018/07/08,England,1,100,55,Against India
+1119545,2018/07/08,England,1,150,90,Against India
+1119545,2018/07/08,England,2,50,29,India
+1119545,2018/07/08,England,2,100,60,India
+1119545,2018/07/08,England,2,150,85,India
+1119545,2018/07/08,England,2,200,112,India
+1120093,2017/11/01,New Zealand,1,50,40,India
+1120093,2017/11/01,New Zealand,1,100,72,India
+1120093,2017/11/01,New Zealand,1,150,93,India
+1120093,2017/11/01,New Zealand,1,200,119,India
+1120093,2017/11/01,New Zealand,2,50,51,Against India
+1120093,2017/11/01,New Zealand,2,100,94,Against India
+1120094,2017/11/04,New Zealand,1,50,39,Against India
+1120094,2017/11/04,New Zealand,1,100,66,Against India
+1120094,2017/11/04,New Zealand,1,150,94,Against India
+1120094,2017/11/04,New Zealand,2,50,44,India
+1120094,2017/11/04,New Zealand,2,100,80,India
+1120094,2017/11/04,New Zealand,2,150,115,India
+1120095,2017/11/07,New Zealand,1,50,36,India
+1120095,2017/11/07,New Zealand,2,50,43,Against India
+1122285,2018/02/18,South Africa,1,50,27,India
+1122285,2018/02/18,South Africa,1,100,50,India
+1122285,2018/02/18,South Africa,1,150,85,India
+1122285,2018/02/18,South Africa,1,200,118,India
+1122285,2018/02/18,South Africa,2,50,40,Against India
+1122285,2018/02/18,South Africa,2,100,71,Against India
+1122285,2018/02/18,South Africa,2,150,101,Against India
+1122286,2018/02/21,South Africa,1,50,41,India
+1122286,2018/02/21,South Africa,1,100,74,India
+1122286,2018/02/21,South Africa,1,150,104,India
+1122286,2018/02/21,South Africa,2,50,35,Against India
+1122286,2018/02/21,South Africa,2,100,66,Against India
+1122286,2018/02/21,South Africa,2,150,94,Against India
+1122287,2018/02/24,South Africa,1,50,32,India
+1122287,2018/02/24,South Africa,1,100,72,India
+1122287,2018/02/24,South Africa,1,150,109,India
+1122287,2018/02/24,South Africa,2,50,57,Against India
+1122287,2018/02/24,South Africa,2,100,89,Against India
+1122287,2018/02/24,South Africa,2,150,112,Against India
+1122729,2017/12/20,Sri Lanka,1,50,36,India
+1122729,2017/12/20,Sri Lanka,1,100,75,India
+1122729,2017/12/20,Sri Lanka,1,150,110,India
+1122729,2017/12/20,Sri Lanka,2,50,49,Against India
+1122730,2017/12/22,Sri Lanka,1,50,33,India
+1122730,2017/12/22,Sri Lanka,1,100,52,India
+1122730,2017/12/22,Sri Lanka,1,150,73,India
+1122730,2017/12/22,Sri Lanka,1,200,94,India
+1122730,2017/12/22,Sri Lanka,1,250,113,India
+1122730,2017/12/22,Sri Lanka,2,50,34,Against India
+1122730,2017/12/22,Sri Lanka,2,100,60,Against India
+1122730,2017/12/22,Sri Lanka,2,150,83,Against India
+1122731,2017/12/24,Sri Lanka,1,50,45,Against India
+1122731,2017/12/24,Sri Lanka,1,100,94,Against India
+1122731,2017/12/24,Sri Lanka,2,50,54,India
+1122731,2017/12/24,Sri Lanka,2,100,91,India
+1133817,2018/03/06,Sri Lanka,1,50,44,India
+1133817,2018/03/06,Sri Lanka,1,100,72,India
+1133817,2018/03/06,Sri Lanka,1,150,102,India
+1133817,2018/03/06,Sri Lanka,2,50,22,Against India
+1133817,2018/03/06,Sri Lanka,2,100,58,Against India
+1133817,2018/03/06,Sri Lanka,2,150,101,Against India
+1133818,2018/03/08,Bangladesh,1,50,41,Against India
+1133818,2018/03/08,Bangladesh,1,100,89,Against India
+1133818,2018/03/08,Bangladesh,2,50,38,India
+1133818,2018/03/08,Bangladesh,2,100,79,India
+1133820,2018/03/12,Sri Lanka,1,50,31,Against India
+1133820,2018/03/12,Sri Lanka,1,100,65,Against India
+1133820,2018/03/12,Sri Lanka,1,150,109,Against India
+1133820,2018/03/12,Sri Lanka,2,50,36,India
+1133820,2018/03/12,Sri Lanka,2,100,71,India
+1133820,2018/03/12,Sri Lanka,2,150,104,India
+1133821,2018/03/14,Bangladesh,1,50,37,India
+1133821,2018/03/14,Bangladesh,1,100,81,India
+1133821,2018/03/14,Bangladesh,1,150,106,India
+1133821,2018/03/14,Bangladesh,2,50,38,Against India
+1133821,2018/03/14,Bangladesh,2,100,78,Against India
+1133821,2018/03/14,Bangladesh,2,150,115,Against India
+1133823,2018/03/18,Bangladesh,1,50,44,Against India
+1133823,2018/03/18,Bangladesh,1,100,84,Against India
+1133823,2018/03/18,Bangladesh,1,150,115,Against India
+1133823,2018/03/18,Bangladesh,2,50,32,India
+1133823,2018/03/18,Bangladesh,2,100,82,India
+1133823,2018/03/18,Bangladesh,2,150,113,India
+1140992,2018/06/27,Ireland,1,50,30,India
+1140992,2018/06/27,Ireland,1,100,61,India
+1140992,2018/06/27,Ireland,1,150,91,India
+1140992,2018/06/27,Ireland,1,200,114,India
+1140992,2018/06/27,Ireland,2,50,41,Against India
+1140992,2018/06/27,Ireland,2,100,81,Against India
+1140993,2018/06/29,Ireland,1,50,29,India
+1140993,2018/06/29,Ireland,1,100,60,India
+1140993,2018/06/29,Ireland,1,150,92,India
+1140993,2018/06/29,Ireland,1,200,117,India
+1140993,2018/06/29,Ireland,2,50,59,Against India
+1144990,2018/11/21,Australia,1,50,45,Against India
+1144990,2018/11/21,Australia,1,100,77,Against India
+1144990,2018/11/21,Australia,1,150,95,Against India
+1144990,2018/11/21,Australia,2,50,35,India
+1144990,2018/11/21,Australia,2,100,68,India
+1144990,2018/11/21,Australia,2,150,90,India
+1144991,2018/11/23,Australia,1,50,51,Against India
+1144991,2018/11/23,Australia,1,100,95,Against India
+1144992,2018/11/25,Australia,1,50,38,Against India
+1144992,2018/11/25,Australia,1,100,85,Against India
+1144992,2018/11/25,Australia,1,150,115,Against India
+1144992,2018/11/25,Australia,2,50,28,India
+1144992,2018/11/25,Australia,2,100,71,India
+1144992,2018/11/25,Australia,2,150,109,India
+1153696,2019/02/06,New Zealand,1,50,28,Against India
+1153696,2019/02/06,New Zealand,1,100,62,Against India
+1153696,2019/02/06,New Zealand,1,150,86,Against India
+1153696,2019/02/06,New Zealand,1,200,113,Against India
+1153696,2019/02/06,New Zealand,2,50,32,India
+1153696,2019/02/06,New Zealand,2,100,87,India
+1153697,2019/02/08,New Zealand,1,50,46,Against India
+1153697,2019/02/08,New Zealand,1,100,76,Against India
+1153697,2019/02/08,New Zealand,1,150,112,Against India
+1153697,2019/02/08,New Zealand,2,50,36,India
+1153697,2019/02/08,New Zealand,2,100,75,India
+1153697,2019/02/08,New Zealand,2,150,103,India
+1153698,2019/02/10,New Zealand,1,50,32,Against India
+1153698,2019/02/10,New Zealand,1,100,61,Against India
+1153698,2019/02/10,New Zealand,1,150,87,Against India
+1153698,2019/02/10,New Zealand,1,200,113,Against India
+1153698,2019/02/10,New Zealand,2,50,32,India
+1153698,2019/02/10,New Zealand,2,100,56,India
+1153698,2019/02/10,New Zealand,2,150,94,India
+1153698,2019/02/10,New Zealand,2,200,118,India
+1157759,2018/11/04,West Indies,1,50,62,Against India
+1157759,2018/11/04,West Indies,1,100,114,Against India
+1157759,2018/11/04,West Indies,2,50,53,India
+1157759,2018/11/04,West Indies,2,100,101,India
+1157760,2018/11/06,West Indies,1,50,37,India
+1157760,2018/11/06,West Indies,1,100,74,India
+1157760,2018/11/06,West Indies,1,150,104,India
+1157760,2018/11/06,West Indies,2,50,47,Against India
+1157760,2018/11/06,West Indies,2,100,105,Against India
+1157761,2018/11/11,West Indies,1,50,36,Against India
+1157761,2018/11/11,West Indies,1,100,84,Against India
+1157761,2018/11/11,West Indies,1,150,109,Against India
+1157761,2018/11/11,West Indies,2,50,35,India
+1157761,2018/11/11,West Indies,2,100,71,India
+1157761,2018/11/11,West Indies,2,150,93,India
+1168247,2019/02/24,Australia,1,50,37,India
+1168247,2019/02/24,Australia,1,100,89,India
+1168247,2019/02/24,Australia,2,50,48,Against India
+1168247,2019/02/24,Australia,2,100,91,Against India
+1168248,2019/02/27,Australia,1,50,35,India
+1168248,2019/02/27,Australia,1,100,85,India
+1168248,2019/02/27,Australia,1,150,107,India
+1168248,2019/02/27,Australia,2,50,41,Against India
+1168248,2019/02/27,Australia,2,100,70,Against India
+1168248,2019/02/27,Australia,2,150,98,Against India
+1187005,2019/09/18,South Africa,1,50,47,Against India
+1187005,2019/09/18,South Africa,1,100,81,Against India
+1187005,2019/09/18,South Africa,2,50,40,India
+1187005,2019/09/18,South Africa,2,100,77,India
+1187005,2019/09/18,South Africa,2,150,114,India
+1187006,2019/09/22,South Africa,1,50,32,India
+1187006,2019/09/22,South Africa,1,100,91,India
+1187006,2019/09/22,South Africa,2,50,43,Against India
+1187006,2019/09/22,South Africa,2,100,74,Against India
+1187013,2019/11/03,Bangladesh,1,50,46,India
+1187013,2019/11/03,Bangladesh,1,100,94,India
+1187013,2019/11/03,Bangladesh,2,50,39,Against India
+1187013,2019/11/03,Bangladesh,2,100,91,Against India
+1187013,2019/11/03,Bangladesh,2,150,117,Against India
+1187014,2019/11/07,Bangladesh,1,50,34,Against India
+1187014,2019/11/07,Bangladesh,1,100,75,Against India
+1187014,2019/11/07,Bangladesh,1,150,118,Against India
+1187014,2019/11/07,Bangladesh,2,50,32,India
+1187014,2019/11/07,Bangladesh,2,100,56,India
+1187014,2019/11/07,Bangladesh,2,150,89,India
+1187015,2019/11/10,Bangladesh,1,50,43,India
+1187015,2019/11/10,Bangladesh,1,100,80,India
+1187015,2019/11/10,Bangladesh,1,150,106,India
+1187015,2019/11/10,Bangladesh,2,50,45,Against India
+1187015,2019/11/10,Bangladesh,2,100,71,Against India
+1187018,2019/12/06,West Indies,1,50,29,Against India
+1187018,2019/12/06,West Indies,1,100,59,Against India
+1187018,2019/12/06,West Indies,1,150,93,Against India
+1187018,2019/12/06,West Indies,1,200,117,Against India
+1187018,2019/12/06,West Indies,2,50,36,India
+1187018,2019/12/06,West Indies,2,100,70,India
+1187018,2019/12/06,West Indies,2,150,86,India
+1187018,2019/12/06,West Indies,2,200,110,India
+1187019,2019/12/08,West Indies,1,50,43,India
+1187019,2019/12/08,West Indies,1,100,66,India
+1187019,2019/12/08,West Indies,1,150,102,India
+1187019,2019/12/08,West Indies,2,50,39,Against India
+1187019,2019/12/08,West Indies,2,100,79,Against India
+1187019,2019/12/08,West Indies,2,150,102,Against India
+1187020,2019/12/11,West Indies,1,50,25,India
+1187020,2019/12/11,West Indies,1,100,48,India
+1187020,2019/12/11,West Indies,1,150,84,India
+1187020,2019/12/11,West Indies,1,200,106,India
+1187020,2019/12/11,West Indies,2,50,38,Against India
+1187020,2019/12/11,West Indies,2,100,64,Against India
+1187020,2019/12/11,West Indies,2,150,99,Against India
+1187677,2020/01/24,New Zealand,1,50,27,Against India
+1187677,2020/01/24,New Zealand,1,100,65,Against India
+1187677,2020/01/24,New Zealand,1,150,93,Against India
+1187677,2020/01/24,New Zealand,1,200,118,Against India
+1187677,2020/01/24,New Zealand,2,50,29,India
+1187677,2020/01/24,New Zealand,2,100,52,India
+1187677,2020/01/24,New Zealand,2,150,89,India
+1187677,2020/01/24,New Zealand,2,200,114,India
+1187678,2020/01/26,New Zealand,1,50,38,Against India
+1187678,2020/01/26,New Zealand,1,100,93,Against India
+1187678,2020/01/26,New Zealand,2,50,49,India
+1187678,2020/01/26,New Zealand,2,100,88,India
+1187679,2020/01/29,New Zealand,1,50,33,India
+1187679,2020/01/29,New Zealand,1,100,73,India
+1187679,2020/01/29,New Zealand,1,150,107,India
+1187679,2020/01/29,New Zealand,2,50,35,Against India
+1187679,2020/01/29,New Zealand,2,100,76,Against India
+1187679,2020/01/29,New Zealand,2,150,102,Against India
+1187680,2020/01/31,New Zealand,1,50,29,India
+1187680,2020/01/31,New Zealand,1,100,79,India
+1187680,2020/01/31,New Zealand,1,150,113,India
+1187680,2020/01/31,New Zealand,2,50,46,Against India
+1187680,2020/01/31,New Zealand,2,100,76,Against India
+1187680,2020/01/31,New Zealand,2,150,105,Against India
+1187681,2020/02/02,New Zealand,1,50,31,India
+1187681,2020/02/02,New Zealand,1,100,71,India
+1187681,2020/02/02,New Zealand,1,150,116,India
+1187681,2020/02/02,New Zealand,2,50,47,Against India
+1187681,2020/02/02,New Zealand,2,100,63,Against India
+1187681,2020/02/02,New Zealand,2,150,118,Against India
+1188621,2019/08/03,West Indies,1,50,70,Against India
+1188621,2019/08/03,West Indies,2,50,57,India
+1188622,2019/08/04,West Indies,1,50,35,India
+1188622,2019/08/04,West Indies,1,100,73,India
+1188622,2019/08/04,West Indies,1,150,115,India
+1188622,2019/08/04,West Indies,2,50,49,Against India
+1188623,2019/08/06,West Indies,1,50,55,Against India
+1188623,2019/08/06,West Indies,1,100,90,Against India
+1188623,2019/08/06,West Indies,2,50,46,India
+1188623,2019/08/06,West Indies,2,100,88,India
+1188623,2019/08/06,West Indies,2,150,115,India
+1202243,2020/01/07,Sri Lanka,1,50,39,Against India
+1202243,2020/01/07,Sri Lanka,1,100,82,Against India
+1202243,2020/01/07,Sri Lanka,2,50,31,India
+1202243,2020/01/07,Sri Lanka,2,100,86,India
+1202244,2020/01/10,Sri Lanka,1,50,30,India
+1202244,2020/01/10,Sri Lanka,1,100,66,India
+1202244,2020/01/10,Sri Lanka,1,150,98,India
+1202244,2020/01/10,Sri Lanka,1,200,120,India
+1202244,2020/01/10,Sri Lanka,2,50,50,Against India
+1202244,2020/01/10,Sri Lanka,2,100,74,Against India
+1223952,2020/12/04,Australia,1,50,42,India
+1223952,2020/12/04,Australia,1,100,93,India
+1223952,2020/12/04,Australia,1,150,114,India
+1223952,2020/12/04,Australia,2,50,35,Against India
+1223952,2020/12/04,Australia,2,100,81,Against India
+1223952,2020/12/04,Australia,2,150,120,Against India
+1223953,2020/12/06,Australia,1,50,31,Against India
+1223953,2020/12/06,Australia,1,100,66,Against India
+1223953,2020/12/06,Australia,1,150,95,Against India
+1223953,2020/12/06,Australia,2,50,29,India
+1223953,2020/12/06,Australia,2,100,71,India
+1223953,2020/12/06,Australia,2,150,98,India
+1223954,2020/12/08,Australia,1,50,35,Against India
+1223954,2020/12/08,Australia,1,100,71,Against India
+1223954,2020/12/08,Australia,1,150,101,Against India
+1223954,2020/12/08,Australia,2,50,34,India
+1223954,2020/12/08,Australia,2,100,77,India
+1223954,2020/12/08,Australia,2,150,107,India
+1243388,2021/03/12,England,1,50,62,India
+1243388,2021/03/12,England,1,100,102,India
+1243388,2021/03/12,England,2,50,36,Against India
+1243388,2021/03/12,England,2,100,76,Against India
+1243389,2021/03/14,England,1,50,41,Against India
+1243389,2021/03/14,England,1,100,74,Against India
+1243389,2021/03/14,England,1,150,109,Against India
+1243389,2021/03/14,England,2,50,36,India
+1243389,2021/03/14,England,2,100,67,India
+1243389,2021/03/14,England,2,150,100,India
+1243390,2021/03/16,England,1,50,56,India
+1243390,2021/03/16,England,1,100,96,India
+1243390,2021/03/16,England,1,150,117,India
+1243390,2021/03/16,England,2,50,32,Against India
+1243390,2021/03/16,England,2,100,71,Against India
+1243390,2021/03/16,England,2,150,107,Against India
+1243391,2021/03/18,England,1,50,40,India
+1243391,2021/03/18,England,1,100,76,India
+1243391,2021/03/18,England,1,150,103,India
+1243391,2021/03/18,England,2,50,37,Against India
+1243391,2021/03/18,England,2,100,77,Against India
+1243391,2021/03/18,England,2,150,104,Against India
+1243392,2021/03/20,England,1,50,32,India
+1243392,2021/03/20,England,1,100,58,India
+1243392,2021/03/20,England,1,150,88,India
+1243392,2021/03/20,England,1,200,110,India
+1243392,2021/03/20,England,2,50,27,Against India
+1243392,2021/03/20,England,2,100,56,Against India
+1243392,2021/03/20,England,2,150,99,Against India
+1262758,2021/07/25,Sri Lanka,1,50,34,India
+1262758,2021/07/25,Sri Lanka,1,100,71,India
+1262758,2021/07/25,Sri Lanka,1,150,109,India
+1262758,2021/07/25,Sri Lanka,2,50,40,Against India
+1262758,2021/07/25,Sri Lanka,2,100,83,Against India
+1262759,2021/07/28,Sri Lanka,1,50,46,India
+1262759,2021/07/28,Sri Lanka,1,100,95,India
+1262759,2021/07/28,Sri Lanka,2,50,53,Against India
+1262759,2021/07/28,Sri Lanka,2,100,98,Against India
+1262760,2021/07/29,Sri Lanka,1,50,81,India
+1262760,2021/07/29,Sri Lanka,2,50,68,Against India
+1273727,2021/10/24,Pakistan,1,50,54,India
+1273727,2021/10/24,Pakistan,1,100,90,India
+1273727,2021/10/24,Pakistan,1,150,119,India
+1273727,2021/10/24,Pakistan,2,50,46,Against India
+1273727,2021/10/24,Pakistan,2,100,77,Against India
+1273727,2021/10/24,Pakistan,2,150,106,Against India
+1273739,2021/10/31,New Zealand,1,50,64,India
+1273739,2021/10/31,New Zealand,1,100,115,India
+1273739,2021/10/31,New Zealand,2,50,41,Against India
+1273739,2021/10/31,New Zealand,2,100,82,Against India
+1273748,2021/11/05,Scotland,1,50,62,Against India
+1273748,2021/11/05,Scotland,2,50,23,India
+1273753,2021/11/08,Namibia,1,50,57,Against India
+1273753,2021/11/08,Namibia,1,100,100,Against India
+1273753,2021/11/08,Namibia,2,50,33,India
+1273753,2021/11/08,Namibia,2,100,69,India
+1276904,2022/07/07,England,1,50,30,India
+1276904,2022/07/07,England,1,100,58,India
+1276904,2022/07/07,England,1,150,84,India
+1276904,2022/07/07,England,2,50,45,Against India
+1276904,2022/07/07,England,2,100,75,Against India
+1276905,2022/07/09,England,1,50,31,India
+1276905,2022/07/09,England,1,100,78,India
+1276905,2022/07/09,England,1,150,107,India
+1276905,2022/07/09,England,2,50,50,Against India
+1276905,2022/07/09,England,2,100,89,Against India
+1276906,2022/07/10,England,1,50,34,Against India
+1276906,2022/07/10,England,1,100,67,Against India
+1276906,2022/07/10,England,1,150,87,Against India
+1276906,2022/07/10,England,1,200,115,Against India
+1276906,2022/07/10,England,2,50,43,India
+1276906,2022/07/10,England,2,100,73,India
+1276906,2022/07/10,England,2,150,90,India
+1278671,2021/11/17,New Zealand,1,50,44,Against India
+1278671,2021/11/17,New Zealand,1,100,76,Against India
+1278671,2021/11/17,New Zealand,1,150,103,Against India
+1278671,2021/11/17,New Zealand,2,50,29,India
+1278671,2021/11/17,New Zealand,2,100,69,India
+1278671,2021/11/17,New Zealand,2,150,109,India
+1278672,2021/11/19,New Zealand,1,50,27,Against India
+1278672,2021/11/19,New Zealand,1,100,78,Against India
+1278672,2021/11/19,New Zealand,1,150,116,Against India
+1278672,2021/11/19,New Zealand,2,50,40,India
+1278672,2021/11/19,New Zealand,2,100,70,India
+1278672,2021/11/19,New Zealand,2,150,104,India
+1278673,2021/11/21,New Zealand,1,50,31,India
+1278673,2021/11/21,New Zealand,1,100,66,India
+1278673,2021/11/21,New Zealand,1,150,105,India
+1278673,2021/11/21,New Zealand,2,50,50,Against India
+1278673,2021/11/21,New Zealand,2,100,98,Against India
+1278679,2022/02/16,West Indies,1,50,37,Against India
+1278679,2022/02/16,West Indies,1,100,93,Against India
+1278679,2022/02/16,West Indies,1,150,115,Against India
+1278679,2022/02/16,West Indies,2,50,27,India
+1278679,2022/02/16,West Indies,2,100,77,India
+1278679,2022/02/16,West Indies,2,150,109,India
+1278680,2022/02/18,West Indies,1,50,37,India
+1278680,2022/02/18,West Indies,1,100,80,India
+1278680,2022/02/18,West Indies,1,150,101,India
+1278680,2022/02/18,West Indies,2,50,38,Against India
+1278680,2022/02/18,West Indies,2,100,75,Against India
+1278680,2022/02/18,West Indies,2,150,102,Against India
+1278681,2022/02/20,West Indies,1,50,41,India
+1278681,2022/02/20,West Indies,1,100,91,India
+1278681,2022/02/20,West Indies,1,150,110,India
+1278681,2022/02/20,West Indies,2,50,26,Against India
+1278681,2022/02/20,West Indies,2,100,69,Against India
+1278681,2022/02/20,West Indies,2,150,104,Against India
+1278684,2022/02/24,Sri Lanka,1,50,32,India
+1278684,2022/02/24,Sri Lanka,1,100,62,India
+1278684,2022/02/24,Sri Lanka,1,150,98,India
+1278684,2022/02/24,Sri Lanka,2,50,54,Against India
+1278684,2022/02/24,Sri Lanka,2,100,98,Against India
+1278685,2022/02/26,Sri Lanka,1,50,48,Against India
+1278685,2022/02/26,Sri Lanka,1,100,87,Against India
+1278685,2022/02/26,Sri Lanka,1,150,110,Against India
+1278685,2022/02/26,Sri Lanka,2,50,39,India
+1278685,2022/02/26,Sri Lanka,2,100,69,India
+1278685,2022/02/26,Sri Lanka,2,150,88,India
+1278686,2022/02/27,Sri Lanka,1,50,64,Against India
+1278686,2022/02/27,Sri Lanka,1,100,101,Against India
+1278686,2022/02/27,Sri Lanka,2,50,37,India
+1278686,2022/02/27,Sri Lanka,2,100,69,India
+1278687,2022/06/09,South Africa,1,50,35,India
+1278687,2022/06/09,South Africa,1,100,58,India
+1278687,2022/06/09,South Africa,1,150,90,India
+1278687,2022/06/09,South Africa,1,200,114,India
+1278687,2022/06/09,South Africa,2,50,27,Against India
+1278687,2022/06/09,South Africa,2,100,71,Against India
+1278687,2022/06/09,South Africa,2,150,92,Against India
+1278687,2022/06/09,South Africa,2,200,108,Against India
+1278688,2022/06/12,South Africa,1,50,42,India
+1278688,2022/06/12,South Africa,1,100,86,India
+1278688,2022/06/12,South Africa,2,50,55,Against India
+1278688,2022/06/12,South Africa,2,100,81,Against India
+1278689,2022/06/14,South Africa,1,50,33,India
+1278689,2022/06/14,South Africa,1,100,65,India
+1278689,2022/06/14,South Africa,1,150,105,India
+1278689,2022/06/14,South Africa,2,50,50,Against India
+1278689,2022/06/14,South Africa,2,100,88,Against India
+1278690,2022/06/17,South Africa,1,50,46,India
+1278690,2022/06/17,South Africa,1,100,91,India
+1278690,2022/06/17,South Africa,1,150,111,India
+1278690,2022/06/17,South Africa,2,50,54,Against India
+1298150,2022/10/23,Pakistan,1,50,54,Against India
+1298150,2022/10/23,Pakistan,1,100,85,Against India
+1298150,2022/10/23,Pakistan,1,150,114,Against India
+1298150,2022/10/23,Pakistan,2,50,63,India
+1298150,2022/10/23,Pakistan,2,100,90,India
+1298150,2022/10/23,Pakistan,2,150,117,India
+1298157,2022/10/27,Netherlands,1,50,51,India
+1298157,2022/10/27,Netherlands,1,100,80,India
+1298157,2022/10/27,Netherlands,1,150,107,India
+1298157,2022/10/27,Netherlands,2,50,58,Against India
+1298157,2022/10/27,Netherlands,2,100,106,Against India
+1298164,2022/10/30,South Africa,1,50,53,India
+1298164,2022/10/30,South Africa,1,100,89,India
+1298164,2022/10/30,South Africa,2,50,64,Against India
+1298164,2022/10/30,South Africa,2,100,93,Against India
+1298169,2022/11/02,Bangladesh,1,50,46,India
+1298169,2022/11/02,Bangladesh,1,100,71,India
+1298169,2022/11/02,Bangladesh,1,150,101,India
+1298169,2022/11/02,Bangladesh,2,50,32,Against India
+1298169,2022/11/02,Bangladesh,2,100,69,Against India
+1298176,2022/11/06,Zimbabwe,1,50,38,India
+1298176,2022/11/06,Zimbabwe,1,100,80,India
+1298176,2022/11/06,Zimbabwe,1,150,108,India
+1298176,2022/11/06,Zimbabwe,2,50,57,Against India
+1298176,2022/11/06,Zimbabwe,2,100,87,Against India
+1298178,2022/11/10,England,1,50,47,India
+1298178,2022/11/10,England,1,100,90,India
+1298178,2022/11/10,England,1,150,113,India
+1298178,2022/11/10,England,2,50,29,Against India
+1298178,2022/11/10,England,2,100,61,Against India
+1298178,2022/11/10,England,2,150,83,Against India
+1303307,2022/06/26,Ireland,1,50,36,Against India
+1303307,2022/06/26,Ireland,1,100,70,Against India
+1303307,2022/06/26,Ireland,2,50,31,India
+1303307,2022/06/26,Ireland,2,100,54,India
+1303308,2022/06/28,Ireland,1,50,33,India
+1303308,2022/06/28,Ireland,1,100,61,India
+1303308,2022/06/28,Ireland,1,150,81,India
+1303308,2022/06/28,Ireland,1,200,102,India
+1303308,2022/06/28,Ireland,2,50,23,Against India
+1303308,2022/06/28,Ireland,2,100,54,Against India
+1303308,2022/06/28,Ireland,2,150,86,Against India
+1303308,2022/06/28,Ireland,2,200,111,Against India
+1317903,2022/07/29,West Indies,1,50,42,India
+1317903,2022/07/29,West Indies,1,100,69,India
+1317903,2022/07/29,West Indies,1,150,105,India
+1317903,2022/07/29,West Indies,2,50,41,Against India
+1317903,2022/07/29,West Indies,2,100,96,Against India
+1317904,2022/08/01,West Indies,1,50,33,India
+1317904,2022/08/01,West Indies,1,100,77,India
+1317904,2022/08/01,West Indies,2,50,41,Against India
+1317904,2022/08/01,West Indies,2,100,89,Against India
+1317905,2022/08/02,West Indies,1,50,38,Against India
+1317905,2022/08/02,West Indies,1,100,85,Against India
+1317905,2022/08/02,West Indies,1,150,114,Against India
+1317905,2022/08/02,West Indies,2,50,32,India
+1317905,2022/08/02,West Indies,2,100,63,India
+1317905,2022/08/02,West Indies,2,150,105,India
+1317906,2022/08/06,West Indies,1,50,27,India
+1317906,2022/08/06,West Indies,1,100,63,India
+1317906,2022/08/06,West Indies,1,150,95,India
+1317906,2022/08/06,West Indies,2,50,31,Against India
+1317906,2022/08/06,West Indies,2,100,66,Against India
+1317907,2022/08/07,West Indies,1,50,34,India
+1317907,2022/08/07,West Indies,1,100,62,India
+1317907,2022/08/07,West Indies,1,150,97,India
+1317907,2022/08/07,West Indies,2,50,46,Against India
+1317907,2022/08/07,West Indies,2,100,89,Against India
+1322276,2022/11/20,New Zealand,1,50,38,India
+1322276,2022/11/20,New Zealand,1,100,73,India
+1322276,2022/11/20,New Zealand,1,150,104,India
+1322276,2022/11/20,New Zealand,2,50,43,Against India
+1322276,2022/11/20,New Zealand,2,100,97,Against India
+1322277,2022/11/22,New Zealand,1,50,44,Against India
+1322277,2022/11/22,New Zealand,1,100,78,Against India
+1322277,2022/11/22,New Zealand,1,150,112,Against India
+1322277,2022/11/22,New Zealand,2,50,28,India
+1327270,2022/08/28,Pakistan,1,50,41,Against India
+1327270,2022/08/28,Pakistan,1,100,88,Against India
+1327270,2022/08/28,Pakistan,2,50,46,India
+1327270,2022/08/28,Pakistan,2,100,93,India
+1327272,2022/08/31,Hong Kong,1,50,41,India
+1327272,2022/08/31,Hong Kong,1,100,81,India
+1327272,2022/08/31,Hong Kong,1,150,106,India
+1327272,2022/08/31,Hong Kong,2,50,35,Against India
+1327272,2022/08/31,Hong Kong,2,100,87,Against India
+1327272,2022/08/31,Hong Kong,2,150,118,Against India
+1327276,2022/09/04,Pakistan,1,50,26,India
+1327276,2022/09/04,Pakistan,1,100,64,India
+1327276,2022/09/04,Pakistan,1,150,103,India
+1327276,2022/09/04,Pakistan,2,50,40,Against India
+1327276,2022/09/04,Pakistan,2,100,74,Against India
+1327276,2022/09/04,Pakistan,2,150,104,Against India
+1327277,2022/09/06,Sri Lanka,1,50,43,India
+1327277,2022/09/06,Sri Lanka,1,100,71,India
+1327277,2022/09/06,Sri Lanka,1,150,105,India
+1327277,2022/09/06,Sri Lanka,2,50,32,Against India
+1327277,2022/09/06,Sri Lanka,2,100,75,Against India
+1327277,2022/09/06,Sri Lanka,2,150,107,Against India
+1327503,2022/09/20,Australia,1,50,39,India
+1327503,2022/09/20,Australia,1,100,70,India
+1327503,2022/09/20,Australia,1,150,97,India
+1327503,2022/09/20,Australia,1,200,119,India
+1327503,2022/09/20,Australia,2,50,32,Against India
+1327503,2022/09/20,Australia,2,100,56,Against India
+1327503,2022/09/20,Australia,2,150,93,Against India
+1327503,2022/09/20,Australia,2,200,113,Against India
+1327504,2022/09/23,Australia,1,50,31,Against India
+1327504,2022/09/23,Australia,2,50,23,India
+1327505,2022/09/25,Australia,1,50,23,Against India
+1327505,2022/09/25,Australia,1,100,72,Against India
+1327505,2022/09/25,Australia,1,150,106,Against India
+1327505,2022/09/25,Australia,2,50,36,India
+1327505,2022/09/25,Australia,2,100,66,India
+1327505,2022/09/25,Australia,2,150,97,India
+1327506,2022/09/28,South Africa,1,50,67,Against India
+1327506,2022/09/28,South Africa,1,100,114,Against India
+1327506,2022/09/28,South Africa,2,50,61,India
+1327506,2022/09/28,South Africa,2,100,94,India
+1327507,2022/10/02,South Africa,1,50,33,India
+1327507,2022/10/02,South Africa,1,100,63,India
+1327507,2022/10/02,South Africa,1,150,90,India
+1327507,2022/10/02,South Africa,1,200,104,India
+1327507,2022/10/02,South Africa,2,50,43,Against India
+1327507,2022/10/02,South Africa,2,100,72,Against India
+1327507,2022/10/02,South Africa,2,150,92,Against India
+1327507,2022/10/02,South Africa,2,200,114,Against India
+1327508,2022/10/04,South Africa,1,50,38,Against India
+1327508,2022/10/04,South Africa,1,100,61,Against India
+1327508,2022/10/04,South Africa,1,150,88,Against India
+1327508,2022/10/04,South Africa,1,200,112,Against India
+1327508,2022/10/04,South Africa,2,50,32,India
+1327508,2022/10/04,South Africa,2,100,62,India
+1327508,2022/10/04,South Africa,2,150,91,India
+1348640,2023/01/03,Sri Lanka,1,50,43,India
+1348640,2023/01/03,Sri Lanka,1,100,90,India
+1348640,2023/01/03,Sri Lanka,1,150,115,India
+1348640,2023/01/03,Sri Lanka,2,50,49,Against India
+1348640,2023/01/03,Sri Lanka,2,100,83,Against India
+1348640,2023/01/03,Sri Lanka,2,150,114,Against India
+1348641,2023/01/05,Sri Lanka,1,50,31,Against India
+1348641,2023/01/05,Sri Lanka,1,100,74,Against India
+1348641,2023/01/05,Sri Lanka,1,150,103,Against India
+1348641,2023/01/05,Sri Lanka,1,200,118,Against India
+1348641,2023/01/05,Sri Lanka,2,50,45,India
+1348641,2023/01/05,Sri Lanka,2,100,79,India
+1348641,2023/01/05,Sri Lanka,2,150,99,India
+1348642,2023/01/07,Sri Lanka,1,50,34,India
+1348642,2023/01/07,Sri Lanka,1,100,64,India
+1348642,2023/01/07,Sri Lanka,1,150,83,India
+1348642,2023/01/07,Sri Lanka,1,200,108,India
+1348642,2023/01/07,Sri Lanka,2,50,36,Against India
+1348642,2023/01/07,Sri Lanka,2,100,71,Against India
+1348649,2023/01/27,New Zealand,1,50,40,Against India
+1348649,2023/01/27,New Zealand,1,100,75,Against India
+1348649,2023/01/27,New Zealand,1,150,114,Against India
+1348649,2023/01/27,New Zealand,2,50,46,India
+1348649,2023/01/27,New Zealand,2,100,85,India
+1348649,2023/01/27,New Zealand,2,150,116,India
+1348650,2023/01/29,New Zealand,1,50,62,Against India
+1348650,2023/01/29,New Zealand,2,50,61,India
+1348650,2023/01/29,New Zealand,2,100,119,India
+1348651,2023/02/01,New Zealand,1,50,33,India
+1348651,2023/02/01,New Zealand,1,100,58,India
+1348651,2023/02/01,New Zealand,1,150,87,India
+1348651,2023/02/01,New Zealand,1,200,104,India
+1348651,2023/02/01,New Zealand,2,50,48,Against India
+1381217,2023/08/03,West Indies,1,50,35,Against India
+1381217,2023/08/03,West Indies,1,100,86,Against India
+1381217,2023/08/03,West Indies,2,50,42,India
+1381217,2023/08/03,West Indies,2,100,85,India
+1381218,2023/08/06,West Indies,1,50,49,India
+1381218,2023/08/06,West Indies,1,100,86,India
+1381218,2023/08/06,West Indies,1,150,118,India
+1381218,2023/08/06,West Indies,2,50,32,Against India
+1381218,2023/08/06,West Indies,2,100,69,Against India
+1381218,2023/08/06,West Indies,2,150,112,Against India
+1381219,2023/08/08,West Indies,1,50,42,Against India
+1381219,2023/08/08,West Indies,1,100,82,Against India
+1381219,2023/08/08,West Indies,1,150,118,Against India
+1381219,2023/08/08,West Indies,2,50,33,India
+1381219,2023/08/08,West Indies,2,100,63,India
+1381219,2023/08/08,West Indies,2,150,98,India
+1381220,2023/08/12,West Indies,1,50,33,Against India
+1381220,2023/08/12,West Indies,1,100,70,Against India
+1381220,2023/08/12,West Indies,1,150,106,Against India
+1381220,2023/08/12,West Indies,2,50,30,India
+1381220,2023/08/12,West Indies,2,100,60,India
+1381220,2023/08/12,West Indies,2,150,84,India
+1381221,2023/08/13,West Indies,1,50,35,India
+1381221,2023/08/13,West Indies,1,100,81,India
+1381221,2023/08/13,West Indies,1,150,116,India
+1381221,2023/08/13,West Indies,2,50,31,Against India
+1381221,2023/08/13,West Indies,2,100,61,Against India
+1381221,2023/08/13,West Indies,2,150,99,Against India
+1384634,2023/08/18,Ireland,1,50,54,Against India
+1384634,2023/08/18,Ireland,1,100,97,Against India
+1384637,2023/08/20,Ireland,1,50,40,India
+1384637,2023/08/20,Ireland,1,100,67,India
+1384637,2023/08/20,Ireland,1,150,111,India
+1384637,2023/08/20,Ireland,2,50,48,Against India
+1384637,2023/08/20,Ireland,2,100,83,Against India
+1384637,2023/08/20,Ireland,2,150,120,Against India
+1387598,2023/12/12,South Africa,1,50,30,India
+1387598,2023/12/12,South Africa,1,100,66,India
+1387598,2023/12/12,South Africa,1,150,98,India
+1387598,2023/12/12,South Africa,2,50,22,Against India
+1387598,2023/12/12,South Africa,2,100,49,Against India
+1387598,2023/12/12,South Africa,2,150,83,Against India
+1387599,2023/12/14,South Africa,1,50,26,India
+1387599,2023/12/14,South Africa,1,100,68,India
+1387599,2023/12/14,South Africa,1,150,92,India
+1387599,2023/12/14,South Africa,1,200,120,India
+1387599,2023/12/14,South Africa,2,50,47,Against India
+1389391,2023/11/23,Australia,1,50,43,Against India
+1389391,2023/11/23,Australia,1,100,69,Against India
+1389391,2023/11/23,Australia,1,150,90,Against India
+1389391,2023/11/23,Australia,1,200,113,Against India
+1389391,2023/11/23,Australia,2,50,29,India
+1389391,2023/11/23,Australia,2,100,55,India
+1389391,2023/11/23,Australia,2,150,86,India
+1389391,2023/11/23,Australia,2,200,113,India
+1389392,2023/11/26,Australia,1,50,23,India
+1389392,2023/11/26,Australia,1,100,59,India
+1389392,2023/11/26,Australia,1,150,85,India
+1389392,2023/11/26,Australia,1,200,111,India
+1389392,2023/11/26,Australia,2,50,33,Against India
+1389392,2023/11/26,Australia,2,100,57,Against India
+1389392,2023/11/26,Australia,2,150,92,Against India
+1389393,2023/11/28,Australia,1,50,41,India
+1389393,2023/11/28,Australia,1,100,72,India
+1389393,2023/11/28,Australia,1,150,97,India
+1389393,2023/11/28,Australia,1,200,115,India
+1389393,2023/11/28,Australia,2,50,27,Against India
+1389393,2023/11/28,Australia,2,100,57,Against India
+1389393,2023/11/28,Australia,2,150,91,Against India
+1389393,2023/11/28,Australia,2,200,114,Against India
+1389394,2023/12/01,Australia,1,50,34,India
+1389394,2023/12/01,Australia,1,100,76,India
+1389394,2023/12/01,Australia,1,150,103,India
+1389394,2023/12/01,Australia,2,50,34,Against India
+1389394,2023/12/01,Australia,2,100,85,Against India
+1389394,2023/12/01,Australia,2,150,118,Against India
+1389395,2023/12/03,Australia,1,50,49,India
+1389395,2023/12/03,Australia,1,100,85,India
+1389395,2023/12/03,Australia,1,150,116,India
+1389395,2023/12/03,Australia,2,50,35,Against India
+1389395,2023/12/03,Australia,2,100,77,Against India
+1389395,2023/12/03,Australia,2,150,111,Against India
+1399113,2023/10/03,Nepal,1,50,23,India
+1399113,2023/10/03,Nepal,1,100,55,India
+1399113,2023/10/03,Nepal,1,150,97,India
+1399113,2023/10/03,Nepal,1,200,119,India
+1399113,2023/10/03,Nepal,2,50,45,Against India
+1399113,2023/10/03,Nepal,2,100,80,Against India
+1399113,2023/10/03,Nepal,2,150,98,Against India
+1399117,2023/10/06,Bangladesh,1,50,70,Against India
+1399117,2023/10/06,Bangladesh,2,50,22,India
+1415708,2024/06/05,Ireland,1,50,67,Against India
+1415708,2024/06/05,Ireland,2,50,47,India
+1415719,2024/06/09,Pakistan,1,50,35,India
+1415719,2024/06/09,Pakistan,1,100,96,India
+1415719,2024/06/09,Pakistan,2,50,53,Against India
+1415719,2024/06/09,Pakistan,2,100,109,Against India
+1415725,2024/06/12,United States of America,1,50,67,Against India
+1415725,2024/06/12,United States of America,1,100,107,Against India
+1415725,2024/06/12,United States of America,2,50,66,India
+1415725,2024/06/12,United States of America,2,100,101,India
+1415747,2024/06/22,Bangladesh,1,50,35,India
+1415747,2024/06/22,Bangladesh,1,100,68,India
+1415747,2024/06/22,Bangladesh,1,150,100,India
+1415747,2024/06/22,Bangladesh,2,50,47,Against India
+1415747,2024/06/22,Bangladesh,2,100,84,Against India
+1415751,2024/06/24,Australia,1,50,29,India
+1415751,2024/06/24,Australia,1,100,52,India
+1415751,2024/06/24,Australia,1,150,82,India
+1415751,2024/06/24,Australia,1,200,118,India
+1415751,2024/06/24,Australia,2,50,32,Against India
+1415751,2024/06/24,Australia,2,100,61,Against India
+1415751,2024/06/24,Australia,2,150,98,Against India
+1415754,2024/06/27,England,1,50,37,India
+1415754,2024/06/27,England,1,100,75,India
+1415754,2024/06/27,England,1,150,110,India
+1415754,2024/06/27,England,2,50,50,Against India
+1415754,2024/06/27,England,2,100,96,Against India
+1415755,2024/06/29,South Africa,1,50,43,India
+1415755,2024/06/29,South Africa,1,100,79,India
+1415755,2024/06/29,South Africa,1,150,108,India
+1415755,2024/06/29,South Africa,2,50,43,Against India
+1415755,2024/06/29,South Africa,2,100,69,Against India
+1415755,2024/06/29,South Africa,2,150,92,Against India
+1420223,2024/07/06,Zimbabwe,1,50,46,Against India
+1420223,2024/07/06,Zimbabwe,1,100,109,Against India
+1420223,2024/07/06,Zimbabwe,2,50,64,India
+1420223,2024/07/06,Zimbabwe,2,100,113,India
+1420224,2024/07/07,Zimbabwe,1,50,49,India
+1420224,2024/07/07,Zimbabwe,1,100,66,India
+1420224,2024/07/07,Zimbabwe,1,150,87,India
+1420224,2024/07/07,Zimbabwe,1,200,112,India
+1420224,2024/07/07,Zimbabwe,2,50,30,Against India
+1420224,2024/07/07,Zimbabwe,2,100,89,Against India
+1420225,2024/07/10,Zimbabwe,1,50,25,India
+1420225,2024/07/10,Zimbabwe,1,100,76,India
+1420225,2024/07/10,Zimbabwe,1,150,104,India
+1420225,2024/07/10,Zimbabwe,2,50,55,Against India
+1420225,2024/07/10,Zimbabwe,2,100,86,Against India
+1420225,2024/07/10,Zimbabwe,2,150,117,Against India
+1420226,2024/07/13,Zimbabwe,1,50,43,Against India
+1420226,2024/07/13,Zimbabwe,1,100,92,Against India
+1420226,2024/07/13,Zimbabwe,1,150,118,Against India
+1420226,2024/07/13,Zimbabwe,2,50,23,India
+1420226,2024/07/13,Zimbabwe,2,100,58,India
+1420226,2024/07/13,Zimbabwe,2,150,89,India
+1420227,2024/07/14,Zimbabwe,1,50,43,India
+1420227,2024/07/14,Zimbabwe,1,100,76,India
+1420227,2024/07/14,Zimbabwe,1,150,114,India
+1420227,2024/07/14,Zimbabwe,2,50,40,Against India
+1420227,2024/07/14,Zimbabwe,2,100,98,Against India
+1439893,2024/10/06,Bangladesh,1,50,53,Against India
+1439893,2024/10/06,Bangladesh,1,100,90,Against India
+1439893,2024/10/06,Bangladesh,2,50,28,India
+1439893,2024/10/06,Bangladesh,2,100,57,India
+1439894,2024/10/09,Bangladesh,1,50,40,India
+1439894,2024/10/09,Bangladesh,1,100,60,India
+1439894,2024/10/09,Bangladesh,1,150,82,India
+1439894,2024/10/09,Bangladesh,1,200,110,India
+1439894,2024/10/09,Bangladesh,2,50,45,Against India
+1439894,2024/10/09,Bangladesh,2,100,88,Against India
+1439895,2024/10/12,Bangladesh,1,50,26,India
+1439895,2024/10/12,Bangladesh,1,100,43,India
+1439895,2024/10/12,Bangladesh,1,150,60,India
+1439895,2024/10/12,Bangladesh,1,200,84,India
+1439895,2024/10/12,Bangladesh,1,250,100,India
+1439895,2024/10/12,Bangladesh,2,50,28,Against India
+1439895,2024/10/12,Bangladesh,2,100,64,Against India
+1439895,2024/10/12,Bangladesh,2,150,107,Against India
+1439899,2025/01/22,England,1,50,38,Against India
+1439899,2025/01/22,England,1,100,95,Against India
+1439899,2025/01/22,England,2,50,31,India
+1439899,2025/01/22,England,2,100,60,India
+1439900,2025/01/25,England,1,50,31,Against India
+1439900,2025/01/25,England,1,100,73,Against India
+1439900,2025/01/25,England,1,150,108,Against India
+1439900,2025/01/25,England,2,50,28,India
+1439900,2025/01/25,England,2,100,76,India
+1439900,2025/01/25,England,2,150,107,India
+1439901,2025/01/28,England,1,50,31,Against India
+1439901,2025/01/28,England,1,100,70,Against India
+1439901,2025/01/28,England,1,150,106,Against India
+1439901,2025/01/28,England,2,50,32,India
+1439901,2025/01/28,England,2,100,90,India
+1439902,2025/01/31,England,1,50,42,India
+1439902,2025/01/31,England,1,100,80,India
+1439902,2025/01/31,England,1,150,102,India
+1439902,2025/01/31,England,2,50,29,Against India
+1439902,2025/01/31,England,2,100,73,Against India
+1439902,2025/01/31,England,2,150,106,Against India
+1439903,2025/02/02,England,1,50,23,India
+1439903,2025/02/02,England,1,100,39,India
+1439903,2025/02/02,England,1,150,68,India
+1439903,2025/02/02,England,1,200,93,India
+1439903,2025/02/02,England,2,50,27,Against India
+1442987,2024/07/27,Sri Lanka,1,50,24,India
+1442987,2024/07/27,Sri Lanka,1,100,52,India
+1442987,2024/07/27,Sri Lanka,1,150,79,India
+1442987,2024/07/27,Sri Lanka,1,200,112,India
+1442987,2024/07/27,Sri Lanka,2,50,31,Against India
+1442987,2024/07/27,Sri Lanka,2,100,62,Against India
+1442987,2024/07/27,Sri Lanka,2,150,92,Against India
+1442988,2024/07/28,Sri Lanka,1,50,32,Against India
+1442988,2024/07/28,Sri Lanka,1,100,73,Against India
+1442988,2024/07/28,Sri Lanka,1,150,110,Against India
+1442988,2024/07/28,Sri Lanka,2,50,25,India
+1442989,2024/07/30,Sri Lanka,1,50,53,India
+1442989,2024/07/30,Sri Lanka,1,100,87,India
+1442989,2024/07/30,Sri Lanka,2,50,44,Against India
+1442989,2024/07/30,Sri Lanka,2,100,85,Against India
+1449301,2024/11/08,South Africa,1,50,33,India
+1449301,2024/11/08,South Africa,1,100,62,India
+1449301,2024/11/08,South Africa,1,150,81,India
+1449301,2024/11/08,South Africa,1,200,117,India
+1449301,2024/11/08,South Africa,2,50,37,Against India
+1449301,2024/11/08,South Africa,2,100,82,Against India
+1449302,2024/11/10,South Africa,1,50,53,India
+1449302,2024/11/10,South Africa,1,100,101,India
+1449302,2024/11/10,South Africa,2,50,52,Against India
+1449302,2024/11/10,South Africa,2,100,102,Against India
+1449303,2024/11/13,South Africa,1,50,27,India
+1449303,2024/11/13,South Africa,1,100,49,India
+1449303,2024/11/13,South Africa,1,150,89,India
+1449303,2024/11/13,South Africa,1,200,111,India
+1449303,2024/11/13,South Africa,2,50,35,Against India
+1449303,2024/11/13,South Africa,2,100,74,Against India
+1449303,2024/11/13,South Africa,2,150,101,Against India
+1449303,2024/11/13,South Africa,2,200,116,Against India
+1449304,2024/11/15,South Africa,1,50,25,India
+1449304,2024/11/15,South Africa,1,100,51,India
+1449304,2024/11/15,South Africa,1,150,70,India
+1449304,2024/11/15,South Africa,1,200,85,India
+1449304,2024/11/15,South Africa,1,250,107,India
+1449304,2024/11/15,South Africa,2,50,51,Against India
+1449304,2024/11/15,South Africa,2,100,78,Against India
+1478907,2025/10/29,Australia,1,50,34,India
+1478908,2025/10/31,Australia,1,50,48,India
+1478908,2025/10/31,Australia,1,100,89,India
+1478908,2025/10/31,Australia,2,50,25,Against India
+1478908,2025/10/31,Australia,2,100,58,Against India
+1478909,2025/11/02,Australia,1,50,39,Against India
+1478909,2025/11/02,Australia,1,100,72,Against India
+1478909,2025/11/02,Australia,1,150,100,Against India
+1478909,2025/11/02,Australia,2,50,28,India
+1478909,2025/11/02,Australia,2,100,56,India
+1478909,2025/11/02,Australia,2,150,88,India
+1478910,2025/11/06,Australia,1,50,37,India
+1478910,2025/11/06,Australia,1,100,76,India
+1478910,2025/11/06,Australia,1,150,109,India
+1478910,2025/11/06,Australia,2,50,39,Against India
+1478910,2025/11/06,Australia,2,100,85,Against India
+1478911,2025/11/08,Australia,1,50,28,India
+1479576,2025/12/09,South Africa,1,50,42,India
+1479576,2025/12/09,South Africa,1,100,83,India
+1479576,2025/12/09,South Africa,1,150,110,India
+1479576,2025/12/09,South Africa,2,50,42,Against India
+1479577,2025/12/11,South Africa,1,50,35,Against India
+1479577,2025/12/11,South Africa,1,100,62,Against India
+1479577,2025/12/11,South Africa,1,150,87,Against India
+1479577,2025/12/11,South Africa,1,200,116,Against India
+1479577,2025/12/11,South Africa,2,50,34,India
+1479577,2025/12/11,South Africa,2,100,73,India
+1479577,2025/12/11,South Africa,2,150,104,India
+1479578,2025/12/14,South Africa,1,50,68,Against India
+1479578,2025/12/14,South Africa,1,100,104,Against India
+1479578,2025/12/14,South Africa,2,50,25,India
+1479578,2025/12/14,South Africa,2,100,83,India
+1479580,2025/12/19,South Africa,1,50,28,India
+1479580,2025/12/19,South Africa,1,100,59,India
+1479580,2025/12/19,South Africa,1,150,83,India
+1479580,2025/12/19,South Africa,1,200,106,India
+1479580,2025/12/19,South Africa,2,50,21,Against India
+1479580,2025/12/19,South Africa,2,100,55,Against India
+1479580,2025/12/19,South Africa,2,150,84,Against India
+1479580,2025/12/19,South Africa,2,200,119,Against India
+1490234,2026/01/21,New Zealand,1,50,29,India
+1490234,2026/01/21,New Zealand,1,100,52,India
+1490234,2026/01/21,New Zealand,1,150,74,India
+1490234,2026/01/21,New Zealand,1,200,104,India
+1490234,2026/01/21,New Zealand,2,50,36,Against India
+1490234,2026/01/21,New Zealand,2,100,69,Against India
+1490234,2026/01/21,New Zealand,2,150,93,Against India
+1490235,2026/01/23,New Zealand,1,50,32,Against India
+1490235,2026/01/23,New Zealand,1,100,55,Against India
+1490235,2026/01/23,New Zealand,1,150,89,Against India
+1490235,2026/01/23,New Zealand,1,200,119,Against India
+1490235,2026/01/23,New Zealand,2,50,29,India
+1490235,2026/01/23,New Zealand,2,100,47,India
+1490235,2026/01/23,New Zealand,2,150,67,India
+1490235,2026/01/23,New Zealand,2,200,86,India
+1490236,2026/01/25,New Zealand,1,50,50,Against India
+1490236,2026/01/25,New Zealand,1,100,79,Against India
+1490236,2026/01/25,New Zealand,1,150,118,Against India
+1490236,2026/01/25,New Zealand,2,50,19,India
+1490236,2026/01/25,New Zealand,2,100,39,India
+1490236,2026/01/25,New Zealand,2,150,59,India
+1490237,2026/01/28,New Zealand,1,50,27,Against India
+1490237,2026/01/28,New Zealand,1,100,49,Against India
+1490237,2026/01/28,New Zealand,1,150,90,Against India
+1490237,2026/01/28,New Zealand,1,200,114,Against India
+1490237,2026/01/28,New Zealand,2,50,35,India
+1490237,2026/01/28,New Zealand,2,100,69,India
+1490237,2026/01/28,New Zealand,2,150,93,India
+1490238,2026/01/31,New Zealand,1,50,34,India
+1490238,2026/01/31,New Zealand,1,100,59,India
+1490238,2026/01/31,New Zealand,1,150,76,India
+1490238,2026/01/31,New Zealand,1,200,94,India
+1490238,2026/01/31,New Zealand,1,250,114,India
+1490238,2026/01/31,New Zealand,2,50,19,Against India
+1490238,2026/01/31,New Zealand,2,100,48,Against India
+1490238,2026/01/31,New Zealand,2,150,80,Against India
+1490238,2026/01/31,New Zealand,2,200,107,Against India
+1496921,2025/09/10,United Arab Emirates,1,50,53,Against India
+1496921,2025/09/10,United Arab Emirates,2,50,24,India
+1496925,2025/09/14,Pakistan,1,50,61,Against India
+1496925,2025/09/14,Pakistan,1,100,108,Against India
+1496925,2025/09/14,Pakistan,2,50,31,India
+1496925,2025/09/14,Pakistan,2,100,78,India
+1496931,2025/09/19,Oman,1,50,31,India
+1496931,2025/09/19,Oman,1,100,60,India
+1496931,2025/09/19,Oman,1,150,94,India
+1496931,2025/09/19,Oman,2,50,40,Against India
+1496931,2025/09/19,Oman,2,100,83,Against India
+1496931,2025/09/19,Oman,2,150,110,Against India
+1496933,2025/09/21,Pakistan,1,50,35,Against India
+1496933,2025/09/21,Pakistan,1,100,68,Against India
+1496933,2025/09/21,Pakistan,1,150,112,Against India
+1496933,2025/09/21,Pakistan,2,50,28,India
+1496933,2025/09/21,Pakistan,2,100,52,India
+1496933,2025/09/21,Pakistan,2,150,101,India
+1496935,2025/09/24,Bangladesh,1,50,30,India
+1496935,2025/09/24,Bangladesh,1,100,61,India
+1496935,2025/09/24,Bangladesh,1,150,106,India
+1496935,2025/09/24,Bangladesh,2,50,43,Against India
+1496935,2025/09/24,Bangladesh,2,100,82,Against India
+1496937,2025/09/26,Sri Lanka,1,50,27,India
+1496937,2025/09/26,Sri Lanka,1,100,60,India
+1496937,2025/09/26,Sri Lanka,1,150,90,India
+1496937,2025/09/26,Sri Lanka,1,200,120,India
+1496937,2025/09/26,Sri Lanka,2,50,27,Against India
+1496937,2025/09/26,Sri Lanka,2,100,53,Against India
+1496937,2025/09/26,Sri Lanka,2,150,85,Against India
+1496937,2025/09/26,Sri Lanka,2,200,119,Against India
+1496938,2025/09/28,Pakistan,1,50,41,Against India
+1496938,2025/09/28,Pakistan,1,100,68,Against India
+1496938,2025/09/28,Pakistan,2,50,49,India
+1496938,2025/09/28,Pakistan,2,100,90,India
+1496938,2025/09/28,Pakistan,2,150,118,India
+255954,2006/12/01,South Africa,1,50,56,Against India
+255954,2006/12/01,South Africa,1,100,92,Against India
+255954,2006/12/01,South Africa,2,50,45,India
+255954,2006/12/01,South Africa,2,100,97,India
+287862,2007/09/14,Pakistan,1,50,56,India
+287862,2007/09/14,Pakistan,1,100,94,India
+287862,2007/09/14,Pakistan,2,50,55,Against India
+287862,2007/09/14,Pakistan,2,100,101,Against India
+287865,2007/09/16,New Zealand,1,50,38,Against India
+287865,2007/09/16,New Zealand,1,100,81,Against India
+287865,2007/09/16,New Zealand,1,150,103,Against India
+287865,2007/09/16,New Zealand,2,50,25,India
+287865,2007/09/16,New Zealand,2,100,62,India
+287865,2007/09/16,New Zealand,2,150,101,India
+287873,2007/09/19,England,1,50,40,India
+287873,2007/09/19,England,1,100,67,India
+287873,2007/09/19,England,1,150,97,India
+287873,2007/09/19,England,1,200,113,India
+287873,2007/09/19,England,2,50,32,Against India
+287873,2007/09/19,England,2,100,67,Against India
+287873,2007/09/19,England,2,150,95,Against India
+287873,2007/09/19,England,2,200,120,Against India
+287876,2007/09/20,South Africa,1,50,59,India
+287876,2007/09/20,South Africa,1,100,94,India
+287876,2007/09/20,South Africa,1,150,120,India
+287876,2007/09/20,South Africa,2,50,62,Against India
+287876,2007/09/20,South Africa,2,100,99,Against India
+287878,2007/09/22,Australia,1,50,56,India
+287878,2007/09/22,Australia,1,100,81,India
+287878,2007/09/22,Australia,1,150,104,India
+287878,2007/09/22,Australia,2,50,44,Against India
+287878,2007/09/22,Australia,2,100,72,Against India
+287878,2007/09/22,Australia,2,150,98,Against India
+287879,2007/09/24,Pakistan,1,50,46,India
+287879,2007/09/24,Pakistan,1,100,79,India
+287879,2007/09/24,Pakistan,1,150,116,India
+287879,2007/09/24,Pakistan,2,50,33,Against India
+287879,2007/09/24,Pakistan,2,100,93,Against India
+287879,2007/09/24,Pakistan,2,150,116,Against India
+291356,2008/02/01,Australia,1,50,73,India
+291356,2008/02/01,Australia,2,50,41,Against India
+297800,2007/10/20,Australia,1,50,32,Against India
+297800,2007/10/20,Australia,1,100,75,Against India
+297800,2007/10/20,Australia,1,150,109,Against India
+297800,2007/10/20,Australia,2,50,30,India
+297800,2007/10/20,Australia,2,100,60,India
+297800,2007/10/20,Australia,2,150,99,India
+355994,2009/06/06,Bangladesh,1,50,32,India
+355994,2009/06/06,Bangladesh,1,100,76,India
+355994,2009/06/06,Bangladesh,1,150,104,India
+355994,2009/06/06,Bangladesh,2,50,32,Against India
+355994,2009/06/06,Bangladesh,2,100,81,Against India
+355994,2009/06/06,Bangladesh,2,150,116,Against India
+356001,2009/06/10,Ireland,1,50,62,Against India
+356001,2009/06/10,Ireland,1,100,104,Against India
+356001,2009/06/10,Ireland,2,50,42,India
+356001,2009/06/10,Ireland,2,100,80,India
+356006,2009/06/12,West Indies,1,50,52,India
+356006,2009/06/12,West Indies,1,100,93,India
+356006,2009/06/12,West Indies,1,150,120,India
+356006,2009/06/12,West Indies,2,50,54,Against India
+356006,2009/06/12,West Indies,2,100,86,Against India
+356006,2009/06/12,West Indies,2,150,111,Against India
+356010,2009/06/14,England,1,50,42,Against India
+356010,2009/06/14,England,1,100,90,Against India
+356010,2009/06/14,England,1,150,119,Against India
+356010,2009/06/14,England,2,50,51,India
+356010,2009/06/14,England,2,100,92,India
+356010,2009/06/14,England,2,150,120,India
+356014,2009/06/16,South Africa,1,50,39,Against India
+356014,2009/06/16,South Africa,1,100,97,Against India
+356014,2009/06/16,South Africa,2,50,42,India
+356014,2009/06/16,South Africa,2,100,102,India
+366622,2009/02/27,New Zealand,1,50,40,India
+366622,2009/02/27,New Zealand,1,100,92,India
+366622,2009/02/27,New Zealand,2,50,25,Against India
+366622,2009/02/27,New Zealand,2,100,86,Against India
+366622,2009/02/27,New Zealand,2,150,120,Against India
+386494,2009/02/25,New Zealand,1,50,31,India
+386494,2009/02/25,New Zealand,1,100,78,India
+386494,2009/02/25,New Zealand,1,150,113,India
+386494,2009/02/25,New Zealand,2,50,34,Against India
+386494,2009/02/25,New Zealand,2,100,70,Against India
+386494,2009/02/25,New Zealand,2,150,107,Against India
+386535,2009/02/10,Sri Lanka,1,50,29,Against India
+386535,2009/02/10,Sri Lanka,1,100,78,Against India
+386535,2009/02/10,Sri Lanka,1,150,101,Against India
+386535,2009/02/10,Sri Lanka,2,50,32,India
+386535,2009/02/10,Sri Lanka,2,100,62,India
+386535,2009/02/10,Sri Lanka,2,150,107,India
+412682,2010/05/02,South Africa,1,50,51,India
+412682,2010/05/02,South Africa,1,100,79,India
+412682,2010/05/02,South Africa,1,150,106,India
+412682,2010/05/02,South Africa,2,50,52,Against India
+412682,2010/05/02,South Africa,2,100,86,Against India
+412682,2010/05/02,South Africa,2,150,109,Against India
+412691,2010/05/07,Australia,1,50,33,Against India
+412691,2010/05/07,Australia,1,100,64,Against India
+412691,2010/05/07,Australia,1,150,92,Against India
+412691,2010/05/07,Australia,2,50,62,India
+412691,2010/05/07,Australia,2,100,89,India
+412695,2010/05/09,West Indies,1,50,51,Against India
+412695,2010/05/09,West Indies,1,100,80,Against India
+412695,2010/05/09,West Indies,1,150,107,Against India
+412695,2010/05/09,West Indies,2,50,52,India
+412695,2010/05/09,West Indies,2,100,85,India
+412695,2010/05/09,West Indies,2,150,112,India
+412699,2010/05/11,Sri Lanka,1,50,35,India
+412699,2010/05/11,Sri Lanka,1,100,73,India
+412699,2010/05/11,Sri Lanka,1,150,110,India
+412699,2010/05/11,Sri Lanka,2,50,47,Against India
+412699,2010/05/11,Sri Lanka,2,100,83,Against India
+412699,2010/05/11,Sri Lanka,2,150,114,Against India
+430884,2009/12/09,Sri Lanka,1,50,40,Against India
+430884,2009/12/09,Sri Lanka,1,100,68,Against India
+430884,2009/12/09,Sri Lanka,1,150,95,Against India
+430884,2009/12/09,Sri Lanka,1,200,116,Against India
+430884,2009/12/09,Sri Lanka,2,50,27,India
+430884,2009/12/09,Sri Lanka,2,100,57,India
+430884,2009/12/09,Sri Lanka,2,150,96,India
+430885,2009/12/12,Sri Lanka,1,50,27,Against India
+430885,2009/12/12,Sri Lanka,1,100,56,Against India
+430885,2009/12/12,Sri Lanka,1,150,83,Against India
+430885,2009/12/12,Sri Lanka,1,200,119,Against India
+430885,2009/12/12,Sri Lanka,2,50,31,India
+430885,2009/12/12,Sri Lanka,2,100,58,India
+430885,2009/12/12,Sri Lanka,2,150,82,India
+430885,2009/12/12,Sri Lanka,2,200,110,India
+452153,2010/06/12,Zimbabwe,1,50,36,Against India
+452153,2010/06/12,Zimbabwe,1,100,109,Against India
+452153,2010/06/12,Zimbabwe,2,50,51,India
+452153,2010/06/12,Zimbabwe,2,100,83,India
+452154,2010/06/13,Zimbabwe,1,50,64,Against India
+452154,2010/06/13,Zimbabwe,1,100,100,Against India
+452154,2010/06/13,Zimbabwe,2,50,45,India
+452154,2010/06/13,Zimbabwe,2,100,81,India
+463149,2011/01/09,South Africa,1,50,31,India
+463149,2011/01/09,South Africa,1,100,72,India
+463149,2011/01/09,South Africa,1,150,107,India
+463149,2011/01/09,South Africa,2,50,33,Against India
+463149,2011/01/09,South Africa,2,100,72,Against India
+474476,2011/08/31,England,1,50,38,India
+474476,2011/08/31,England,1,100,66,India
+474476,2011/08/31,England,1,150,103,India
+474476,2011/08/31,England,2,50,33,Against India
+474476,2011/08/31,England,2,100,68,Against India
+474476,2011/08/31,England,2,150,106,Against India
+489220,2011/06/04,West Indies,1,50,47,India
+489220,2011/06/04,West Indies,1,100,96,India
+489220,2011/06/04,West Indies,1,150,116,India
+489220,2011/06/04,West Indies,2,50,54,Against India
+489220,2011/06/04,West Indies,2,100,103,Against India
+518954,2012/02/01,Australia,1,50,35,Against India
+518954,2012/02/01,Australia,1,100,76,Against India
+518954,2012/02/01,Australia,1,150,104,Against India
+518954,2012/02/01,Australia,2,50,37,India
+518954,2012/02/01,Australia,2,100,90,India
+518955,2012/02/03,Australia,1,50,43,Against India
+518955,2012/02/03,Australia,1,100,90,Against India
+518955,2012/02/03,Australia,2,50,46,India
+518955,2012/02/03,Australia,2,100,85,India
+521217,2011/10/29,England,1,50,46,India
+521217,2011/10/29,England,1,100,110,India
+521217,2011/10/29,England,2,50,51,Against India
+521217,2011/10/29,England,2,100,87,Against India
+533281,2012/09/23,England,1,50,34,India
+533281,2012/09/23,England,1,100,79,India
+533281,2012/09/23,England,1,150,112,India
+533281,2012/09/23,England,2,50,48,Against India
+533287,2012/09/28,Australia,1,50,35,India
+533287,2012/09/28,Australia,1,100,87,India
+533287,2012/09/28,Australia,2,50,40,Against India
+533287,2012/09/28,Australia,2,100,60,Against India
+533291,2012/09/30,Pakistan,1,50,51,Against India
+533291,2012/09/30,Pakistan,1,100,87,Against India
+533291,2012/09/30,Pakistan,2,50,47,India
+533291,2012/09/30,Pakistan,2,100,84,India
+533295,2012/10/02,South Africa,1,50,46,India
+533295,2012/10/02,South Africa,1,100,83,India
+533295,2012/10/02,South Africa,1,150,118,India
+533295,2012/10/02,South Africa,2,50,42,Against India
+533295,2012/10/02,South Africa,2,100,80,Against India
+533295,2012/10/02,South Africa,2,150,118,Against India
+556252,2012/03/30,South Africa,1,50,32,Against India
+556252,2012/03/30,South Africa,1,100,68,Against India
+556252,2012/03/30,South Africa,1,150,98,Against India
+556252,2012/03/30,South Africa,1,200,116,Against India
+556252,2012/03/30,South Africa,2,50,35,India
+564786,2012/08/07,Sri Lanka,1,50,34,India
+564786,2012/08/07,Sri Lanka,1,100,77,India
+564786,2012/08/07,Sri Lanka,1,150,116,India
+564786,2012/08/07,Sri Lanka,2,50,35,Against India
+564786,2012/08/07,Sri Lanka,2,100,86,Against India
+565810,2012/12/20,England,1,50,35,Against India
+565810,2012/12/20,England,1,100,75,Against India
+565810,2012/12/20,England,1,150,118,Against India
+565810,2012/12/20,England,2,50,33,India
+565810,2012/12/20,England,2,100,66,India
+565810,2012/12/20,England,2,150,104,India
+565811,2012/12/22,England,1,50,33,India
+565811,2012/12/22,England,1,100,79,India
+565811,2012/12/22,England,1,150,104,India
+565811,2012/12/22,England,2,50,31,Against India
+565811,2012/12/22,England,2,100,70,Against India
+565811,2012/12/22,England,2,150,108,Against India
+565820,2012/09/11,New Zealand,1,50,50,Against India
+565820,2012/09/11,New Zealand,1,100,84,Against India
+565820,2012/09/11,New Zealand,1,150,109,Against India
+565820,2012/09/11,New Zealand,2,50,37,India
+565820,2012/09/11,New Zealand,2,100,71,India
+565820,2012/09/11,New Zealand,2,150,113,India
+589306,2012/12/25,Pakistan,1,50,41,India
+589306,2012/12/25,Pakistan,1,100,81,India
+589306,2012/12/25,Pakistan,2,50,62,Against India
+589306,2012/12/25,Pakistan,2,100,92,Against India
+589307,2012/12/28,Pakistan,1,50,38,India
+589307,2012/12/28,Pakistan,1,100,76,India
+589307,2012/12/28,Pakistan,1,150,104,India
+589307,2012/12/28,Pakistan,2,50,31,Against India
+589307,2012/12/28,Pakistan,2,100,74,Against India
+589307,2012/12/28,Pakistan,2,150,99,Against India
+647247,2013/10/10,Australia,1,50,25,Against India
+647247,2013/10/10,Australia,1,100,56,Against India
+647247,2013/10/10,Australia,1,150,83,Against India
+647247,2013/10/10,Australia,1,200,120,Against India
+647247,2013/10/10,Australia,2,50,32,India
+647247,2013/10/10,Australia,2,100,66,India
+647247,2013/10/10,Australia,2,150,95,India
+647247,2013/10/10,Australia,2,200,117,India
+667731,2014/09/07,England,1,50,41,Against India
+667731,2014/09/07,England,1,100,91,Against India
+667731,2014/09/07,England,1,150,112,Against India
+667731,2014/09/07,England,2,50,36,India
+667731,2014/09/07,England,2,100,70,India
+667731,2014/09/07,England,2,150,103,India
+682921,2014/03/21,Pakistan,1,50,58,Against India
+682921,2014/03/21,Pakistan,1,100,95,Against India
+682921,2014/03/21,Pakistan,2,50,46,India
+682921,2014/03/21,Pakistan,2,100,86,India
+682929,2014/03/23,West Indies,1,50,64,Against India
+682929,2014/03/23,West Indies,1,100,107,Against India
+682929,2014/03/23,West Indies,2,50,37,India
+682929,2014/03/23,West Indies,2,100,77,India
+682943,2014/03/28,Bangladesh,1,50,51,Against India
+682943,2014/03/28,Bangladesh,1,100,97,Against India
+682943,2014/03/28,Bangladesh,2,50,42,India
+682943,2014/03/28,Bangladesh,2,100,80,India
+682951,2014/03/30,Australia,1,50,41,India
+682951,2014/03/30,Australia,1,100,89,India
+682951,2014/03/30,Australia,1,150,110,India
+682951,2014/03/30,Australia,2,50,50,Against India
+682963,2014/04/04,South Africa,1,50,44,Against India
+682963,2014/04/04,South Africa,1,100,75,Against India
+682963,2014/04/04,South Africa,1,150,111,Against India
+682963,2014/04/04,South Africa,2,50,30,India
+682963,2014/04/04,South Africa,2,100,75,India
+682963,2014/04/04,South Africa,2,150,101,India
+682965,2014/04/06,Sri Lanka,1,50,54,India
+682965,2014/04/06,Sri Lanka,1,100,91,India
+682965,2014/04/06,Sri Lanka,2,50,49,Against India
+682965,2014/04/06,Sri Lanka,2,100,92,Against India
+885969,2015/07/17,Zimbabwe,1,50,32,India
+885969,2015/07/17,Zimbabwe,1,100,74,India
+885969,2015/07/17,Zimbabwe,1,150,104,India
+885969,2015/07/17,Zimbabwe,2,50,42,Against India
+885969,2015/07/17,Zimbabwe,2,100,109,Against India
+885971,2015/07/19,Zimbabwe,1,50,37,Against India
+885971,2015/07/19,Zimbabwe,1,100,83,Against India
+885971,2015/07/19,Zimbabwe,2,50,33,India
+885971,2015/07/19,Zimbabwe,2,100,83,India
+895817,2016/01/26,Australia,1,50,35,India
+895817,2016/01/26,Australia,1,100,74,India
+895817,2016/01/26,Australia,1,150,104,India
+895817,2016/01/26,Australia,2,50,32,Against India
+895817,2016/01/26,Australia,2,100,71,Against India
+895817,2016/01/26,Australia,2,150,113,Against India
+895819,2016/01/29,Australia,1,50,36,India
+895819,2016/01/29,Australia,1,100,68,India
+895819,2016/01/29,Australia,1,150,101,India
+895819,2016/01/29,Australia,2,50,31,Against India
+895819,2016/01/29,Australia,2,100,67,Against India
+895819,2016/01/29,Australia,2,150,113,Against India
+895821,2016/01/31,Australia,1,50,31,Against India
+895821,2016/01/31,Australia,1,100,70,Against India
+895821,2016/01/31,Australia,1,150,97,Against India
+895821,2016/01/31,Australia,2,50,25,India
+895821,2016/01/31,Australia,2,100,58,India
+895821,2016/01/31,Australia,2,150,93,India
+895821,2016/01/31,Australia,2,200,120,India
+903587,2015/10/02,South Africa,1,50,40,India
+903587,2015/10/02,South Africa,1,100,67,India
+903587,2015/10/02,South Africa,1,150,89,India
+903587,2015/10/02,South Africa,2,50,26,Against India
+903587,2015/10/02,South Africa,2,100,69,Against India
+903587,2015/10/02,South Africa,2,150,94,Against India
+903587,2015/10/02,South Africa,2,200,118,Against India
+903589,2015/10/05,South Africa,1,50,56,India
+903589,2015/10/05,South Africa,2,50,49,Against India
+951329,2016/03/15,New Zealand,1,50,55,Against India
+951329,2016/03/15,New Zealand,1,100,104,Against India
+951329,2016/03/15,New Zealand,2,50,73,India
+951341,2016/03/19,Pakistan,1,50,57,Against India
+951341,2016/03/19,Pakistan,1,100,93,Against India
+951341,2016/03/19,Pakistan,2,50,51,India
+951341,2016/03/19,Pakistan,2,100,85,India
+951353,2016/03/23,Bangladesh,1,50,49,India
+951353,2016/03/23,Bangladesh,1,100,84,India
+951353,2016/03/23,Bangladesh,2,50,40,Against India
+951353,2016/03/23,Bangladesh,2,100,85,Against India
+951363,2016/03/27,Australia,1,50,22,Against India
+951363,2016/03/27,Australia,1,100,77,Against India
+951363,2016/03/27,Australia,1,150,118,Against India
+951363,2016/03/27,Australia,2,50,47,India
+951363,2016/03/27,Australia,2,100,88,India
+951363,2016/03/27,Australia,2,150,112,India
+951371,2016/03/31,West Indies,1,50,34,India
+951371,2016/03/31,West Indies,1,100,74,India
+951371,2016/03/31,West Indies,1,150,102,India
+951371,2016/03/31,West Indies,2,50,40,Against India
+951371,2016/03/31,West Indies,2,100,68,Against India
+951371,2016/03/31,West Indies,2,150,96,Against India
+963697,2016/02/09,Sri Lanka,1,50,51,India
+963697,2016/02/09,Sri Lanka,1,100,111,India
+963697,2016/02/09,Sri Lanka,2,50,62,Against India
+963697,2016/02/09,Sri Lanka,2,100,107,Against India
+963699,2016/02/12,Sri Lanka,1,50,28,India
+963699,2016/02/12,Sri Lanka,1,100,66,India
+963699,2016/02/12,Sri Lanka,1,150,97,India
+963699,2016/02/12,Sri Lanka,2,50,49,Against India
+963699,2016/02/12,Sri Lanka,2,100,89,Against India
+963701,2016/02/14,Sri Lanka,1,50,50,Against India
+963701,2016/02/14,Sri Lanka,2,50,51,India
+966745,2016/02/24,Bangladesh,1,50,58,India
+966745,2016/02/24,Bangladesh,1,100,93,India
+966745,2016/02/24,Bangladesh,1,150,109,India
+966745,2016/02/24,Bangladesh,2,50,56,Against India
+966745,2016/02/24,Bangladesh,2,100,98,Against India
+966751,2016/02/27,Pakistan,1,50,64,Against India
+966751,2016/02/27,Pakistan,2,50,53,India
+966757,2016/03/01,Sri Lanka,1,50,61,Against India
+966757,2016/03/01,Sri Lanka,1,100,96,Against India
+966757,2016/03/01,Sri Lanka,2,50,48,India
+966757,2016/03/01,Sri Lanka,2,100,87,India
+966761,2016/03/03,United Arab Emirates,1,50,76,Against India
+966761,2016/03/03,United Arab Emirates,2,50,43,India
+966765,2016/03/06,Bangladesh,1,50,45,Against India
+966765,2016/03/06,Bangladesh,1,100,80,Against India
+966765,2016/03/06,Bangladesh,2,50,39,India
+966765,2016/03/06,Bangladesh,2,100,77,India

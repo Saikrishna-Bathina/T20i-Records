@@ -1,0 +1,318 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Thailand
+info,gender,female
+info,season,2025/26
+info,date,2026/01/28
+info,event,Women's T20 World Cup Qualifier
+info,match_number,22
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,S Mostary
+info,umpire,Jonathan Kennedy
+info,umpire,Saleema Imtiaz
+info,reserve_umpire,Shivani Mishra
+info,tv_umpire,Vijaya Mallela
+info,match_referee,H Pack
+info,winner,Bangladesh
+info,winner_runs,39
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Juairiya Ferdous
+info,player,Bangladesh,Sharmin Akhter
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Thailand,S Khiaoto
+info,player,Thailand,N Chantam
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chaiwai
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,S Laomi
+info,player,Thailand,P Maya
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,Chayanisa Phengpaen
+info,player,Thailand,T Putthawong
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Chayanisa Phengpaen,ab45cae8
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,H Pack,fed53c91
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,Juairiya Ferdous,e6f05a84
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Laomi,4b15618c
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sharmin Akhter,84fdd3cf
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,Vijaya Mallela,85b6244a
+ball,1,0.1,Bangladesh,Dilara Akter,Juairiya Ferdous,P Maya,0,0,,,,,,caught,Dilara Akter
+ball,1,0.2,Bangladesh,Sharmin Akhter,Juairiya Ferdous,P Maya,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Sharmin Akhter,Juairiya Ferdous,P Maya,4,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Sharmin Akhter,Juairiya Ferdous,P Maya,0,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Sharmin Akhter,Juairiya Ferdous,P Maya,1,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Juairiya Ferdous,Sharmin Akhter,P Maya,0,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,0,1,1,,,,,"",""
+ball,1,1.3,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,0,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,2,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,4,0,,,,,,"",""
+ball,1,1.6,Bangladesh,Sharmin Akhter,Juairiya Ferdous,T Putthawong,0,0,,,,,,lbw,Sharmin Akhter
+ball,1,1.7,Bangladesh,S Mostary,Juairiya Ferdous,T Putthawong,0,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Juairiya Ferdous,S Mostary,P Maya,0,1,1,,,,,"",""
+ball,1,2.2,Bangladesh,Juairiya Ferdous,S Mostary,P Maya,0,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Juairiya Ferdous,S Mostary,P Maya,0,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Juairiya Ferdous,S Mostary,P Maya,0,0,,,,,,"",""
+ball,1,2.5,Bangladesh,Juairiya Ferdous,S Mostary,P Maya,1,0,,,,,,"",""
+ball,1,2.6,Bangladesh,S Mostary,Juairiya Ferdous,P Maya,0,0,,,,,,"",""
+ball,1,2.7,Bangladesh,S Mostary,Juairiya Ferdous,P Maya,4,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,0,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,2,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,0,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,0,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,0,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Juairiya Ferdous,S Mostary,T Putthawong,1,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,4.4,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,4,0,,,,,,"",""
+ball,1,4.5,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,4.6,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,4,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,0,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,1,0,,,,,,"",""
+ball,1,5.3,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,0,0,,,,,,"",""
+ball,1,5.4,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,0,0,,,,,,"",""
+ball,1,5.5,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,0,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,6,0,,,,,,"",""
+ball,1,6.2,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,0,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,0,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,1,0,,,,,,"",""
+ball,1,6.5,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,0,0,,,,,,"",""
+ball,1,6.6,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,0,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,1,0,,,,,,"",""
+ball,1,7.2,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,0,0,,,,,,"",""
+ball,1,7.3,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,4,0,,,,,,"",""
+ball,1,7.4,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,1,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,4,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,4,0,,,,,,"",""
+ball,1,8.1,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,0,0,,,,,,"",""
+ball,1,8.2,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,4,0,,,,,,"",""
+ball,1,8.3,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,1,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,4,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,1,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,9.3,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,9.5,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,9.6,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,10.1,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,1,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,1,0,,,,,,"",""
+ball,1,10.3,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,0,0,,,,,,"",""
+ball,1,10.4,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,1,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,6,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,1,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,11.2,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,11.4,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,6,0,,,,,,"",""
+ball,1,11.5,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,11.6,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,12.1,Bangladesh,S Mostary,Juairiya Ferdous,Chayanisa Phengpaen,1,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Juairiya Ferdous,S Mostary,Chayanisa Phengpaen,1,0,,,,,,"",""
+ball,1,12.3,Bangladesh,S Mostary,Juairiya Ferdous,Chayanisa Phengpaen,2,0,,,,,,"",""
+ball,1,12.4,Bangladesh,S Mostary,Juairiya Ferdous,Chayanisa Phengpaen,4,0,,,,,,"",""
+ball,1,12.5,Bangladesh,S Mostary,Juairiya Ferdous,Chayanisa Phengpaen,4,0,,,,,,"",""
+ball,1,12.6,Bangladesh,S Mostary,Juairiya Ferdous,Chayanisa Phengpaen,1,0,,,,,,"",""
+ball,1,13.1,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,13.2,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,13.3,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,6,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Juairiya Ferdous,S Mostary,S Chaturongrattana,1,0,,,,,,"",""
+ball,1,13.6,Bangladesh,S Mostary,Juairiya Ferdous,S Chaturongrattana,0,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,0,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,2,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,0,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,6,0,,,,,,"",""
+ball,1,14.5,Bangladesh,Juairiya Ferdous,S Mostary,S Laomi,1,0,,,,,,"",""
+ball,1,14.6,Bangladesh,S Mostary,Juairiya Ferdous,S Laomi,1,0,,,,,,"",""
+ball,1,15.1,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,4,0,,,,,,"",""
+ball,1,15.2,Bangladesh,S Mostary,Juairiya Ferdous,O Kamchomphu,1,0,,,,,,"",""
+ball,1,15.3,Bangladesh,Juairiya Ferdous,S Mostary,O Kamchomphu,0,0,,,,,,caught,Juairiya Ferdous
+ball,1,15.4,Bangladesh,Shorna Akter,S Mostary,O Kamchomphu,1,0,,,,,,"",""
+ball,1,15.5,Bangladesh,S Mostary,Shorna Akter,O Kamchomphu,1,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Shorna Akter,S Mostary,O Kamchomphu,1,0,,,,,,"",""
+ball,1,16.1,Bangladesh,Shorna Akter,S Mostary,T Putthawong,1,0,,,,,,"",""
+ball,1,16.2,Bangladesh,S Mostary,Shorna Akter,T Putthawong,1,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Shorna Akter,S Mostary,T Putthawong,1,0,,,,,,"",""
+ball,1,16.4,Bangladesh,S Mostary,Shorna Akter,T Putthawong,4,0,,,,,,"",""
+ball,1,16.5,Bangladesh,S Mostary,Shorna Akter,T Putthawong,0,0,,,,,,bowled,S Mostary
+ball,1,16.6,Bangladesh,Nigar Sultana,Shorna Akter,T Putthawong,1,0,,,,,,"",""
+ball,1,17.1,Bangladesh,Nigar Sultana,Shorna Akter,O Kamchomphu,1,0,,,,,,"",""
+ball,1,17.2,Bangladesh,Shorna Akter,Nigar Sultana,O Kamchomphu,0,0,,,,,,caught,Shorna Akter
+ball,1,17.3,Bangladesh,Rabeya Khan,Nigar Sultana,O Kamchomphu,1,0,,,,,,"",""
+ball,1,17.4,Bangladesh,Nigar Sultana,Rabeya Khan,O Kamchomphu,1,0,,,,,,"",""
+ball,1,17.5,Bangladesh,Rabeya Khan,Nigar Sultana,O Kamchomphu,1,0,,,,,,"",""
+ball,1,17.6,Bangladesh,Nigar Sultana,Rabeya Khan,O Kamchomphu,2,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Rabeya Khan,Nigar Sultana,T Putthawong,2,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Rabeya Khan,Nigar Sultana,T Putthawong,0,0,,,,,,"",""
+ball,1,18.3,Bangladesh,Rabeya Khan,Nigar Sultana,T Putthawong,1,0,,,,,,"",""
+ball,1,18.4,Bangladesh,Nigar Sultana,Rabeya Khan,T Putthawong,1,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Rabeya Khan,Nigar Sultana,T Putthawong,0,0,,,,,,run out,Rabeya Khan
+ball,1,18.6,Bangladesh,Nigar Sultana,Ritu Moni,T Putthawong,0,0,,,,,,bowled,Nigar Sultana
+ball,1,19.1,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,0,5,5,,,,,"",""
+ball,1,19.2,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,4,0,,,,,,"",""
+ball,1,19.3,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,4,1,,1,,,,"",""
+ball,1,19.4,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,1,0,,,,,,"",""
+ball,1,19.5,Bangladesh,Fahima Khatun,Ritu Moni,P Maya,1,0,,,,,,"",""
+ball,1,19.6,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,2,0,,,,,,"",""
+ball,1,19.7,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,4,0,,,,,,"",""
+ball,1,19.8,Bangladesh,Ritu Moni,Fahima Khatun,P Maya,0,0,,,,,,run out,Ritu Moni
+ball,2,0.1,Thailand,S Khiaoto,N Chantam,Marufa Akter,0,0,,,,,,lbw,S Khiaoto
+ball,2,0.2,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,1,1,,,,,"",""
+ball,2,0.3,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,4,0,,,,,,"",""
+ball,2,0.4,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,0,,,,,,"",""
+ball,2,0.5,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,1,0,,,,,,"",""
+ball,2,0.6,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,1,0,,,,,,"",""
+ball,2,0.7,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,0,,,,,,"",""
+ball,2,1.1,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,0,0,,,,,,"",""
+ball,2,1.2,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,4,0,,,,,,"",""
+ball,2,1.3,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,0,0,,,,,,"",""
+ball,2,1.4,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,0,0,,,,,,"",""
+ball,2,1.5,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,0,0,,,,,,"",""
+ball,2,1.6,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,4,0,,,,,,"",""
+ball,2,2.1,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,1,0,,,,,,"",""
+ball,2,2.2,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,0,0,,,,,,"",""
+ball,2,2.3,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,1,0,,,,,,"",""
+ball,2,2.4,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,1,0,,,,,,"",""
+ball,2,2.5,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,0,0,,,,,,"",""
+ball,2,2.6,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,0,0,,,,,,"",""
+ball,2,3.1,Thailand,N Koncharoenkai,N Chantam,Nahida Akter,1,0,,,,,,"",""
+ball,2,3.2,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,2,0,,,,,,"",""
+ball,2,3.3,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,4,0,,,,,,"",""
+ball,2,3.4,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,0,0,,,,,,"",""
+ball,2,3.5,Thailand,N Chantam,N Koncharoenkai,Nahida Akter,1,0,,,,,,"",""
+ball,2,3.6,Thailand,N Koncharoenkai,N Chantam,Nahida Akter,0,0,,,,,,"",""
+ball,2,4.1,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,4.2,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,4,0,,,,,,"",""
+ball,2,4.3,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,4.4,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,4.5,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,4.6,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,5.1,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,0,,,,,,"",""
+ball,2,5.2,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,1,1,,,,,"",""
+ball,2,5.3,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,4,0,,,,,,"",""
+ball,2,5.4,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,0,0,,,,,,"",""
+ball,2,5.5,Thailand,N Koncharoenkai,N Chantam,Marufa Akter,1,0,,,,,,"",""
+ball,2,5.6,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,0,0,,,,,,"",""
+ball,2,5.7,Thailand,N Chantam,N Koncharoenkai,Marufa Akter,1,0,,,,,,"",""
+ball,2,6.1,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,1,0,,,,,,"",""
+ball,2,6.2,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,0,0,,,,,,"",""
+ball,2,6.3,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,0,0,,,,,,"",""
+ball,2,6.4,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,1,0,,,,,,"",""
+ball,2,6.5,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,1,0,,,,,,"",""
+ball,2,6.6,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,0,0,,,,,,"",""
+ball,2,7.1,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.2,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,7.3,Thailand,N Koncharoenkai,N Chantam,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.4,Thailand,N Koncharoenkai,N Chantam,Fahima Khatun,1,0,,,,,,"",""
+ball,2,7.5,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.6,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,8.1,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.2,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.3,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,2,0,,,,,,"",""
+ball,2,8.4,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.5,Thailand,N Koncharoenkai,N Chantam,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.6,Thailand,N Chantam,N Koncharoenkai,Ritu Moni,1,0,,,,,,"",""
+ball,2,9.1,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,4,0,,,,,,"",""
+ball,2,9.2,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,0,0,,,,,,"",""
+ball,2,9.3,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,1,0,,,,,,"",""
+ball,2,9.4,Thailand,N Koncharoenkai,N Chantam,Rabeya Khan,1,0,,,,,,"",""
+ball,2,9.5,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,4,0,,,,,,"",""
+ball,2,9.6,Thailand,N Chantam,N Koncharoenkai,Rabeya Khan,1,0,,,,,,"",""
+ball,2,10.1,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,10.2,Thailand,N Koncharoenkai,N Chantam,Fahima Khatun,1,0,,,,,,"",""
+ball,2,10.3,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,4,0,,,,,,"",""
+ball,2,10.4,Thailand,N Chantam,N Koncharoenkai,Fahima Khatun,0,0,,,,,,caught,N Chantam
+ball,2,10.5,Thailand,N Chaiwai,N Koncharoenkai,Fahima Khatun,0,0,,,,,,"",""
+ball,2,10.6,Thailand,N Chaiwai,N Koncharoenkai,Fahima Khatun,0,0,,,,,,"",""
+ball,2,11.1,Thailand,N Koncharoenkai,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,11.2,Thailand,N Chaiwai,N Koncharoenkai,Shorna Akter,1,0,,,,,,"",""
+ball,2,11.3,Thailand,N Koncharoenkai,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,11.4,Thailand,N Chaiwai,N Koncharoenkai,Shorna Akter,1,0,,,,,,"",""
+ball,2,11.5,Thailand,N Koncharoenkai,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,11.6,Thailand,N Chaiwai,N Koncharoenkai,Shorna Akter,1,0,,,,,,"",""
+ball,2,12.1,Thailand,N Chaiwai,N Koncharoenkai,Fahima Khatun,0,0,,,,,,"",""
+ball,2,12.2,Thailand,N Chaiwai,N Koncharoenkai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,12.3,Thailand,N Koncharoenkai,N Chaiwai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,12.4,Thailand,N Chaiwai,N Koncharoenkai,Fahima Khatun,1,0,,,,,,"",""
+ball,2,12.5,Thailand,N Koncharoenkai,N Chaiwai,Fahima Khatun,4,0,,,,,,"",""
+ball,2,12.6,Thailand,N Koncharoenkai,N Chaiwai,Fahima Khatun,2,0,,,,,,"",""
+ball,2,13.1,Thailand,N Chaiwai,N Koncharoenkai,Shorna Akter,1,0,,,,,,"",""
+ball,2,13.2,Thailand,N Koncharoenkai,N Chaiwai,Shorna Akter,0,0,,,,,,caught and bowled,N Koncharoenkai
+ball,2,13.3,Thailand,C Sutthiruang,N Chaiwai,Shorna Akter,0,0,,,,,,"",""
+ball,2,13.4,Thailand,C Sutthiruang,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,13.5,Thailand,N Chaiwai,C Sutthiruang,Shorna Akter,1,0,,,,,,"",""
+ball,2,13.6,Thailand,C Sutthiruang,N Chaiwai,Shorna Akter,0,0,,,,,,"",""
+ball,2,14.1,Thailand,N Chaiwai,C Sutthiruang,Ritu Moni,1,0,,,,,,"",""
+ball,2,14.2,Thailand,C Sutthiruang,N Chaiwai,Ritu Moni,0,0,,,,,,bowled,C Sutthiruang
+ball,2,14.3,Thailand,S Laomi,N Chaiwai,Ritu Moni,1,0,,,,,,"",""
+ball,2,14.4,Thailand,N Chaiwai,S Laomi,Ritu Moni,1,0,,,,,,"",""
+ball,2,14.5,Thailand,S Laomi,N Chaiwai,Ritu Moni,2,0,,,,,,"",""
+ball,2,14.6,Thailand,S Laomi,N Chaiwai,Ritu Moni,1,0,,,,,,"",""
+ball,2,15.1,Thailand,S Laomi,N Chaiwai,Nahida Akter,2,0,,,,,,"",""
+ball,2,15.2,Thailand,S Laomi,N Chaiwai,Nahida Akter,1,0,,,,,,"",""
+ball,2,15.3,Thailand,N Chaiwai,S Laomi,Nahida Akter,4,0,,,,,,"",""
+ball,2,15.4,Thailand,N Chaiwai,S Laomi,Nahida Akter,0,0,,,,,,"",""
+ball,2,15.5,Thailand,N Chaiwai,S Laomi,Nahida Akter,4,0,,,,,,"",""
+ball,2,15.6,Thailand,N Chaiwai,S Laomi,Nahida Akter,0,0,,,,,,"",""
+ball,2,16.1,Thailand,S Laomi,N Chaiwai,Ritu Moni,0,0,,,,,,caught,S Laomi
+ball,2,16.2,Thailand,P Maya,N Chaiwai,Ritu Moni,0,0,,,,,,"",""
+ball,2,16.3,Thailand,P Maya,N Chaiwai,Ritu Moni,1,0,,,,,,"",""
+ball,2,16.4,Thailand,N Chaiwai,P Maya,Ritu Moni,0,0,,,,,,"",""
+ball,2,16.5,Thailand,N Chaiwai,P Maya,Ritu Moni,2,0,,,,,,"",""
+ball,2,16.6,Thailand,N Chaiwai,P Maya,Ritu Moni,1,0,,,,,,"",""
+ball,2,17.1,Thailand,N Chaiwai,P Maya,Shorna Akter,0,0,,,,,,"",""
+ball,2,17.2,Thailand,N Chaiwai,P Maya,Shorna Akter,0,0,,,,,,"",""
+ball,2,17.3,Thailand,N Chaiwai,P Maya,Shorna Akter,1,0,,,,,,"",""
+ball,2,17.4,Thailand,P Maya,N Chaiwai,Shorna Akter,0,0,,,,,,"",""
+ball,2,17.5,Thailand,P Maya,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,17.6,Thailand,N Chaiwai,P Maya,Shorna Akter,1,0,,,,,,"",""
+ball,2,18.1,Thailand,N Chaiwai,P Maya,Marufa Akter,1,0,,,,,,"",""
+ball,2,18.2,Thailand,P Maya,N Chaiwai,Marufa Akter,0,0,,,,,,caught,P Maya
+ball,2,18.3,Thailand,O Kamchomphu,N Chaiwai,Marufa Akter,2,0,,,,,,"",""
+ball,2,18.4,Thailand,O Kamchomphu,N Chaiwai,Marufa Akter,0,0,,,,,,bowled,O Kamchomphu
+ball,2,18.5,Thailand,S Chaturongrattana,N Chaiwai,Marufa Akter,0,1,1,,,,,"",""
+ball,2,18.6,Thailand,S Chaturongrattana,N Chaiwai,Marufa Akter,0,1,1,,,,,"",""
+ball,2,18.7,Thailand,S Chaturongrattana,N Chaiwai,Marufa Akter,2,0,,,,,,"",""
+ball,2,18.8,Thailand,S Chaturongrattana,N Chaiwai,Marufa Akter,1,0,,,,,,"",""
+ball,2,19.1,Thailand,S Chaturongrattana,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,19.2,Thailand,N Chaiwai,S Chaturongrattana,Shorna Akter,1,0,,,,,,"",""
+ball,2,19.3,Thailand,S Chaturongrattana,N Chaiwai,Shorna Akter,1,0,,,,,,"",""
+ball,2,19.4,Thailand,N Chaiwai,S Chaturongrattana,Shorna Akter,2,0,,,,,,"",""
+ball,2,19.5,Thailand,N Chaiwai,S Chaturongrattana,Shorna Akter,4,0,,,,,,"",""
+ball,2,19.6,Thailand,N Chaiwai,S Chaturongrattana,Shorna Akter,0,0,,,,,,stumped,N Chaiwai

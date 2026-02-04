@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,United States of America
+info,gender,female
+info,season,2025/26
+info,date,2026/01/20
+info,event,Women's T20 World Cup Qualifier
+info,match_number,8
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,E Claridge
+info,umpire,Jonathan Kennedy
+info,umpire,Rizwan Akram
+info,reserve_umpire,Shivani Mishra
+info,tv_umpire,Shathira Jakir
+info,match_referee,Reon King
+info,winner,United States of America
+info,winner_wickets,4
+info,player,Namibia,SA Wittmann
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,KA Green
+info,player,Namibia,M Gorases
+info,player,Namibia,W Mwatile
+info,player,Namibia,N Benjamin
+info,player,Namibia,M Mwatile
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,SN Shihepo
+info,player,Namibia,S Tuhadeleni
+info,player,Namibia,EU Kejarukua
+info,player,United States of America,D Dhingra
+info,player,United States of America,CR Pagydyala
+info,player,United States of America,E Claridge
+info,player,United States of America,IM Vaghela
+info,player,United States of America,AI Chudasama
+info,player,United States of America,RP Singh
+info,player,United States of America,Pooja Ganesh
+info,player,United States of America,TG Norris
+info,player,United States of America,S Immadi
+info,player,United States of America,Maahi Madhavan
+info,player,United States of America,T Chopra
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,CR Pagydyala,d7c02672
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,EU Kejarukua,e7068bfd
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,KA Green,fa9fdefa
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,Maahi Madhavan,c6002ece
+info,registry,people,N Benjamin,58317766
+info,registry,people,Pooja Ganesh,a186b627
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,Reon King,20fbf68c
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Immadi,a6dd06d6
+info,registry,people,S Tuhadeleni,13f7c5f4
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Chopra,73df1fe8
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0
+ball,1,0.1,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,0.2,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,0.3,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,0.4,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,0.5,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,0.6,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,4,0,,,,,,"",""
+ball,1,1.1,Namibia,Yasmeen Khan,SA Wittmann,Maahi Madhavan,4,0,,,,,,"",""
+ball,1,1.2,Namibia,Yasmeen Khan,SA Wittmann,Maahi Madhavan,0,0,,,,,,"",""
+ball,1,1.3,Namibia,Yasmeen Khan,SA Wittmann,Maahi Madhavan,4,0,,,,,,"",""
+ball,1,1.4,Namibia,Yasmeen Khan,SA Wittmann,Maahi Madhavan,0,0,,,,,,"",""
+ball,1,1.5,Namibia,Yasmeen Khan,SA Wittmann,Maahi Madhavan,1,0,,,,,,"",""
+ball,1,1.6,Namibia,SA Wittmann,Yasmeen Khan,Maahi Madhavan,0,0,,,,,,"",""
+ball,1,2.1,Namibia,Yasmeen Khan,SA Wittmann,TG Norris,0,0,,,,,,"",""
+ball,1,2.2,Namibia,Yasmeen Khan,SA Wittmann,TG Norris,4,0,,,,,,"",""
+ball,1,2.3,Namibia,Yasmeen Khan,SA Wittmann,TG Norris,1,0,,,,,,"",""
+ball,1,2.4,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,2.5,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,4,0,,,,,,"",""
+ball,1,2.6,Namibia,SA Wittmann,Yasmeen Khan,TG Norris,0,0,,,,,,"",""
+ball,1,3.1,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,0,0,,,,,,"",""
+ball,1,3.2,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,6,0,,,,,,"",""
+ball,1,3.3,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,4,0,,,,,,"",""
+ball,1,3.4,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,0,0,,,,,,"",""
+ball,1,3.5,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,0,0,,,,,,"",""
+ball,1,3.6,Namibia,Yasmeen Khan,SA Wittmann,AI Chudasama,0,0,,,,,,"",""
+ball,1,4.1,Namibia,SA Wittmann,Yasmeen Khan,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.2,Namibia,SA Wittmann,Yasmeen Khan,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.3,Namibia,SA Wittmann,Yasmeen Khan,IM Vaghela,0,0,,,,,,caught,SA Wittmann
+ball,1,4.4,Namibia,KA Green,Yasmeen Khan,IM Vaghela,0,0,,,,,,bowled,KA Green
+ball,1,4.5,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,2,0,,,,,,"",""
+ball,1,4.6,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,2,0,,,,,,"",""
+ball,1,5.1,Namibia,Yasmeen Khan,M Gorases,AI Chudasama,4,0,,,,,,"",""
+ball,1,5.2,Namibia,Yasmeen Khan,M Gorases,AI Chudasama,0,0,,,,,,"",""
+ball,1,5.3,Namibia,Yasmeen Khan,M Gorases,AI Chudasama,1,0,,,,,,"",""
+ball,1,5.4,Namibia,M Gorases,Yasmeen Khan,AI Chudasama,0,0,,,,,,"",""
+ball,1,5.5,Namibia,M Gorases,Yasmeen Khan,AI Chudasama,4,0,,,,,,"",""
+ball,1,5.6,Namibia,M Gorases,Yasmeen Khan,AI Chudasama,0,0,,,,,,"",""
+ball,1,6.1,Namibia,Yasmeen Khan,M Gorases,IM Vaghela,1,0,,,,,,"",""
+ball,1,6.2,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,2,0,,,,,,"",""
+ball,1,6.3,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.4,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.5,Namibia,M Gorases,Yasmeen Khan,IM Vaghela,1,0,,,,,,"",""
+ball,1,6.6,Namibia,Yasmeen Khan,M Gorases,IM Vaghela,1,0,,,,,,"",""
+ball,1,7.1,Namibia,Yasmeen Khan,M Gorases,T Chopra,1,0,,,,,,"",""
+ball,1,7.2,Namibia,M Gorases,Yasmeen Khan,T Chopra,0,0,,,,,,"",""
+ball,1,7.3,Namibia,M Gorases,Yasmeen Khan,T Chopra,4,0,,,,,,"",""
+ball,1,7.4,Namibia,M Gorases,Yasmeen Khan,T Chopra,1,0,,,,,,"",""
+ball,1,7.5,Namibia,Yasmeen Khan,M Gorases,T Chopra,4,0,,,,,,"",""
+ball,1,7.6,Namibia,Yasmeen Khan,M Gorases,T Chopra,0,0,,,,,,"",""
+ball,1,8.1,Namibia,M Gorases,Yasmeen Khan,S Immadi,1,0,,,,,,"",""
+ball,1,8.2,Namibia,Yasmeen Khan,M Gorases,S Immadi,0,0,,,,,,"",""
+ball,1,8.3,Namibia,Yasmeen Khan,M Gorases,S Immadi,1,0,,,,,,"",""
+ball,1,8.4,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,"",""
+ball,1,8.5,Namibia,M Gorases,Yasmeen Khan,S Immadi,4,0,,,,,,"",""
+ball,1,8.6,Namibia,M Gorases,Yasmeen Khan,S Immadi,1,0,,,,,,"",""
+ball,1,9.1,Namibia,M Gorases,Yasmeen Khan,Maahi Madhavan,1,0,,,,,,"",""
+ball,1,9.2,Namibia,Yasmeen Khan,M Gorases,Maahi Madhavan,4,0,,,,,,"",""
+ball,1,9.3,Namibia,Yasmeen Khan,M Gorases,Maahi Madhavan,4,0,,,,,,"",""
+ball,1,9.4,Namibia,Yasmeen Khan,M Gorases,Maahi Madhavan,0,0,,,,,,"",""
+ball,1,9.5,Namibia,Yasmeen Khan,M Gorases,Maahi Madhavan,4,0,,,,,,"",""
+ball,1,9.6,Namibia,Yasmeen Khan,M Gorases,Maahi Madhavan,0,0,,,,,,"",""
+ball,1,10.1,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,"",""
+ball,1,10.2,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,"",""
+ball,1,10.3,Namibia,M Gorases,Yasmeen Khan,S Immadi,1,0,,,,,,"",""
+ball,1,10.4,Namibia,Yasmeen Khan,M Gorases,S Immadi,0,0,,,,,,"",""
+ball,1,10.5,Namibia,Yasmeen Khan,M Gorases,S Immadi,0,0,,,,,,"",""
+ball,1,10.6,Namibia,Yasmeen Khan,M Gorases,S Immadi,1,0,,,,,,"",""
+ball,1,11.1,Namibia,Yasmeen Khan,M Gorases,RP Singh,1,0,,,,,,"",""
+ball,1,11.2,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,11.3,Namibia,M Gorases,Yasmeen Khan,RP Singh,1,0,,,,,,"",""
+ball,1,11.4,Namibia,Yasmeen Khan,M Gorases,RP Singh,2,0,,,,,,"",""
+ball,1,11.5,Namibia,Yasmeen Khan,M Gorases,RP Singh,1,0,,,,,,"",""
+ball,1,11.6,Namibia,M Gorases,Yasmeen Khan,RP Singh,1,0,,,,,,"",""
+ball,1,12.1,Namibia,M Gorases,Yasmeen Khan,S Immadi,1,0,,,,,,"",""
+ball,1,12.2,Namibia,Yasmeen Khan,M Gorases,S Immadi,1,0,,,,,,"",""
+ball,1,12.3,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,"",""
+ball,1,12.4,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,"",""
+ball,1,12.5,Namibia,M Gorases,Yasmeen Khan,S Immadi,1,0,,,,,,"",""
+ball,1,12.6,Namibia,Yasmeen Khan,M Gorases,S Immadi,0,0,,,,,,"",""
+ball,1,13.1,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,13.2,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,13.3,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,13.4,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,13.5,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,13.6,Namibia,M Gorases,Yasmeen Khan,RP Singh,0,0,,,,,,"",""
+ball,1,14.1,Namibia,Yasmeen Khan,M Gorases,S Immadi,2,0,,,,,,"",""
+ball,1,14.2,Namibia,Yasmeen Khan,M Gorases,S Immadi,4,0,,,,,,"",""
+ball,1,14.3,Namibia,Yasmeen Khan,M Gorases,S Immadi,6,0,,,,,,"",""
+ball,1,14.4,Namibia,Yasmeen Khan,M Gorases,S Immadi,4,0,,,,,,"",""
+ball,1,14.5,Namibia,Yasmeen Khan,M Gorases,S Immadi,1,0,,,,,,"",""
+ball,1,14.6,Namibia,M Gorases,Yasmeen Khan,S Immadi,0,0,,,,,,stumped,M Gorases
+ball,1,15.1,Namibia,Yasmeen Khan,W Mwatile,RP Singh,0,0,,,,,,"",""
+ball,1,15.2,Namibia,Yasmeen Khan,W Mwatile,RP Singh,0,0,,,,,,"",""
+ball,1,15.3,Namibia,Yasmeen Khan,W Mwatile,RP Singh,1,0,,,,,,"",""
+ball,1,15.4,Namibia,W Mwatile,Yasmeen Khan,RP Singh,1,0,,,,,,"",""
+ball,1,15.5,Namibia,Yasmeen Khan,W Mwatile,RP Singh,1,0,,,,,,"",""
+ball,1,15.6,Namibia,W Mwatile,Yasmeen Khan,RP Singh,2,0,,,,,,"",""
+ball,1,16.1,Namibia,Yasmeen Khan,W Mwatile,TG Norris,0,0,,,,,,stumped,Yasmeen Khan
+ball,1,16.2,Namibia,N Benjamin,W Mwatile,TG Norris,2,0,,,,,,"",""
+ball,1,16.3,Namibia,N Benjamin,W Mwatile,TG Norris,0,0,,,,,,bowled,N Benjamin
+ball,1,16.4,Namibia,M Mwatile,W Mwatile,TG Norris,4,0,,,,,,"",""
+ball,1,16.5,Namibia,M Mwatile,W Mwatile,TG Norris,0,0,,,,,,caught,M Mwatile
+ball,1,16.6,Namibia,JA Diergaardt,W Mwatile,TG Norris,0,0,,,,,,"",""
+ball,1,17.1,Namibia,W Mwatile,JA Diergaardt,RP Singh,1,0,,,,,,"",""
+ball,1,17.2,Namibia,JA Diergaardt,W Mwatile,RP Singh,0,0,,,,,,"",""
+ball,1,17.3,Namibia,JA Diergaardt,W Mwatile,RP Singh,1,0,,,,,,"",""
+ball,1,17.4,Namibia,W Mwatile,JA Diergaardt,RP Singh,0,0,,,,,,"",""
+ball,1,17.5,Namibia,W Mwatile,JA Diergaardt,RP Singh,1,0,,,,,,"",""
+ball,1,17.6,Namibia,JA Diergaardt,W Mwatile,RP Singh,1,0,,,,,,"",""
+ball,1,18.1,Namibia,JA Diergaardt,W Mwatile,TG Norris,0,1,1,,,,,"",""
+ball,1,18.2,Namibia,JA Diergaardt,W Mwatile,TG Norris,1,0,,,,,,"",""
+ball,1,18.3,Namibia,W Mwatile,JA Diergaardt,TG Norris,6,0,,,,,,"",""
+ball,1,18.4,Namibia,W Mwatile,JA Diergaardt,TG Norris,1,0,,,,,,"",""
+ball,1,18.5,Namibia,JA Diergaardt,W Mwatile,TG Norris,0,0,,,,,,"",""
+ball,1,18.6,Namibia,JA Diergaardt,W Mwatile,TG Norris,0,0,,,,,,"",""
+ball,1,18.7,Namibia,JA Diergaardt,W Mwatile,TG Norris,6,0,,,,,,"",""
+ball,1,19.1,Namibia,W Mwatile,JA Diergaardt,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.2,Namibia,JA Diergaardt,W Mwatile,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.3,Namibia,W Mwatile,JA Diergaardt,IM Vaghela,0,1,,1,,,,"",""
+ball,1,19.4,Namibia,W Mwatile,JA Diergaardt,IM Vaghela,0,0,,,,,,"",""
+ball,1,19.5,Namibia,W Mwatile,JA Diergaardt,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.6,Namibia,JA Diergaardt,W Mwatile,IM Vaghela,1,0,,,,,,"",""
+ball,1,19.7,Namibia,W Mwatile,JA Diergaardt,IM Vaghela,1,0,,,,,,"",""
+ball,2,0.1,United States of America,D Dhingra,CR Pagydyala,EU Kejarukua,0,0,,,,,,"",""
+ball,2,0.2,United States of America,D Dhingra,CR Pagydyala,EU Kejarukua,2,0,,,,,,"",""
+ball,2,0.3,United States of America,D Dhingra,CR Pagydyala,EU Kejarukua,4,0,,,,,,"",""
+ball,2,0.4,United States of America,D Dhingra,CR Pagydyala,EU Kejarukua,1,0,,,,,,"",""
+ball,2,0.5,United States of America,CR Pagydyala,D Dhingra,EU Kejarukua,0,0,,,,,,"",""
+ball,2,0.6,United States of America,CR Pagydyala,D Dhingra,EU Kejarukua,0,0,,,,,,"",""
+ball,2,1.1,United States of America,D Dhingra,CR Pagydyala,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,1.2,United States of America,CR Pagydyala,D Dhingra,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,1.3,United States of America,CR Pagydyala,D Dhingra,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,1.4,United States of America,D Dhingra,CR Pagydyala,S Tuhadeleni,0,1,1,,,,,"",""
+ball,2,1.5,United States of America,D Dhingra,CR Pagydyala,S Tuhadeleni,4,0,,,,,,"",""
+ball,2,1.6,United States of America,D Dhingra,CR Pagydyala,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,1.7,United States of America,D Dhingra,CR Pagydyala,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,2.1,United States of America,CR Pagydyala,D Dhingra,EU Kejarukua,1,0,,,,,,"",""
+ball,2,2.2,United States of America,D Dhingra,CR Pagydyala,EU Kejarukua,0,0,,,,,,caught,D Dhingra
+ball,2,2.3,United States of America,E Claridge,CR Pagydyala,EU Kejarukua,0,0,,,,,,"",""
+ball,2,2.4,United States of America,E Claridge,CR Pagydyala,EU Kejarukua,4,0,,,,,,"",""
+ball,2,2.5,United States of America,E Claridge,CR Pagydyala,EU Kejarukua,0,1,,1,,,,"",""
+ball,2,2.6,United States of America,E Claridge,CR Pagydyala,EU Kejarukua,1,0,,,,,,"",""
+ball,2,2.7,United States of America,CR Pagydyala,E Claridge,EU Kejarukua,0,0,,,,,,"",""
+ball,2,3.1,United States of America,E Claridge,CR Pagydyala,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,3.2,United States of America,E Claridge,CR Pagydyala,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,3.3,United States of America,E Claridge,CR Pagydyala,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,3.4,United States of America,CR Pagydyala,E Claridge,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,3.5,United States of America,CR Pagydyala,E Claridge,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,3.6,United States of America,CR Pagydyala,E Claridge,S Tuhadeleni,4,0,,,,,,"",""
+ball,2,4.1,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,0,,,,,,"",""
+ball,2,4.2,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,0,,,,,,"",""
+ball,2,4.3,United States of America,E Claridge,CR Pagydyala,W Mwatile,1,0,,,,,,"",""
+ball,2,4.4,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,4.5,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,4.6,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,1,1,,,,,"",""
+ball,2,4.7,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,5.1,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,1,0,,,,,,"",""
+ball,2,5.2,United States of America,CR Pagydyala,E Claridge,JA Diergaardt,0,0,,,,,,"",""
+ball,2,5.3,United States of America,CR Pagydyala,E Claridge,JA Diergaardt,0,0,,,,,,"",""
+ball,2,5.4,United States of America,CR Pagydyala,E Claridge,JA Diergaardt,1,0,,,,,,"",""
+ball,2,5.5,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,5.6,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,6.1,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,6.2,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,6.3,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,6.4,United States of America,CR Pagydyala,E Claridge,W Mwatile,4,0,,,,,,"",""
+ball,2,6.5,United States of America,CR Pagydyala,E Claridge,W Mwatile,1,0,,,,,,"",""
+ball,2,6.6,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,1,1,,,,,"",""
+ball,2,6.7,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,0,,,,,,"",""
+ball,2,7.1,United States of America,CR Pagydyala,E Claridge,SA Wittmann,0,1,1,,,,,"",""
+ball,2,7.2,United States of America,CR Pagydyala,E Claridge,SA Wittmann,2,0,,,,,,"",""
+ball,2,7.3,United States of America,CR Pagydyala,E Claridge,SA Wittmann,0,0,,,,,,"",""
+ball,2,7.4,United States of America,CR Pagydyala,E Claridge,SA Wittmann,1,0,,,,,,"",""
+ball,2,7.5,United States of America,E Claridge,CR Pagydyala,SA Wittmann,4,0,,,,,,"",""
+ball,2,7.6,United States of America,E Claridge,CR Pagydyala,SA Wittmann,4,0,,,,,,"",""
+ball,2,7.7,United States of America,E Claridge,CR Pagydyala,SA Wittmann,1,0,,,,,,"",""
+ball,2,8.1,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,0,,,,,,"",""
+ball,2,8.2,United States of America,E Claridge,CR Pagydyala,W Mwatile,0,0,,,,,,"",""
+ball,2,8.3,United States of America,E Claridge,CR Pagydyala,W Mwatile,1,0,,,,,,"",""
+ball,2,8.4,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,1,,,,1,,"",""
+ball,2,8.5,United States of America,E Claridge,CR Pagydyala,W Mwatile,1,0,,,,,,"",""
+ball,2,8.6,United States of America,CR Pagydyala,E Claridge,W Mwatile,0,0,,,,,,"",""
+ball,2,9.1,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,9.2,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,9.3,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,9.4,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,2,0,,,,,,"",""
+ball,2,9.5,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,0,0,,,,,,"",""
+ball,2,9.6,United States of America,E Claridge,CR Pagydyala,JA Diergaardt,4,0,,,,,,"",""
+ball,2,10.1,United States of America,CR Pagydyala,E Claridge,EU Kejarukua,0,0,,,,,,caught,CR Pagydyala
+ball,2,10.2,United States of America,IM Vaghela,E Claridge,EU Kejarukua,0,0,,,,,,"",""
+ball,2,10.3,United States of America,IM Vaghela,E Claridge,EU Kejarukua,1,0,,,,,,"",""
+ball,2,10.4,United States of America,E Claridge,IM Vaghela,EU Kejarukua,1,0,,,,,,"",""
+ball,2,10.5,United States of America,IM Vaghela,E Claridge,EU Kejarukua,0,0,,,,,,"",""
+ball,2,10.6,United States of America,IM Vaghela,E Claridge,EU Kejarukua,0,0,,,,,,"",""
+ball,2,11.1,United States of America,E Claridge,IM Vaghela,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,11.2,United States of America,E Claridge,IM Vaghela,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,11.3,United States of America,IM Vaghela,E Claridge,S Tuhadeleni,0,0,,,,,,"",""
+ball,2,11.4,United States of America,IM Vaghela,E Claridge,S Tuhadeleni,0,0,,,,,,bowled,IM Vaghela
+ball,2,11.5,United States of America,AI Chudasama,E Claridge,S Tuhadeleni,4,0,,,,,,"",""
+ball,2,11.6,United States of America,AI Chudasama,E Claridge,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,12.1,United States of America,AI Chudasama,E Claridge,EU Kejarukua,0,0,,,,,,"",""
+ball,2,12.2,United States of America,AI Chudasama,E Claridge,EU Kejarukua,1,0,,,,,,"",""
+ball,2,12.3,United States of America,E Claridge,AI Chudasama,EU Kejarukua,6,0,,,,,,"",""
+ball,2,12.4,United States of America,E Claridge,AI Chudasama,EU Kejarukua,1,0,,,,,,"",""
+ball,2,12.5,United States of America,AI Chudasama,E Claridge,EU Kejarukua,1,0,,,,,,"",""
+ball,2,12.6,United States of America,E Claridge,AI Chudasama,EU Kejarukua,0,0,,,,,,"",""
+ball,2,13.1,United States of America,AI Chudasama,E Claridge,S Tuhadeleni,0,0,,,,,,caught,AI Chudasama
+ball,2,13.2,United States of America,RP Singh,E Claridge,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,13.3,United States of America,E Claridge,RP Singh,S Tuhadeleni,4,0,,,,,,"",""
+ball,2,13.4,United States of America,E Claridge,RP Singh,S Tuhadeleni,2,0,,,,,,"",""
+ball,2,13.5,United States of America,E Claridge,RP Singh,S Tuhadeleni,1,0,,,,,,"",""
+ball,2,13.6,United States of America,RP Singh,E Claridge,S Tuhadeleni,2,0,,,,,,"",""
+ball,2,14.1,United States of America,E Claridge,RP Singh,KA Green,0,1,1,,,,,"",""
+ball,2,14.2,United States of America,E Claridge,RP Singh,KA Green,0,0,,,,,,"",""
+ball,2,14.3,United States of America,E Claridge,RP Singh,KA Green,2,0,,,,,,"",""
+ball,2,14.4,United States of America,E Claridge,RP Singh,KA Green,1,0,,,,,,"",""
+ball,2,14.5,United States of America,RP Singh,E Claridge,KA Green,6,0,,,,,,"",""
+ball,2,14.6,United States of America,RP Singh,E Claridge,KA Green,0,0,,,,,,"",""
+ball,2,14.7,United States of America,RP Singh,E Claridge,KA Green,1,0,,,,,,"",""
+ball,2,15.1,United States of America,RP Singh,E Claridge,M Mwatile,6,0,,,,,,"",""
+ball,2,15.2,United States of America,RP Singh,E Claridge,M Mwatile,4,0,,,,,,"",""
+ball,2,15.3,United States of America,RP Singh,E Claridge,M Mwatile,0,0,,,,,,"",""
+ball,2,15.4,United States of America,RP Singh,E Claridge,M Mwatile,1,0,,,,,,"",""
+ball,2,15.5,United States of America,E Claridge,RP Singh,M Mwatile,1,0,,,,,,"",""
+ball,2,15.6,United States of America,RP Singh,E Claridge,M Mwatile,0,0,,,,,,caught,RP Singh
+ball,2,16.1,United States of America,E Claridge,Pooja Ganesh,SN Shihepo,2,0,,,,,,"",""
+ball,2,16.2,United States of America,E Claridge,Pooja Ganesh,SN Shihepo,1,0,,,,,,"",""
+ball,2,16.3,United States of America,E Claridge,Pooja Ganesh,SN Shihepo,1,0,,,,,,"",""
+ball,2,16.4,United States of America,Pooja Ganesh,E Claridge,SN Shihepo,1,0,,,,,,"",""
+ball,2,16.5,United States of America,E Claridge,Pooja Ganesh,SN Shihepo,1,0,,,,,,"",""
+ball,2,16.6,United States of America,Pooja Ganesh,E Claridge,SN Shihepo,1,0,,,,,,"",""
+ball,2,17.1,United States of America,Pooja Ganesh,E Claridge,JA Diergaardt,1,0,,,,,,"",""
+ball,2,17.2,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,0,1,1,,,,,"",""
+ball,2,17.3,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,4,0,,,,,,"",""
+ball,2,17.4,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,4,0,,,,,,"",""
+ball,2,17.5,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,0,1,1,,,,,"",""
+ball,2,17.6,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,0,1,,,,1,,"",""
+ball,2,17.7,United States of America,Pooja Ganesh,E Claridge,JA Diergaardt,1,0,,,,,,"",""
+ball,2,17.8,United States of America,E Claridge,Pooja Ganesh,JA Diergaardt,4,0,,,,,,"",""
+ball,2,18.1,United States of America,Pooja Ganesh,E Claridge,W Mwatile,1,0,,,,,,"",""
+ball,2,18.2,United States of America,E Claridge,Pooja Ganesh,W Mwatile,4,0,,,,,,"",""
+ball,2,18.3,United States of America,E Claridge,Pooja Ganesh,W Mwatile,4,0,,,,,,"",""
+ball,2,18.4,United States of America,E Claridge,Pooja Ganesh,W Mwatile,0,0,,,,,,lbw,E Claridge
+ball,2,18.5,United States of America,TG Norris,Pooja Ganesh,W Mwatile,0,0,,,,,,"",""
+ball,2,18.6,United States of America,TG Norris,Pooja Ganesh,W Mwatile,2,0,,,,,,"",""
+ball,2,19.1,United States of America,Pooja Ganesh,TG Norris,SN Shihepo,1,0,,,,,,"",""
+ball,2,19.2,United States of America,TG Norris,Pooja Ganesh,SN Shihepo,1,0,,,,,,"",""

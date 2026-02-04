@@ -1,0 +1,307 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,United States of America
+info,gender,female
+info,season,2025/26
+info,date,2026/01/26
+info,event,Women's T20 World Cup Qualifier
+info,match_number,18
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Papua New Guinea
+info,toss_decision,bat
+info,player_of_match,L Shetty
+info,umpire,K Klaaste
+info,umpire,Shathira Jakir
+info,reserve_umpire,Vijaya Mallela
+info,tv_umpire,BB Pradhan
+info,match_referee,Reon King
+info,winner,United States of America
+info,winner_wickets,5
+info,player,Papua New Guinea,H Doriga
+info,player,Papua New Guinea,K Oala
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,M Tom
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,HL Tau
+info,player,Papua New Guinea,D Lohia
+info,player,United States of America,CR Pagydyala
+info,player,United States of America,GC Bhogle
+info,player,United States of America,E Claridge
+info,player,United States of America,IM Vaghela
+info,player,United States of America,AI Chudasama
+info,player,United States of America,Pooja Ganesh
+info,player,United States of America,RP Singh
+info,player,United States of America,G Kodali
+info,player,United States of America,L Shetty
+info,player,United States of America,S Immadi
+info,player,United States of America,TG Norris
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,CR Pagydyala,d7c02672
+info,registry,people,D Lohia,01341439
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,G Kodali,f606177e
+info,registry,people,GC Bhogle,a1965ce2
+info,registry,people,H Doriga,5aa874da
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,HL Tau,ace63b7f
+info,registry,people,I Toua,83cde44d
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Oala,df70c3f2
+info,registry,people,L Shetty,f0a0ed1d
+info,registry,people,M Tom,cebc1351
+info,registry,people,N Vare,20ace887
+info,registry,people,P Siaka,595433d2
+info,registry,people,Pooja Ganesh,a186b627
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Immadi,a6dd06d6
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,Vijaya Mallela,85b6244a
+ball,1,0.1,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,0.2,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,0.3,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,0.4,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,0.5,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,0.6,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,1.1,Papua New Guinea,K Oala,H Doriga,G Kodali,0,0,,,,,,"",""
+ball,1,1.2,Papua New Guinea,K Oala,H Doriga,G Kodali,1,0,,,,,,"",""
+ball,1,1.3,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,1.4,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,1.5,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,1.6,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,2.1,Papua New Guinea,K Oala,H Doriga,TG Norris,0,0,,,,,,"",""
+ball,1,2.2,Papua New Guinea,K Oala,H Doriga,TG Norris,1,0,,,,,,"",""
+ball,1,2.3,Papua New Guinea,H Doriga,K Oala,TG Norris,4,0,,,,,,"",""
+ball,1,2.4,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,2.5,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,2.6,Papua New Guinea,H Doriga,K Oala,TG Norris,0,0,,,,,,"",""
+ball,1,3.1,Papua New Guinea,K Oala,H Doriga,G Kodali,1,0,,,,,,"",""
+ball,1,3.2,Papua New Guinea,H Doriga,K Oala,G Kodali,4,0,,,,,,"",""
+ball,1,3.3,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,3.4,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,3.5,Papua New Guinea,H Doriga,K Oala,G Kodali,1,0,,,,,,"",""
+ball,1,3.6,Papua New Guinea,K Oala,H Doriga,G Kodali,6,0,,,,,,"",""
+ball,1,4.1,Papua New Guinea,H Doriga,K Oala,IM Vaghela,6,0,,,,,,"",""
+ball,1,4.2,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.3,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.4,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.5,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,4.6,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,5.1,Papua New Guinea,K Oala,H Doriga,G Kodali,0,0,,,,,,"",""
+ball,1,5.2,Papua New Guinea,K Oala,H Doriga,G Kodali,0,0,,,,,,"",""
+ball,1,5.3,Papua New Guinea,K Oala,H Doriga,G Kodali,1,0,,,,,,"",""
+ball,1,5.4,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,5.5,Papua New Guinea,H Doriga,K Oala,G Kodali,0,0,,,,,,"",""
+ball,1,5.6,Papua New Guinea,H Doriga,K Oala,G Kodali,1,0,,,,,,"",""
+ball,1,6.1,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.2,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.3,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.4,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.5,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,6.6,Papua New Guinea,H Doriga,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,7.1,Papua New Guinea,K Oala,H Doriga,L Shetty,1,0,,,,,,"",""
+ball,1,7.2,Papua New Guinea,H Doriga,K Oala,L Shetty,1,0,,,,,,"",""
+ball,1,7.3,Papua New Guinea,K Oala,H Doriga,L Shetty,1,0,,,,,,"",""
+ball,1,7.4,Papua New Guinea,H Doriga,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,7.5,Papua New Guinea,H Doriga,K Oala,L Shetty,0,0,,,,,,bowled,H Doriga
+ball,1,7.6,Papua New Guinea,B Tau,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,8.1,Papua New Guinea,K Oala,B Tau,IM Vaghela,0,0,,,,,,"",""
+ball,1,8.2,Papua New Guinea,K Oala,B Tau,IM Vaghela,1,0,,,,,,"",""
+ball,1,8.3,Papua New Guinea,B Tau,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,8.4,Papua New Guinea,B Tau,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,8.5,Papua New Guinea,B Tau,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,8.6,Papua New Guinea,B Tau,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,9.1,Papua New Guinea,K Oala,B Tau,L Shetty,0,0,,,,,,"",""
+ball,1,9.2,Papua New Guinea,K Oala,B Tau,L Shetty,1,0,,,,,,"",""
+ball,1,9.3,Papua New Guinea,B Tau,K Oala,L Shetty,0,5,5,,,,,"",""
+ball,1,9.4,Papua New Guinea,B Tau,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,9.5,Papua New Guinea,B Tau,K Oala,L Shetty,1,0,,,,,,"",""
+ball,1,9.6,Papua New Guinea,K Oala,B Tau,L Shetty,0,0,,,,,,"",""
+ball,1,9.7,Papua New Guinea,K Oala,B Tau,L Shetty,1,0,,,,,,"",""
+ball,1,10.1,Papua New Guinea,K Oala,B Tau,TG Norris,1,0,,,,,,"",""
+ball,1,10.2,Papua New Guinea,B Tau,K Oala,TG Norris,1,0,,,,,,"",""
+ball,1,10.3,Papua New Guinea,K Oala,B Tau,TG Norris,0,0,,,,,,"",""
+ball,1,10.4,Papua New Guinea,K Oala,B Tau,TG Norris,0,0,,,,,,"",""
+ball,1,10.5,Papua New Guinea,K Oala,B Tau,TG Norris,0,0,,,,,,"",""
+ball,1,10.6,Papua New Guinea,K Oala,B Tau,TG Norris,0,0,,,,,,"",""
+ball,1,11.1,Papua New Guinea,B Tau,K Oala,L Shetty,0,0,,,,,,caught,B Tau
+ball,1,11.2,Papua New Guinea,S Jimmy,K Oala,L Shetty,4,0,,,,,,"",""
+ball,1,11.3,Papua New Guinea,S Jimmy,K Oala,L Shetty,0,1,,,,1,,"",""
+ball,1,11.4,Papua New Guinea,K Oala,S Jimmy,L Shetty,0,1,,1,,,,"",""
+ball,1,11.5,Papua New Guinea,K Oala,S Jimmy,L Shetty,1,0,,,,,,"",""
+ball,1,11.6,Papua New Guinea,S Jimmy,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,11.7,Papua New Guinea,S Jimmy,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,12.1,Papua New Guinea,K Oala,S Jimmy,AI Chudasama,1,0,,,,,,"",""
+ball,1,12.2,Papua New Guinea,S Jimmy,K Oala,AI Chudasama,0,0,,,,,,"",""
+ball,1,12.3,Papua New Guinea,S Jimmy,K Oala,AI Chudasama,1,0,,,,,,"",""
+ball,1,12.4,Papua New Guinea,K Oala,S Jimmy,AI Chudasama,1,0,,,,,,"",""
+ball,1,12.5,Papua New Guinea,S Jimmy,K Oala,AI Chudasama,1,0,,,,,,"",""
+ball,1,12.6,Papua New Guinea,K Oala,S Jimmy,AI Chudasama,1,0,,,,,,"",""
+ball,1,13.1,Papua New Guinea,K Oala,S Jimmy,L Shetty,4,0,,,,,,"",""
+ball,1,13.2,Papua New Guinea,K Oala,S Jimmy,L Shetty,1,0,,,,,,"",""
+ball,1,13.3,Papua New Guinea,S Jimmy,K Oala,L Shetty,4,0,,,,,,"",""
+ball,1,13.4,Papua New Guinea,S Jimmy,K Oala,L Shetty,0,0,,,,,,"",""
+ball,1,13.5,Papua New Guinea,S Jimmy,K Oala,L Shetty,0,0,,,,,,caught,S Jimmy
+ball,1,13.6,Papua New Guinea,P Siaka,K Oala,L Shetty,1,0,,,,,,"",""
+ball,1,14.1,Papua New Guinea,P Siaka,K Oala,S Immadi,0,1,1,,,,,"",""
+ball,1,14.2,Papua New Guinea,P Siaka,K Oala,S Immadi,0,0,,,,,,"",""
+ball,1,14.3,Papua New Guinea,P Siaka,K Oala,S Immadi,0,0,,,,,,"",""
+ball,1,14.4,Papua New Guinea,P Siaka,K Oala,S Immadi,1,0,,,,,,"",""
+ball,1,14.5,Papua New Guinea,K Oala,P Siaka,S Immadi,6,0,,,,,,"",""
+ball,1,14.6,Papua New Guinea,K Oala,P Siaka,S Immadi,1,0,,,,,,"",""
+ball,1,14.7,Papua New Guinea,P Siaka,K Oala,S Immadi,4,0,,,,,,"",""
+ball,1,15.1,Papua New Guinea,K Oala,P Siaka,IM Vaghela,0,1,,,,1,,"",""
+ball,1,15.2,Papua New Guinea,P Siaka,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,15.3,Papua New Guinea,P Siaka,K Oala,IM Vaghela,4,0,,,,,,"",""
+ball,1,15.4,Papua New Guinea,P Siaka,K Oala,IM Vaghela,0,0,,,,,,"",""
+ball,1,15.5,Papua New Guinea,P Siaka,K Oala,IM Vaghela,2,0,,,,,,"",""
+ball,1,15.6,Papua New Guinea,P Siaka,K Oala,IM Vaghela,1,0,,,,,,"",""
+ball,1,16.1,Papua New Guinea,P Siaka,K Oala,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.2,Papua New Guinea,K Oala,P Siaka,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.3,Papua New Guinea,P Siaka,K Oala,AI Chudasama,0,0,,,,,,"",""
+ball,1,16.4,Papua New Guinea,P Siaka,K Oala,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.5,Papua New Guinea,K Oala,P Siaka,AI Chudasama,1,0,,,,,,"",""
+ball,1,16.6,Papua New Guinea,P Siaka,K Oala,AI Chudasama,4,0,,,,,,"",""
+ball,1,17.1,Papua New Guinea,K Oala,P Siaka,G Kodali,2,0,,,,,,"",""
+ball,1,17.2,Papua New Guinea,K Oala,P Siaka,G Kodali,1,0,,,,,,"",""
+ball,1,17.3,Papua New Guinea,P Siaka,K Oala,G Kodali,1,0,,,,,,"",""
+ball,1,17.4,Papua New Guinea,K Oala,P Siaka,G Kodali,1,0,,,,,,"",""
+ball,1,17.5,Papua New Guinea,P Siaka,K Oala,G Kodali,1,0,,,,,,"",""
+ball,1,17.6,Papua New Guinea,K Oala,P Siaka,G Kodali,1,0,,,,,,"",""
+ball,1,18.1,Papua New Guinea,K Oala,P Siaka,AI Chudasama,2,0,,,,,,"",""
+ball,1,18.2,Papua New Guinea,K Oala,P Siaka,AI Chudasama,0,0,,,,,,stumped,K Oala
+ball,1,18.3,Papua New Guinea,N Vare,P Siaka,AI Chudasama,1,0,,,,,,"",""
+ball,1,18.4,Papua New Guinea,P Siaka,N Vare,AI Chudasama,1,0,,,,,,"",""
+ball,1,18.5,Papua New Guinea,N Vare,P Siaka,AI Chudasama,1,0,,,,,,"",""
+ball,1,18.6,Papua New Guinea,P Siaka,N Vare,AI Chudasama,1,0,,,,,,"",""
+ball,1,19.1,Papua New Guinea,P Siaka,N Vare,TG Norris,1,0,,,,,,"",""
+ball,1,19.2,Papua New Guinea,N Vare,P Siaka,TG Norris,0,0,,,,,,"",""
+ball,1,19.3,Papua New Guinea,N Vare,P Siaka,TG Norris,0,1,,,,1,,"",""
+ball,1,19.4,Papua New Guinea,P Siaka,N Vare,TG Norris,2,0,,,,,,"",""
+ball,1,19.5,Papua New Guinea,P Siaka,N Vare,TG Norris,0,0,,,,,,caught,P Siaka
+ball,1,19.6,Papua New Guinea,HJ Thomas,N Vare,TG Norris,2,0,,,,,,"",""
+ball,2,0.1,United States of America,CR Pagydyala,GC Bhogle,M Tom,4,0,,,,,,"",""
+ball,2,0.2,United States of America,CR Pagydyala,GC Bhogle,M Tom,0,0,,,,,,"",""
+ball,2,0.3,United States of America,CR Pagydyala,GC Bhogle,M Tom,4,0,,,,,,"",""
+ball,2,0.4,United States of America,CR Pagydyala,GC Bhogle,M Tom,0,0,,,,,,"",""
+ball,2,0.5,United States of America,CR Pagydyala,GC Bhogle,M Tom,4,0,,,,,,"",""
+ball,2,0.6,United States of America,CR Pagydyala,GC Bhogle,M Tom,0,1,1,,,,,"",""
+ball,2,0.7,United States of America,CR Pagydyala,GC Bhogle,M Tom,4,0,,,,,,"",""
+ball,2,1.1,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,0,0,,,,,,"",""
+ball,2,1.2,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,1,0,,,,,,"",""
+ball,2,1.3,United States of America,CR Pagydyala,GC Bhogle,HJ Thomas,1,0,,,,,,"",""
+ball,2,1.4,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,0,0,,,,,,"",""
+ball,2,1.5,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,4,0,,,,,,"",""
+ball,2,1.6,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,0,0,,,,,,"",""
+ball,2,2.1,United States of America,CR Pagydyala,GC Bhogle,P Siaka,0,0,,,,,,"",""
+ball,2,2.2,United States of America,CR Pagydyala,GC Bhogle,P Siaka,4,0,,,,,,"",""
+ball,2,2.3,United States of America,CR Pagydyala,GC Bhogle,P Siaka,1,0,,,,,,"",""
+ball,2,2.4,United States of America,GC Bhogle,CR Pagydyala,P Siaka,0,0,,,,,,"",""
+ball,2,2.5,United States of America,GC Bhogle,CR Pagydyala,P Siaka,1,0,,,,,,"",""
+ball,2,2.6,United States of America,CR Pagydyala,GC Bhogle,P Siaka,0,0,,,,,,"",""
+ball,2,3.1,United States of America,GC Bhogle,CR Pagydyala,HL Tau,0,0,,,,,,"",""
+ball,2,3.2,United States of America,GC Bhogle,CR Pagydyala,HL Tau,1,0,,,,,,"",""
+ball,2,3.3,United States of America,CR Pagydyala,GC Bhogle,HL Tau,1,0,,,,,,"",""
+ball,2,3.4,United States of America,GC Bhogle,CR Pagydyala,HL Tau,0,0,,,,,,"",""
+ball,2,3.5,United States of America,GC Bhogle,CR Pagydyala,HL Tau,4,0,,,,,,"",""
+ball,2,3.6,United States of America,GC Bhogle,CR Pagydyala,HL Tau,1,0,,,,,,"",""
+ball,2,4.1,United States of America,GC Bhogle,CR Pagydyala,P Siaka,0,0,,,,,,"",""
+ball,2,4.2,United States of America,GC Bhogle,CR Pagydyala,P Siaka,0,0,,,,,,"",""
+ball,2,4.3,United States of America,GC Bhogle,CR Pagydyala,P Siaka,0,0,,,,,,"",""
+ball,2,4.4,United States of America,GC Bhogle,CR Pagydyala,P Siaka,1,0,,,,,,"",""
+ball,2,4.5,United States of America,CR Pagydyala,GC Bhogle,P Siaka,1,0,,,,,,"",""
+ball,2,4.6,United States of America,GC Bhogle,CR Pagydyala,P Siaka,0,0,,,,,,"",""
+ball,2,5.1,United States of America,CR Pagydyala,GC Bhogle,HJ Thomas,0,0,,,,,,"",""
+ball,2,5.2,United States of America,CR Pagydyala,GC Bhogle,HJ Thomas,0,0,,,,,,"",""
+ball,2,5.3,United States of America,CR Pagydyala,GC Bhogle,HJ Thomas,0,0,,,,,,"",""
+ball,2,5.4,United States of America,CR Pagydyala,GC Bhogle,HJ Thomas,1,0,,,,,,"",""
+ball,2,5.5,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,0,0,,,,,,"",""
+ball,2,5.6,United States of America,GC Bhogle,CR Pagydyala,HJ Thomas,0,0,,,,,,"",""
+ball,2,6.1,United States of America,CR Pagydyala,GC Bhogle,I Toua,1,0,,,,,,"",""
+ball,2,6.2,United States of America,GC Bhogle,CR Pagydyala,I Toua,2,0,,,,,,"",""
+ball,2,6.3,United States of America,GC Bhogle,CR Pagydyala,I Toua,0,0,,,,,,"",""
+ball,2,6.4,United States of America,GC Bhogle,CR Pagydyala,I Toua,0,1,,,1,,,"",""
+ball,2,6.5,United States of America,CR Pagydyala,GC Bhogle,I Toua,1,0,,,,,,"",""
+ball,2,6.6,United States of America,GC Bhogle,CR Pagydyala,I Toua,2,0,,,,,,"",""
+ball,2,7.1,United States of America,CR Pagydyala,GC Bhogle,HL Tau,0,0,,,,,,"",""
+ball,2,7.2,United States of America,CR Pagydyala,GC Bhogle,HL Tau,0,0,,,,,,"",""
+ball,2,7.3,United States of America,CR Pagydyala,GC Bhogle,HL Tau,1,0,,,,,,"",""
+ball,2,7.4,United States of America,GC Bhogle,CR Pagydyala,HL Tau,1,0,,,,,,"",""
+ball,2,7.5,United States of America,CR Pagydyala,GC Bhogle,HL Tau,0,0,,,,,,"",""
+ball,2,7.6,United States of America,CR Pagydyala,GC Bhogle,HL Tau,0,0,,,,,,"",""
+ball,2,8.1,United States of America,GC Bhogle,CR Pagydyala,I Toua,6,0,,,,,,"",""
+ball,2,8.2,United States of America,GC Bhogle,CR Pagydyala,I Toua,0,0,,,,,,"",""
+ball,2,8.3,United States of America,GC Bhogle,CR Pagydyala,I Toua,4,0,,,,,,"",""
+ball,2,8.4,United States of America,GC Bhogle,CR Pagydyala,I Toua,1,0,,,,,,"",""
+ball,2,8.5,United States of America,CR Pagydyala,GC Bhogle,I Toua,1,0,,,,,,"",""
+ball,2,8.6,United States of America,GC Bhogle,CR Pagydyala,I Toua,1,0,,,,,,"",""
+ball,2,9.1,United States of America,GC Bhogle,CR Pagydyala,HL Tau,0,0,,,,,,"",""
+ball,2,9.2,United States of America,GC Bhogle,CR Pagydyala,HL Tau,0,0,,,,,,"",""
+ball,2,9.3,United States of America,GC Bhogle,CR Pagydyala,HL Tau,0,0,,,,,,"",""
+ball,2,9.4,United States of America,GC Bhogle,CR Pagydyala,HL Tau,1,0,,,,,,"",""
+ball,2,9.5,United States of America,CR Pagydyala,GC Bhogle,HL Tau,1,0,,,,,,"",""
+ball,2,9.6,United States of America,GC Bhogle,CR Pagydyala,HL Tau,1,0,,,,,,"",""
+ball,2,10.1,United States of America,GC Bhogle,CR Pagydyala,D Lohia,1,0,,,,,,"",""
+ball,2,10.2,United States of America,CR Pagydyala,GC Bhogle,D Lohia,0,0,,,,,,"",""
+ball,2,10.3,United States of America,CR Pagydyala,GC Bhogle,D Lohia,0,0,,,,,,"",""
+ball,2,10.4,United States of America,CR Pagydyala,GC Bhogle,D Lohia,1,0,,,,,,"",""
+ball,2,10.5,United States of America,GC Bhogle,CR Pagydyala,D Lohia,0,0,,,,,,"",""
+ball,2,10.6,United States of America,GC Bhogle,CR Pagydyala,D Lohia,0,0,,,,,,"",""
+ball,2,11.1,United States of America,CR Pagydyala,GC Bhogle,S Jimmy,0,0,,,,,,"",""
+ball,2,11.2,United States of America,CR Pagydyala,GC Bhogle,S Jimmy,0,0,,,,,,"",""
+ball,2,11.3,United States of America,CR Pagydyala,GC Bhogle,S Jimmy,1,0,,,,,,"",""
+ball,2,11.4,United States of America,GC Bhogle,CR Pagydyala,S Jimmy,2,0,,,,,,"",""
+ball,2,11.5,United States of America,GC Bhogle,CR Pagydyala,S Jimmy,0,0,,,,,,lbw,GC Bhogle
+ball,2,11.6,United States of America,E Claridge,CR Pagydyala,S Jimmy,0,0,,,,,,"",""
+ball,2,12.1,United States of America,CR Pagydyala,E Claridge,D Lohia,0,1,,,1,,,"",""
+ball,2,12.2,United States of America,E Claridge,CR Pagydyala,D Lohia,0,1,1,,,,,"",""
+ball,2,12.3,United States of America,E Claridge,CR Pagydyala,D Lohia,1,0,,,,,,"",""
+ball,2,12.4,United States of America,CR Pagydyala,E Claridge,D Lohia,0,1,1,,,,,"",""
+ball,2,12.5,United States of America,CR Pagydyala,E Claridge,D Lohia,0,0,,,,,,bowled,CR Pagydyala
+ball,2,12.6,United States of America,IM Vaghela,E Claridge,D Lohia,1,0,,,,,,"",""
+ball,2,12.7,United States of America,E Claridge,IM Vaghela,D Lohia,1,0,,,,,,"",""
+ball,2,12.8,United States of America,IM Vaghela,E Claridge,D Lohia,0,0,,,,,,caught,IM Vaghela
+ball,2,13.1,United States of America,E Claridge,AI Chudasama,S Jimmy,4,0,,,,,,"",""
+ball,2,13.2,United States of America,E Claridge,AI Chudasama,S Jimmy,0,0,,,,,,"",""
+ball,2,13.3,United States of America,E Claridge,AI Chudasama,S Jimmy,0,0,,,,,,"",""
+ball,2,13.4,United States of America,E Claridge,AI Chudasama,S Jimmy,1,0,,,,,,"",""
+ball,2,13.5,United States of America,AI Chudasama,E Claridge,S Jimmy,0,1,1,,,,,"",""
+ball,2,13.6,United States of America,AI Chudasama,E Claridge,S Jimmy,4,0,,,,,,"",""
+ball,2,13.7,United States of America,AI Chudasama,E Claridge,S Jimmy,0,0,,,,,,"",""
+ball,2,14.1,United States of America,E Claridge,AI Chudasama,P Siaka,0,0,,,,,,"",""
+ball,2,14.2,United States of America,E Claridge,AI Chudasama,P Siaka,1,0,,,,,,"",""
+ball,2,14.3,United States of America,AI Chudasama,E Claridge,P Siaka,0,0,,,,,,"",""
+ball,2,14.4,United States of America,AI Chudasama,E Claridge,P Siaka,0,0,,,,,,"",""
+ball,2,14.5,United States of America,AI Chudasama,E Claridge,P Siaka,1,0,,,,,,"",""
+ball,2,14.6,United States of America,E Claridge,AI Chudasama,P Siaka,1,0,,,,,,"",""
+ball,2,15.1,United States of America,E Claridge,AI Chudasama,HJ Thomas,1,0,,,,,,"",""
+ball,2,15.2,United States of America,AI Chudasama,E Claridge,HJ Thomas,1,0,,,,,,"",""
+ball,2,15.3,United States of America,E Claridge,AI Chudasama,HJ Thomas,1,0,,,,,,"",""
+ball,2,15.4,United States of America,AI Chudasama,E Claridge,HJ Thomas,0,0,,,,,,caught and bowled,AI Chudasama
+ball,2,15.5,United States of America,Pooja Ganesh,E Claridge,HJ Thomas,0,1,,,1,,,"",""
+ball,2,15.6,United States of America,E Claridge,Pooja Ganesh,HJ Thomas,0,0,,,,,,"",""
+ball,2,16.1,United States of America,Pooja Ganesh,E Claridge,P Siaka,1,0,,,,,,"",""
+ball,2,16.2,United States of America,E Claridge,Pooja Ganesh,P Siaka,2,0,,,,,,"",""
+ball,2,16.3,United States of America,E Claridge,Pooja Ganesh,P Siaka,0,0,,,,,,bowled,E Claridge
+ball,2,16.4,United States of America,RP Singh,Pooja Ganesh,P Siaka,0,0,,,,,,"",""
+ball,2,16.5,United States of America,RP Singh,Pooja Ganesh,P Siaka,4,0,,,,,,"",""
+ball,2,16.6,United States of America,RP Singh,Pooja Ganesh,P Siaka,0,1,1,,,,,"",""
+ball,2,16.7,United States of America,RP Singh,Pooja Ganesh,P Siaka,1,0,,,,,,"",""
+ball,2,17.1,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,0,0,,,,,,"",""
+ball,2,17.2,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,0,0,,,,,,"",""
+ball,2,17.3,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,6,0,,,,,,"",""
+ball,2,17.4,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,1,0,,,,,,"",""
+ball,2,17.5,United States of America,Pooja Ganesh,RP Singh,HJ Thomas,1,0,,,,,,"",""
+ball,2,17.6,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,0,1,1,,,,,"",""
+ball,2,17.7,United States of America,RP Singh,Pooja Ganesh,HJ Thomas,1,0,,,,,,"",""

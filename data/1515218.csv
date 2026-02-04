@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Namibia
+info,gender,female
+info,season,2025/26
+info,date,2026/01/22
+info,event,Women's T20 World Cup Qualifier
+info,match_number,11
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,Sanjida Akter Meghla
+info,umpire,Saleema Imtiaz
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Rizwan Akram
+info,tv_umpire,S Dambanevana
+info,match_referee,H Pack
+info,winner,Bangladesh
+info,winner_runs,80
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Juairiya Ferdous
+info,player,Bangladesh,Sharmin Akhter
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Sanjida Akter Meghla
+info,player,Bangladesh,Fariha Trisna
+info,player,Namibia,SA Wittmann
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,KA Green
+info,player,Namibia,M Gorases
+info,player,Namibia,W Mwatile
+info,player,Namibia,N Benjamin
+info,player,Namibia,M Mwatile
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,SN Shihepo
+info,player,Namibia,EU Kejarukua
+info,player,Namibia,S Tuhadeleni
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,EU Kejarukua,e7068bfd
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,H Pack,fed53c91
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,Juairiya Ferdous,e6f05a84
+info,registry,people,KA Green,fa9fdefa
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,N Benjamin,58317766
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mostary,94de63bf
+info,registry,people,S Tuhadeleni,13f7c5f4
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sanjida Akter Meghla,a6412417
+info,registry,people,Sharmin Akhter,84fdd3cf
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0
+ball,1,0.1,Bangladesh,Dilara Akter,Juairiya Ferdous,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Dilara Akter,Juairiya Ferdous,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Juairiya Ferdous,Dilara Akter,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Juairiya Ferdous,Dilara Akter,S Tuhadeleni,0,0,,,,,,caught,Juairiya Ferdous
+ball,1,0.5,Bangladesh,Sharmin Akhter,Dilara Akter,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,0.6,Bangladesh,Sharmin Akhter,Dilara Akter,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Dilara Akter,Sharmin Akhter,EU Kejarukua,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Dilara Akter,Sharmin Akhter,EU Kejarukua,6,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Dilara Akter,Sharmin Akhter,EU Kejarukua,1,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Sharmin Akhter,Dilara Akter,EU Kejarukua,0,0,,,,,,"",""
+ball,1,1.5,Bangladesh,Sharmin Akhter,Dilara Akter,EU Kejarukua,0,1,1,,,,,"",""
+ball,1,1.6,Bangladesh,Sharmin Akhter,Dilara Akter,EU Kejarukua,4,0,,,,,,"",""
+ball,1,1.7,Bangladesh,Sharmin Akhter,Dilara Akter,EU Kejarukua,1,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Sharmin Akhter,Dilara Akter,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Sharmin Akhter,Dilara Akter,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Dilara Akter,Sharmin Akhter,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Dilara Akter,Sharmin Akhter,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,2.5,Bangladesh,Dilara Akter,Sharmin Akhter,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,2.6,Bangladesh,Dilara Akter,Sharmin Akhter,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Sharmin Akhter,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Sharmin Akhter,Dilara Akter,W Mwatile,2,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Sharmin Akhter,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Sharmin Akhter,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Sharmin Akhter,Dilara Akter,W Mwatile,1,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Dilara Akter,Sharmin Akhter,W Mwatile,4,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Sharmin Akhter,Dilara Akter,SN Shihepo,0,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Sharmin Akhter,Dilara Akter,SN Shihepo,0,0,,,,,,lbw,Sharmin Akhter
+ball,1,4.3,Bangladesh,Nigar Sultana,Dilara Akter,SN Shihepo,0,1,1,,,,,"",""
+ball,1,4.4,Bangladesh,Nigar Sultana,Dilara Akter,SN Shihepo,1,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,1,1,,,,,"",""
+ball,1,4.6,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,4.7,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,4.8,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Nigar Sultana,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Nigar Sultana,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Nigar Sultana,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Nigar Sultana,Dilara Akter,W Mwatile,0,0,,,,,,"",""
+ball,1,5.5,Bangladesh,Nigar Sultana,Dilara Akter,W Mwatile,1,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Dilara Akter,Nigar Sultana,W Mwatile,1,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,1,1,,,,,"",""
+ball,1,6.2,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,4,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,6.4,Bangladesh,Dilara Akter,Nigar Sultana,SN Shihepo,0,0,,,,,,caught,Dilara Akter
+ball,1,6.5,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,6.6,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,1,0,,,,,,"",""
+ball,1,6.7,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,0,0,,,,,,"",""
+ball,1,7.1,Bangladesh,S Mostary,Nigar Sultana,W Mwatile,0,0,,,,,,"",""
+ball,1,7.2,Bangladesh,S Mostary,Nigar Sultana,W Mwatile,0,2,2,,,,,"",""
+ball,1,7.3,Bangladesh,Nigar Sultana,S Mostary,W Mwatile,0,0,,,,,,"",""
+ball,1,7.4,Bangladesh,Nigar Sultana,S Mostary,W Mwatile,0,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Nigar Sultana,S Mostary,W Mwatile,1,0,,,,,,"",""
+ball,1,7.6,Bangladesh,S Mostary,Nigar Sultana,W Mwatile,1,0,,,,,,"",""
+ball,1,7.7,Bangladesh,Nigar Sultana,S Mostary,W Mwatile,0,0,,,,,,"",""
+ball,1,8.1,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.2,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.3,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,1,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,0,0,,,,,,"",""
+ball,1,8.6,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,0,0,,,,,,"",""
+ball,1,9.1,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,1,1,,,,,"",""
+ball,1,9.2,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,6,0,,,,,,"",""
+ball,1,9.3,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,2,0,,,,,,"",""
+ball,1,9.4,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,0,,,,,,"",""
+ball,1,9.5,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,1,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Nigar Sultana,S Mostary,SA Wittmann,0,0,,,,,,"",""
+ball,1,9.7,Bangladesh,Nigar Sultana,S Mostary,SA Wittmann,0,0,,,,,,"",""
+ball,1,10.1,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,1,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,4,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,1,0,,,,,,"",""
+ball,1,10.4,Bangladesh,S Mostary,Nigar Sultana,SN Shihepo,1,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,0,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Nigar Sultana,S Mostary,SN Shihepo,4,0,,,,,,"",""
+ball,1,11.1,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,4,,,,4,,"",""
+ball,1,11.2,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,0,,,,,,"",""
+ball,1,11.3,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,4,0,,,,,,"",""
+ball,1,11.4,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,0,,,,,,"",""
+ball,1,11.5,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,0,1,1,,,,,"",""
+ball,1,11.6,Bangladesh,S Mostary,Nigar Sultana,SA Wittmann,1,0,,,,,,"",""
+ball,1,11.7,Bangladesh,Nigar Sultana,S Mostary,SA Wittmann,0,1,1,,,,,"",""
+ball,1,11.8,Bangladesh,Nigar Sultana,S Mostary,SA Wittmann,0,0,,,,,,"",""
+ball,1,12.1,Bangladesh,S Mostary,Nigar Sultana,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,12.2,Bangladesh,S Mostary,Nigar Sultana,S Tuhadeleni,2,0,,,,,,"",""
+ball,1,12.3,Bangladesh,S Mostary,Nigar Sultana,S Tuhadeleni,0,0,,,,,,"",""
+ball,1,12.4,Bangladesh,S Mostary,Nigar Sultana,S Tuhadeleni,6,0,,,,,,"",""
+ball,1,12.5,Bangladesh,S Mostary,Nigar Sultana,S Tuhadeleni,0,0,,,,,,caught,S Mostary
+ball,1,12.6,Bangladesh,Shorna Akter,Nigar Sultana,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Shorna Akter,Nigar Sultana,JA Diergaardt,1,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,0,1,1,,,,,"",""
+ball,1,13.3,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Shorna Akter,Nigar Sultana,JA Diergaardt,1,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Shorna Akter,Nigar Sultana,JA Diergaardt,1,0,,,,,,"",""
+ball,1,13.7,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,0,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Shorna Akter,Nigar Sultana,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Nigar Sultana,Shorna Akter,S Tuhadeleni,4,0,,,,,,"",""
+ball,1,14.3,Bangladesh,Nigar Sultana,Shorna Akter,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Shorna Akter,Nigar Sultana,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,14.5,Bangladesh,Nigar Sultana,Shorna Akter,S Tuhadeleni,0,2,2,,,,,"",""
+ball,1,14.6,Bangladesh,Shorna Akter,Nigar Sultana,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,14.7,Bangladesh,Nigar Sultana,Shorna Akter,S Tuhadeleni,1,0,,,,,,"",""
+ball,1,15.1,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,15.2,Bangladesh,Shorna Akter,Nigar Sultana,JA Diergaardt,4,0,,,,,,"",""
+ball,1,15.3,Bangladesh,Shorna Akter,Nigar Sultana,JA Diergaardt,1,0,,,,,,"",""
+ball,1,15.4,Bangladesh,Nigar Sultana,Shorna Akter,JA Diergaardt,0,0,,,,,,caught,Nigar Sultana
+ball,1,15.5,Bangladesh,Ritu Moni,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Shorna Akter,Ritu Moni,JA Diergaardt,0,1,1,,,,,"",""
+ball,1,15.7,Bangladesh,Shorna Akter,Ritu Moni,JA Diergaardt,4,0,,,,,,"",""
+ball,1,16.1,Bangladesh,Ritu Moni,Shorna Akter,EU Kejarukua,1,0,,,,,,"",""
+ball,1,16.2,Bangladesh,Shorna Akter,Ritu Moni,EU Kejarukua,1,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Ritu Moni,Shorna Akter,EU Kejarukua,1,0,,,,,,"",""
+ball,1,16.4,Bangladesh,Shorna Akter,Ritu Moni,EU Kejarukua,1,0,,,,,,"",""
+ball,1,16.5,Bangladesh,Ritu Moni,Shorna Akter,EU Kejarukua,1,0,,,,,,"",""
+ball,1,16.6,Bangladesh,Shorna Akter,Ritu Moni,EU Kejarukua,1,0,,,,,,"",""
+ball,1,17.1,Bangladesh,Shorna Akter,Ritu Moni,JA Diergaardt,1,0,,,,,,"",""
+ball,1,17.2,Bangladesh,Ritu Moni,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,17.3,Bangladesh,Shorna Akter,Ritu Moni,JA Diergaardt,1,0,,,,,,"",""
+ball,1,17.4,Bangladesh,Ritu Moni,Shorna Akter,JA Diergaardt,1,0,,,,,,"",""
+ball,1,17.5,Bangladesh,Shorna Akter,Ritu Moni,JA Diergaardt,1,0,,,,,,"",""
+ball,1,17.6,Bangladesh,Ritu Moni,Shorna Akter,JA Diergaardt,0,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Shorna Akter,Ritu Moni,W Mwatile,1,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Ritu Moni,Shorna Akter,W Mwatile,0,0,,,,,,run out,Ritu Moni
+ball,1,18.3,Bangladesh,Shorna Akter,Rabeya Khan,W Mwatile,0,0,,,,,,caught,Shorna Akter
+ball,1,18.4,Bangladesh,Fahima Khatun,Rabeya Khan,W Mwatile,0,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Fahima Khatun,Rabeya Khan,W Mwatile,0,0,,,,,,"",""
+ball,1,18.6,Bangladesh,Fahima Khatun,Rabeya Khan,W Mwatile,0,0,,,,,,"",""
+ball,1,19.1,Bangladesh,Rabeya Khan,Fahima Khatun,JA Diergaardt,0,0,,,,,,"",""
+ball,1,19.2,Bangladesh,Rabeya Khan,Fahima Khatun,JA Diergaardt,4,0,,,,,,"",""
+ball,1,19.3,Bangladesh,Rabeya Khan,Fahima Khatun,JA Diergaardt,0,0,,,,,,"",""
+ball,1,19.4,Bangladesh,Rabeya Khan,Fahima Khatun,JA Diergaardt,1,0,,,,,,"",""
+ball,1,19.5,Bangladesh,Fahima Khatun,Rabeya Khan,JA Diergaardt,1,0,,,,,,"",""
+ball,1,19.6,Bangladesh,Rabeya Khan,Fahima Khatun,JA Diergaardt,6,0,,,,,,"",""
+ball,2,0.1,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,0.2,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,1,0,,,,,,"",""
+ball,2,0.3,Namibia,Yasmeen Khan,SA Wittmann,Fariha Trisna,0,0,,,,,,"",""
+ball,2,0.4,Namibia,Yasmeen Khan,SA Wittmann,Fariha Trisna,0,1,1,,,,,"",""
+ball,2,0.5,Namibia,Yasmeen Khan,SA Wittmann,Fariha Trisna,1,0,,,,,,"",""
+ball,2,0.6,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,1,1,,,,,"",""
+ball,2,0.7,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,1,0,,,,,,"",""
+ball,2,0.8,Namibia,Yasmeen Khan,SA Wittmann,Fariha Trisna,4,0,,,,,,"",""
+ball,2,1.1,Namibia,SA Wittmann,Yasmeen Khan,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,1.2,Namibia,SA Wittmann,Yasmeen Khan,Sanjida Akter Meghla,6,0,,,,,,"",""
+ball,2,1.3,Namibia,SA Wittmann,Yasmeen Khan,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,1.4,Namibia,SA Wittmann,Yasmeen Khan,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,1.5,Namibia,SA Wittmann,Yasmeen Khan,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,1.6,Namibia,Yasmeen Khan,SA Wittmann,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,2.1,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,2.2,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,2.3,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,2.4,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,4,0,,,,,,"",""
+ball,2,2.5,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,2.6,Namibia,SA Wittmann,Yasmeen Khan,Fariha Trisna,0,0,,,,,,"",""
+ball,2,3.1,Namibia,Yasmeen Khan,SA Wittmann,Rabeya Khan,0,0,,,,,,bowled,Yasmeen Khan
+ball,2,3.2,Namibia,KA Green,SA Wittmann,Rabeya Khan,0,0,,,,,,"",""
+ball,2,3.3,Namibia,KA Green,SA Wittmann,Rabeya Khan,0,0,,,,,,"",""
+ball,2,3.4,Namibia,KA Green,SA Wittmann,Rabeya Khan,0,0,,,,,,"",""
+ball,2,3.5,Namibia,KA Green,SA Wittmann,Rabeya Khan,0,0,,,,,,"",""
+ball,2,3.6,Namibia,KA Green,SA Wittmann,Rabeya Khan,1,0,,,,,,"",""
+ball,2,4.1,Namibia,KA Green,SA Wittmann,Fariha Trisna,1,0,,,,,,"",""
+ball,2,4.2,Namibia,SA Wittmann,KA Green,Fariha Trisna,2,0,,,,,,"",""
+ball,2,4.3,Namibia,SA Wittmann,KA Green,Fariha Trisna,1,0,,,,,,"",""
+ball,2,4.4,Namibia,KA Green,SA Wittmann,Fariha Trisna,0,0,,,,,,"",""
+ball,2,4.5,Namibia,KA Green,SA Wittmann,Fariha Trisna,1,0,,,,,,"",""
+ball,2,4.6,Namibia,SA Wittmann,KA Green,Fariha Trisna,0,0,,,,,,"",""
+ball,2,5.1,Namibia,KA Green,SA Wittmann,Rabeya Khan,0,0,,,,,,bowled,KA Green
+ball,2,5.2,Namibia,M Gorases,SA Wittmann,Rabeya Khan,0,0,,,,,,"",""
+ball,2,5.3,Namibia,M Gorases,SA Wittmann,Rabeya Khan,1,0,,,,,,"",""
+ball,2,5.4,Namibia,SA Wittmann,M Gorases,Rabeya Khan,0,0,,,,,,"",""
+ball,2,5.5,Namibia,SA Wittmann,M Gorases,Rabeya Khan,0,0,,,,,,"",""
+ball,2,5.6,Namibia,SA Wittmann,M Gorases,Rabeya Khan,1,0,,,,,,"",""
+ball,2,6.1,Namibia,SA Wittmann,M Gorases,Ritu Moni,1,0,,,,,,"",""
+ball,2,6.2,Namibia,M Gorases,SA Wittmann,Ritu Moni,0,0,,,,,,"",""
+ball,2,6.3,Namibia,M Gorases,SA Wittmann,Ritu Moni,0,0,,,,,,"",""
+ball,2,6.4,Namibia,M Gorases,SA Wittmann,Ritu Moni,0,0,,,,,,"",""
+ball,2,6.5,Namibia,M Gorases,SA Wittmann,Ritu Moni,1,0,,,,,,"",""
+ball,2,6.6,Namibia,SA Wittmann,M Gorases,Ritu Moni,1,0,,,,,,"",""
+ball,2,7.1,Namibia,SA Wittmann,M Gorases,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.2,Namibia,SA Wittmann,M Gorases,Fahima Khatun,0,0,,,,,,caught,SA Wittmann
+ball,2,7.3,Namibia,W Mwatile,M Gorases,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.4,Namibia,W Mwatile,M Gorases,Fahima Khatun,1,0,,,,,,"",""
+ball,2,7.5,Namibia,M Gorases,W Mwatile,Fahima Khatun,0,0,,,,,,"",""
+ball,2,7.6,Namibia,M Gorases,W Mwatile,Fahima Khatun,0,0,,,,,,"",""
+ball,2,8.1,Namibia,W Mwatile,M Gorases,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.2,Namibia,M Gorases,W Mwatile,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.3,Namibia,W Mwatile,M Gorases,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.4,Namibia,M Gorases,W Mwatile,Ritu Moni,0,0,,,,,,"",""
+ball,2,8.5,Namibia,M Gorases,W Mwatile,Ritu Moni,1,0,,,,,,"",""
+ball,2,8.6,Namibia,W Mwatile,M Gorases,Ritu Moni,1,0,,,,,,"",""
+ball,2,9.1,Namibia,W Mwatile,M Gorases,Fahima Khatun,1,0,,,,,,"",""
+ball,2,9.2,Namibia,M Gorases,W Mwatile,Fahima Khatun,4,0,,,,,,"",""
+ball,2,9.3,Namibia,M Gorases,W Mwatile,Fahima Khatun,1,0,,,,,,"",""
+ball,2,9.4,Namibia,W Mwatile,M Gorases,Fahima Khatun,1,0,,,,,,"",""
+ball,2,9.5,Namibia,M Gorases,W Mwatile,Fahima Khatun,1,0,,,,,,"",""
+ball,2,9.6,Namibia,W Mwatile,M Gorases,Fahima Khatun,0,0,,,,,,"",""
+ball,2,10.1,Namibia,M Gorases,W Mwatile,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,10.2,Namibia,W Mwatile,M Gorases,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,10.3,Namibia,M Gorases,W Mwatile,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,10.4,Namibia,W Mwatile,M Gorases,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,10.5,Namibia,M Gorases,W Mwatile,Sanjida Akter Meghla,0,0,,,,,,bowled,M Gorases
+ball,2,10.6,Namibia,N Benjamin,W Mwatile,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,11.1,Namibia,W Mwatile,N Benjamin,Fahima Khatun,1,0,,,,,,"",""
+ball,2,11.2,Namibia,N Benjamin,W Mwatile,Fahima Khatun,0,0,,,,,,"",""
+ball,2,11.3,Namibia,N Benjamin,W Mwatile,Fahima Khatun,1,0,,,,,,"",""
+ball,2,11.4,Namibia,W Mwatile,N Benjamin,Fahima Khatun,0,0,,,,,,"",""
+ball,2,11.5,Namibia,W Mwatile,N Benjamin,Fahima Khatun,0,0,,,,,,caught,W Mwatile
+ball,2,11.6,Namibia,M Mwatile,N Benjamin,Fahima Khatun,0,0,,,,,,"",""
+ball,2,12.1,Namibia,N Benjamin,M Mwatile,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,12.2,Namibia,M Mwatile,N Benjamin,Sanjida Akter Meghla,1,0,,,,,,"",""
+ball,2,12.3,Namibia,N Benjamin,M Mwatile,Sanjida Akter Meghla,0,0,,,,,,caught,N Benjamin
+ball,2,12.4,Namibia,JA Diergaardt,M Mwatile,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,12.5,Namibia,JA Diergaardt,M Mwatile,Sanjida Akter Meghla,0,1,1,,,,,"",""
+ball,2,12.6,Namibia,JA Diergaardt,M Mwatile,Sanjida Akter Meghla,0,0,,,,,,caught,JA Diergaardt
+ball,2,12.7,Namibia,SN Shihepo,M Mwatile,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,13.1,Namibia,M Mwatile,SN Shihepo,Rabeya Khan,1,0,,,,,,"",""
+ball,2,13.2,Namibia,SN Shihepo,M Mwatile,Rabeya Khan,0,0,,,,,,"",""
+ball,2,13.3,Namibia,SN Shihepo,M Mwatile,Rabeya Khan,1,0,,,,,,"",""
+ball,2,13.4,Namibia,M Mwatile,SN Shihepo,Rabeya Khan,0,0,,,,,,"",""
+ball,2,13.5,Namibia,M Mwatile,SN Shihepo,Rabeya Khan,0,0,,,,,,"",""
+ball,2,13.6,Namibia,M Mwatile,SN Shihepo,Rabeya Khan,0,0,,,,,,caught,M Mwatile
+ball,2,14.1,Namibia,SN Shihepo,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,14.2,Namibia,SN Shihepo,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,14.3,Namibia,SN Shihepo,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,14.4,Namibia,SN Shihepo,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,bowled,SN Shihepo
+ball,2,14.5,Namibia,S Tuhadeleni,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,14.6,Namibia,S Tuhadeleni,EU Kejarukua,Sanjida Akter Meghla,0,0,,,,,,"",""
+ball,2,15.1,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,15.2,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,15.3,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,15.4,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,15.5,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,15.6,Namibia,EU Kejarukua,S Tuhadeleni,Rabeya Khan,0,0,,,,,,"",""
+ball,2,16.1,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,0,0,,,,,,"",""
+ball,2,16.2,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,0,0,,,,,,"",""
+ball,2,16.3,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,2,0,,,,,,"",""
+ball,2,16.4,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,0,2,,,,2,,"",""
+ball,2,16.5,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,2,0,,,,,,"",""
+ball,2,16.6,Namibia,S Tuhadeleni,EU Kejarukua,Shorna Akter,1,0,,,,,,"",""
+ball,2,17.1,Namibia,S Tuhadeleni,EU Kejarukua,Fahima Khatun,0,0,,,,,,"",""
+ball,2,17.2,Namibia,S Tuhadeleni,EU Kejarukua,Fahima Khatun,0,0,,,,,,"",""
+ball,2,17.3,Namibia,S Tuhadeleni,EU Kejarukua,Fahima Khatun,0,0,,,,,,"",""
+ball,2,17.4,Namibia,S Tuhadeleni,EU Kejarukua,Fahima Khatun,1,0,,,,,,"",""
+ball,2,17.5,Namibia,EU Kejarukua,S Tuhadeleni,Fahima Khatun,0,0,,,,,,bowled,EU Kejarukua

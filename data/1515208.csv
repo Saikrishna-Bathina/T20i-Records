@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Zimbabwe
+info,gender,female
+info,season,2025/26
+info,date,2026/01/18
+info,event,Women's T20 World Cup Qualifier
+info,match_number,3
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,C Chatonzwa
+info,umpire,K Klaaste
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Jonathan Kennedy
+info,tv_umpire,Shathira Jakir
+info,match_referee,H Pack
+info,winner,Netherlands
+info,winner_runs,22
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,R Rijke
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,S Khurana
+info,player,Netherlands,C de Lange
+info,player,Netherlands,S Siegers
+info,player,Netherlands,I van der Woning
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,B Biza
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,C Chatonzwa
+info,player,Zimbabwe,K Chigora
+info,player,Zimbabwe,A Mazvishaya
+info,player,Zimbabwe,L Mabhero
+info,registry,people,A Mazvishaya,09a58e2d
+info,registry,people,B Biza,8a522c6c
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Chatonzwa,da61a9af
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,F Overdijk,022745d5
+info,registry,people,H Pack,fed53c91
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,I van der Woning,5aa8574b
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,K Chigora,5f311f1a
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Khurana,9a9a056d
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Vijaya Mallela,85b6244a
+ball,1,0.1,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,1,1,,,,,"",""
+ball,1,0.2,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,1,1,,,,,"",""
+ball,1,0.3,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,0,,,,,,"",""
+ball,1,0.4,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,4,0,,,,,,"",""
+ball,1,0.5,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,0,,,,,,"",""
+ball,1,0.6,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,1,1,,,,,"",""
+ball,1,0.7,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,1,1,,,,,"",""
+ball,1,0.8,Netherlands,HDJ Siegers,P Molkenboer,K Chigora,0,1,,,,1,,"",""
+ball,1,0.9,Netherlands,P Molkenboer,HDJ Siegers,K Chigora,0,1,1,,,,,"",""
+ball,1,0.10,Netherlands,P Molkenboer,HDJ Siegers,K Chigora,0,1,1,,,,,"",""
+ball,1,0.11,Netherlands,P Molkenboer,HDJ Siegers,K Chigora,0,1,1,,,,,"",""
+ball,1,0.12,Netherlands,P Molkenboer,HDJ Siegers,K Chigora,4,0,,,,,,"",""
+ball,1,0.13,Netherlands,P Molkenboer,HDJ Siegers,K Chigora,0,0,,,,,,"",""
+ball,1,1.1,Netherlands,HDJ Siegers,P Molkenboer,C Chatonzwa,2,0,,,,,,"",""
+ball,1,1.2,Netherlands,HDJ Siegers,P Molkenboer,C Chatonzwa,0,0,,,,,,caught,HDJ Siegers
+ball,1,1.3,Netherlands,B de Leede,P Molkenboer,C Chatonzwa,0,0,,,,,,lbw,B de Leede
+ball,1,1.4,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,0,0,,,,,,"",""
+ball,1,1.5,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,0,0,,,,,,"",""
+ball,1,1.6,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,0,1,,,,1,,"",""
+ball,1,2.1,Netherlands,SL Kalis,P Molkenboer,J Nkomo,4,0,,,,,,"",""
+ball,1,2.2,Netherlands,SL Kalis,P Molkenboer,J Nkomo,0,1,1,,,,,"",""
+ball,1,2.3,Netherlands,SL Kalis,P Molkenboer,J Nkomo,0,0,,,,,,"",""
+ball,1,2.4,Netherlands,SL Kalis,P Molkenboer,J Nkomo,0,0,,,,,,"",""
+ball,1,2.5,Netherlands,SL Kalis,P Molkenboer,J Nkomo,2,0,,,,,,"",""
+ball,1,2.6,Netherlands,SL Kalis,P Molkenboer,J Nkomo,1,0,,,,,,"",""
+ball,1,2.7,Netherlands,P Molkenboer,SL Kalis,J Nkomo,0,0,,,,,,"",""
+ball,1,3.1,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,1,0,,,,,,"",""
+ball,1,3.2,Netherlands,P Molkenboer,SL Kalis,C Chatonzwa,0,0,,,,,,"",""
+ball,1,3.3,Netherlands,P Molkenboer,SL Kalis,C Chatonzwa,1,1,,1,,,,"",""
+ball,1,3.4,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,0,0,,,,,,"",""
+ball,1,3.5,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,4,0,,,,,,"",""
+ball,1,3.6,Netherlands,SL Kalis,P Molkenboer,C Chatonzwa,1,0,,,,,,"",""
+ball,1,3.7,Netherlands,P Molkenboer,SL Kalis,C Chatonzwa,1,0,,,,,,"",""
+ball,1,4.1,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,0,0,,,,,,"",""
+ball,1,4.2,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,4,0,,,,,,"",""
+ball,1,4.3,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,0,0,,,,,,"",""
+ball,1,4.4,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,1,0,,,,,,"",""
+ball,1,4.5,Netherlands,SL Kalis,P Molkenboer,N Gwanzura,0,0,,,,,,"",""
+ball,1,4.6,Netherlands,SL Kalis,P Molkenboer,N Gwanzura,0,1,1,,,,,"",""
+ball,1,4.7,Netherlands,SL Kalis,P Molkenboer,N Gwanzura,0,0,,,,,,"",""
+ball,1,5.1,Netherlands,P Molkenboer,SL Kalis,J Nkomo,0,1,,,1,,,"",""
+ball,1,5.2,Netherlands,SL Kalis,P Molkenboer,J Nkomo,1,0,,,,,,"",""
+ball,1,5.3,Netherlands,P Molkenboer,SL Kalis,J Nkomo,0,0,,,,,,"",""
+ball,1,5.4,Netherlands,P Molkenboer,SL Kalis,J Nkomo,1,0,,,,,,"",""
+ball,1,5.5,Netherlands,SL Kalis,P Molkenboer,J Nkomo,0,0,,,,,,"",""
+ball,1,5.6,Netherlands,SL Kalis,P Molkenboer,J Nkomo,0,0,,,,,,"",""
+ball,1,6.1,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,0,0,,,,,,"",""
+ball,1,6.2,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,1,0,,,,,,"",""
+ball,1,6.3,Netherlands,SL Kalis,P Molkenboer,N Gwanzura,1,0,,,,,,"",""
+ball,1,6.4,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,4,0,,,,,,"",""
+ball,1,6.5,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,4,0,,,,,,"",""
+ball,1,6.6,Netherlands,P Molkenboer,SL Kalis,N Gwanzura,0,0,,,,,,"",""
+ball,1,7.1,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,1,0,,,,,,"",""
+ball,1,7.2,Netherlands,P Molkenboer,SL Kalis,A Mazvishaya,0,0,,,,,,"",""
+ball,1,7.3,Netherlands,P Molkenboer,SL Kalis,A Mazvishaya,0,0,,,,,,"",""
+ball,1,7.4,Netherlands,P Molkenboer,SL Kalis,A Mazvishaya,1,0,,,,,,"",""
+ball,1,7.5,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,0,0,,,,,,"",""
+ball,1,7.6,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,1,0,,,,,,"",""
+ball,1,8.1,Netherlands,SL Kalis,P Molkenboer,L Mabhero,0,0,,,,,,"",""
+ball,1,8.2,Netherlands,SL Kalis,P Molkenboer,L Mabhero,0,0,,,,,,"",""
+ball,1,8.3,Netherlands,SL Kalis,P Molkenboer,L Mabhero,1,0,,,,,,"",""
+ball,1,8.4,Netherlands,P Molkenboer,SL Kalis,L Mabhero,1,0,,,,,,"",""
+ball,1,8.5,Netherlands,SL Kalis,P Molkenboer,L Mabhero,0,0,,,,,,"",""
+ball,1,8.6,Netherlands,SL Kalis,P Molkenboer,L Mabhero,0,0,,,,,,"",""
+ball,1,9.1,Netherlands,P Molkenboer,SL Kalis,A Mazvishaya,2,0,,,,,,"",""
+ball,1,9.2,Netherlands,P Molkenboer,SL Kalis,A Mazvishaya,1,0,,,,,,"",""
+ball,1,9.3,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,4,0,,,,,,"",""
+ball,1,9.4,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,4,0,,,,,,"",""
+ball,1,9.5,Netherlands,SL Kalis,P Molkenboer,A Mazvishaya,0,0,,,,,,caught and bowled,SL Kalis
+ball,1,9.6,Netherlands,R Rijke,P Molkenboer,A Mazvishaya,0,0,,,,,,"",""
+ball,1,10.1,Netherlands,P Molkenboer,R Rijke,L Mabhero,1,0,,,,,,"",""
+ball,1,10.2,Netherlands,R Rijke,P Molkenboer,L Mabhero,1,0,,,,,,"",""
+ball,1,10.3,Netherlands,P Molkenboer,R Rijke,L Mabhero,0,0,,,,,,caught,P Molkenboer
+ball,1,10.4,Netherlands,F Overdijk,R Rijke,L Mabhero,1,0,,,,,,"",""
+ball,1,10.5,Netherlands,R Rijke,F Overdijk,L Mabhero,2,0,,,,,,"",""
+ball,1,10.6,Netherlands,R Rijke,F Overdijk,L Mabhero,1,0,,,,,,"",""
+ball,1,11.1,Netherlands,R Rijke,F Overdijk,B Biza,4,0,,,,,,"",""
+ball,1,11.2,Netherlands,R Rijke,F Overdijk,B Biza,1,0,,,,,,"",""
+ball,1,11.3,Netherlands,F Overdijk,R Rijke,B Biza,0,0,,,,,,"",""
+ball,1,11.4,Netherlands,F Overdijk,R Rijke,B Biza,4,0,,,,,,"",""
+ball,1,11.5,Netherlands,F Overdijk,R Rijke,B Biza,1,0,,,,,,"",""
+ball,1,11.6,Netherlands,R Rijke,F Overdijk,B Biza,2,0,,,,,,"",""
+ball,1,12.1,Netherlands,F Overdijk,R Rijke,C Chatonzwa,1,0,,,,,,"",""
+ball,1,12.2,Netherlands,R Rijke,F Overdijk,C Chatonzwa,0,0,,,,,,"",""
+ball,1,12.3,Netherlands,R Rijke,F Overdijk,C Chatonzwa,4,0,,,,,,"",""
+ball,1,12.4,Netherlands,R Rijke,F Overdijk,C Chatonzwa,0,0,,,,,,"",""
+ball,1,12.5,Netherlands,R Rijke,F Overdijk,C Chatonzwa,0,0,,,,,,lbw,R Rijke
+ball,1,12.6,Netherlands,IJR Zwilling,F Overdijk,C Chatonzwa,1,0,,,,,,"",""
+ball,1,13.1,Netherlands,IJR Zwilling,F Overdijk,K Chigora,0,0,,,,,,lbw,IJR Zwilling
+ball,1,13.2,Netherlands,S Khurana,F Overdijk,K Chigora,0,0,,,,,,"",""
+ball,1,13.3,Netherlands,S Khurana,F Overdijk,K Chigora,0,1,1,,,,,"",""
+ball,1,13.4,Netherlands,S Khurana,F Overdijk,K Chigora,0,1,1,,,,,"",""
+ball,1,13.5,Netherlands,S Khurana,F Overdijk,K Chigora,0,0,,,,,,"",""
+ball,1,13.6,Netherlands,S Khurana,F Overdijk,K Chigora,1,0,,,,,,"",""
+ball,1,13.7,Netherlands,F Overdijk,S Khurana,K Chigora,0,1,1,,,,,"",""
+ball,1,13.8,Netherlands,F Overdijk,S Khurana,K Chigora,0,1,1,,,,,"",""
+ball,1,13.9,Netherlands,F Overdijk,S Khurana,K Chigora,1,0,,,,,,"",""
+ball,1,13.10,Netherlands,S Khurana,F Overdijk,K Chigora,1,0,,,,,,"",""
+ball,1,14.1,Netherlands,S Khurana,F Overdijk,C Chatonzwa,1,0,,,,,,"",""
+ball,1,14.2,Netherlands,F Overdijk,S Khurana,C Chatonzwa,4,0,,,,,,"",""
+ball,1,14.3,Netherlands,F Overdijk,S Khurana,C Chatonzwa,0,0,,,,,,lbw,F Overdijk
+ball,1,14.4,Netherlands,C de Lange,S Khurana,C Chatonzwa,0,0,,,,,,"",""
+ball,1,14.5,Netherlands,C de Lange,S Khurana,C Chatonzwa,0,0,,,,,,"",""
+ball,1,14.6,Netherlands,C de Lange,S Khurana,C Chatonzwa,0,0,,,,,,bowled,C de Lange
+ball,1,15.1,Netherlands,S Khurana,S Siegers,J Nkomo,1,0,,,,,,"",""
+ball,1,15.2,Netherlands,S Siegers,S Khurana,J Nkomo,0,0,,,,,,"",""
+ball,1,15.3,Netherlands,S Siegers,S Khurana,J Nkomo,1,0,,,,,,"",""
+ball,1,15.4,Netherlands,S Khurana,S Siegers,J Nkomo,1,0,,,,,,"",""
+ball,1,15.5,Netherlands,S Siegers,S Khurana,J Nkomo,1,0,,,,,,"",""
+ball,1,15.6,Netherlands,S Khurana,S Siegers,J Nkomo,1,0,,,,,,"",""
+ball,1,16.1,Netherlands,S Khurana,S Siegers,L Mabhero,0,0,,,,,,"",""
+ball,1,16.2,Netherlands,S Khurana,S Siegers,L Mabhero,1,0,,,,,,"",""
+ball,1,16.3,Netherlands,S Siegers,S Khurana,L Mabhero,1,0,,,,,,"",""
+ball,1,16.4,Netherlands,S Khurana,S Siegers,L Mabhero,4,0,,,,,,"",""
+ball,1,16.5,Netherlands,S Khurana,S Siegers,L Mabhero,1,0,,,,,,"",""
+ball,1,16.6,Netherlands,S Siegers,S Khurana,L Mabhero,0,0,,,,,,"",""
+ball,1,17.1,Netherlands,S Khurana,S Siegers,A Mazvishaya,0,0,,,,,,"",""
+ball,1,17.2,Netherlands,S Khurana,S Siegers,A Mazvishaya,0,0,,,,,,"",""
+ball,1,17.3,Netherlands,S Khurana,S Siegers,A Mazvishaya,1,0,,,,,,"",""
+ball,1,17.4,Netherlands,S Siegers,S Khurana,A Mazvishaya,0,0,,,,,,"",""
+ball,1,17.5,Netherlands,S Siegers,S Khurana,A Mazvishaya,0,0,,,,,,"",""
+ball,1,17.6,Netherlands,S Siegers,S Khurana,A Mazvishaya,1,0,,,,,,"",""
+ball,1,18.1,Netherlands,S Siegers,S Khurana,J Nkomo,0,0,,,,,,"",""
+ball,1,18.2,Netherlands,S Siegers,S Khurana,J Nkomo,1,0,,,,,,"",""
+ball,1,18.3,Netherlands,S Khurana,S Siegers,J Nkomo,0,0,,,,,,run out,S Siegers
+ball,1,18.4,Netherlands,I van der Woning,S Khurana,J Nkomo,0,0,,,,,,"",""
+ball,1,18.5,Netherlands,I van der Woning,S Khurana,J Nkomo,0,0,,,,,,"",""
+ball,1,18.6,Netherlands,I van der Woning,S Khurana,J Nkomo,0,0,,,,,,bowled,I van der Woning
+ball,2,0.1,Zimbabwe,K Ndlovu,B Biza,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,B Biza,K Ndlovu,IJR Zwilling,1,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,K Ndlovu,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,K Ndlovu,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,K Ndlovu,B Biza,IJR Zwilling,0,0,,,,,,caught,K Ndlovu
+ball,2,0.6,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,4,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,B Biza,M Mupachikwa,HDJ Siegers,6,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,0,1,1,,,,,"",""
+ball,2,2.3,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,0,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,M Mupachikwa,B Biza,IJR Zwilling,1,0,,,,,,"",""
+ball,2,2.7,Zimbabwe,B Biza,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,M Mupachikwa,B Biza,R Rijke,4,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,M Mupachikwa,B Biza,R Rijke,1,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,B Biza,M Mupachikwa,R Rijke,0,0,,,,,,bowled,B Biza
+ball,2,3.4,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,R Rijke,0,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,R Rijke,1,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,M Mupachikwa,CS Mugeri-Tiripano,R Rijke,0,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,IJR Zwilling,1,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,HDJ Siegers,1,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,M Mupachikwa,CS Mugeri-Tiripano,HDJ Siegers,1,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,HDJ Siegers,0,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,CS Mugeri-Tiripano,M Mupachikwa,HDJ Siegers,1,0,,,,,,"",""
+ball,2,5.6,Zimbabwe,M Mupachikwa,CS Mugeri-Tiripano,HDJ Siegers,1,0,,,,,,run out,M Mupachikwa
+ball,2,6.1,Zimbabwe,CS Mugeri-Tiripano,J Nkomo,C de Lange,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,CS Mugeri-Tiripano,J Nkomo,C de Lange,0,0,,,,,,"",""
+ball,2,6.3,Zimbabwe,CS Mugeri-Tiripano,J Nkomo,C de Lange,0,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,CS Mugeri-Tiripano,J Nkomo,C de Lange,0,0,,,,,,lbw,CS Mugeri-Tiripano
+ball,2,6.5,Zimbabwe,CT Dhururu,J Nkomo,C de Lange,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,J Nkomo,CT Dhururu,C de Lange,0,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,0,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,0,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,1,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,0,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,0,1,1,,,,,"",""
+ball,2,7.6,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,1,0,,,,,,"",""
+ball,2,7.7,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,4,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,J Nkomo,CT Dhururu,C de Lange,0,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,J Nkomo,CT Dhururu,C de Lange,1,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,CT Dhururu,J Nkomo,C de Lange,1,0,,,,,,"",""
+ball,2,8.4,Zimbabwe,J Nkomo,CT Dhururu,C de Lange,0,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,J Nkomo,CT Dhururu,C de Lange,1,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,CT Dhururu,J Nkomo,C de Lange,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,J Nkomo,CT Dhururu,F Overdijk,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,CT Dhururu,J Nkomo,F Overdijk,1,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,J Nkomo,CT Dhururu,F Overdijk,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,CT Dhururu,J Nkomo,F Overdijk,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,CT Dhururu,J Nkomo,F Overdijk,0,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,CT Dhururu,J Nkomo,F Overdijk,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,CT Dhururu,J Nkomo,I van der Woning,1,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,J Nkomo,CT Dhururu,I van der Woning,1,0,,,,,,"",""
+ball,2,10.3,Zimbabwe,CT Dhururu,J Nkomo,I van der Woning,0,0,,,,,,"",""
+ball,2,10.4,Zimbabwe,CT Dhururu,J Nkomo,I van der Woning,0,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,CT Dhururu,J Nkomo,I van der Woning,0,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,CT Dhururu,J Nkomo,I van der Woning,0,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,0,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,0,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,0,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,CT Dhururu,J Nkomo,S Siegers,1,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,J Nkomo,CT Dhururu,S Siegers,0,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,CT Dhururu,J Nkomo,C de Lange,4,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,CT Dhururu,J Nkomo,C de Lange,1,0,,,,,,run out,CT Dhururu
+ball,2,12.3,Zimbabwe,N Gwanzura,J Nkomo,C de Lange,0,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,N Gwanzura,J Nkomo,C de Lange,1,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,J Nkomo,N Gwanzura,C de Lange,1,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,N Gwanzura,J Nkomo,C de Lange,1,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,N Gwanzura,J Nkomo,F Overdijk,4,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,N Gwanzura,J Nkomo,F Overdijk,1,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,J Nkomo,N Gwanzura,F Overdijk,0,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,J Nkomo,N Gwanzura,F Overdijk,0,0,,,,,,stumped,J Nkomo
+ball,2,13.5,Zimbabwe,C Chatonzwa,N Gwanzura,F Overdijk,1,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,N Gwanzura,C Chatonzwa,F Overdijk,2,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,C Chatonzwa,N Gwanzura,C de Lange,1,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,N Gwanzura,C Chatonzwa,C de Lange,1,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,C Chatonzwa,N Gwanzura,C de Lange,1,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,N Gwanzura,C Chatonzwa,C de Lange,6,0,,,,,,"",""
+ball,2,14.5,Zimbabwe,N Gwanzura,C Chatonzwa,C de Lange,4,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,N Gwanzura,C Chatonzwa,C de Lange,1,1,,1,,,,"",""
+ball,2,14.7,Zimbabwe,C Chatonzwa,N Gwanzura,C de Lange,1,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,C Chatonzwa,N Gwanzura,S Siegers,1,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,N Gwanzura,C Chatonzwa,S Siegers,0,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,N Gwanzura,C Chatonzwa,S Siegers,4,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,N Gwanzura,C Chatonzwa,S Siegers,0,0,,,,,,"",""
+ball,2,15.5,Zimbabwe,N Gwanzura,C Chatonzwa,S Siegers,1,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,C Chatonzwa,N Gwanzura,S Siegers,0,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,N Gwanzura,C Chatonzwa,I van der Woning,1,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,C Chatonzwa,N Gwanzura,I van der Woning,0,0,,,,,,"",""
+ball,2,16.3,Zimbabwe,C Chatonzwa,N Gwanzura,I van der Woning,1,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,N Gwanzura,C Chatonzwa,I van der Woning,0,0,,,,,,caught,N Gwanzura
+ball,2,16.5,Zimbabwe,K Chigora,C Chatonzwa,I van der Woning,0,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,K Chigora,C Chatonzwa,I van der Woning,0,0,,,,,,bowled,K Chigora
+ball,2,17.1,Zimbabwe,C Chatonzwa,A Mazvishaya,F Overdijk,1,0,,,,,,"",""
+ball,2,17.2,Zimbabwe,A Mazvishaya,C Chatonzwa,F Overdijk,0,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,A Mazvishaya,C Chatonzwa,F Overdijk,1,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,C Chatonzwa,A Mazvishaya,F Overdijk,1,0,,,,,,"",""
+ball,2,17.5,Zimbabwe,A Mazvishaya,C Chatonzwa,F Overdijk,2,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,A Mazvishaya,C Chatonzwa,F Overdijk,0,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,C Chatonzwa,A Mazvishaya,IJR Zwilling,1,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,A Mazvishaya,C Chatonzwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,18.3,Zimbabwe,A Mazvishaya,C Chatonzwa,IJR Zwilling,1,0,,,,,,"",""
+ball,2,18.4,Zimbabwe,C Chatonzwa,A Mazvishaya,IJR Zwilling,1,0,,,,,,"",""
+ball,2,18.5,Zimbabwe,A Mazvishaya,C Chatonzwa,IJR Zwilling,0,0,,,,,,"",""
+ball,2,18.6,Zimbabwe,A Mazvishaya,C Chatonzwa,IJR Zwilling,1,0,,,,,,"",""
+ball,2,19.1,Zimbabwe,A Mazvishaya,C Chatonzwa,S Siegers,1,0,,,,,,"",""
+ball,2,19.2,Zimbabwe,C Chatonzwa,A Mazvishaya,S Siegers,0,0,,,,,,"",""
+ball,2,19.3,Zimbabwe,C Chatonzwa,A Mazvishaya,S Siegers,1,0,,,,,,"",""
+ball,2,19.4,Zimbabwe,A Mazvishaya,C Chatonzwa,S Siegers,1,0,,,,,,"",""
+ball,2,19.5,Zimbabwe,C Chatonzwa,A Mazvishaya,S Siegers,0,0,,,,,,"",""
+ball,2,19.6,Zimbabwe,C Chatonzwa,A Mazvishaya,S Siegers,4,0,,,,,,"",""

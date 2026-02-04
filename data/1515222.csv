@@ -1,0 +1,323 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Nepal
+info,gender,female
+info,season,2025/26
+info,date,2026/01/24
+info,event,Women's T20 World Cup Qualifier
+info,match_number,15
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Puja Mahato
+info,umpire,Jonathan Kennedy
+info,umpire,K Klaaste
+info,tv_umpire,Rizwan Akram
+info,match_referee,H Pack
+info,winner,Nepal
+info,winner_wickets,6
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,B Biza
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,C Chatonzwa
+info,player,Zimbabwe,L Mabhero
+info,player,Zimbabwe,K Chigora
+info,player,Zimbabwe,N Sibanda
+info,player,Nepal,B Rawal
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,Puja Mahato
+info,player,Nepal,I Barma
+info,player,Nepal,K Joshi
+info,player,Nepal,SR Magar
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Roma Thapa
+info,player,Nepal,K Kunwar
+info,player,Nepal,Riya Sharma
+info,player,Nepal,S Bist
+info,registry,people,B Biza,8a522c6c
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,C Chatonzwa,da61a9af
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,H Pack,fed53c91
+info,registry,people,I Barma,521abce2
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,K Chigora,5f311f1a
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Riya Sharma,8b7cda26
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,S Bist,ec05df4e
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+ball,1,0.1,Zimbabwe,CS Mugeri-Tiripano,B Biza,K Kunwar,0,1,1,,,,,"",""
+ball,1,0.2,Zimbabwe,CS Mugeri-Tiripano,B Biza,K Kunwar,4,0,,,,,,"",""
+ball,1,0.3,Zimbabwe,CS Mugeri-Tiripano,B Biza,K Kunwar,4,0,,,,,,"",""
+ball,1,0.4,Zimbabwe,CS Mugeri-Tiripano,B Biza,K Kunwar,0,0,,,,,,bowled,CS Mugeri-Tiripano
+ball,1,0.5,Zimbabwe,M Mupachikwa,B Biza,K Kunwar,0,0,,,,,,"",""
+ball,1,0.6,Zimbabwe,M Mupachikwa,B Biza,K Kunwar,0,0,,,,,,"",""
+ball,1,0.7,Zimbabwe,M Mupachikwa,B Biza,K Kunwar,1,0,,,,,,"",""
+ball,1,1.1,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,1.2,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,1.3,Zimbabwe,M Mupachikwa,B Biza,S Bist,2,0,,,,,,"",""
+ball,1,1.4,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,1.5,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,1,1,,,,,"",""
+ball,1,1.6,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,5,5,,,,,"",""
+ball,1,1.7,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,1.8,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,2.1,Zimbabwe,B Biza,M Mupachikwa,K Kunwar,4,0,,,,,,"",""
+ball,1,2.2,Zimbabwe,B Biza,M Mupachikwa,K Kunwar,0,0,,,,,,"",""
+ball,1,2.3,Zimbabwe,B Biza,M Mupachikwa,K Kunwar,0,0,,,,,,"",""
+ball,1,2.4,Zimbabwe,B Biza,M Mupachikwa,K Kunwar,0,0,,,,,,"",""
+ball,1,2.5,Zimbabwe,B Biza,M Mupachikwa,K Kunwar,1,0,,,,,,"",""
+ball,1,2.6,Zimbabwe,M Mupachikwa,B Biza,K Kunwar,1,0,,,,,,"",""
+ball,1,3.1,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,3.2,Zimbabwe,M Mupachikwa,B Biza,S Bist,1,0,,,,,,"",""
+ball,1,3.3,Zimbabwe,B Biza,M Mupachikwa,S Bist,0,0,,,,,,"",""
+ball,1,3.4,Zimbabwe,B Biza,M Mupachikwa,S Bist,0,0,,,,,,"",""
+ball,1,3.5,Zimbabwe,B Biza,M Mupachikwa,S Bist,1,0,,,,,,"",""
+ball,1,3.6,Zimbabwe,M Mupachikwa,B Biza,S Bist,0,0,,,,,,"",""
+ball,1,4.1,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,0,0,,,,,,"",""
+ball,1,4.2,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,4,1,,1,,,,"",""
+ball,1,4.3,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,1,0,,,,,,"",""
+ball,1,4.4,Zimbabwe,M Mupachikwa,B Biza,Riya Sharma,1,0,,,,,,"",""
+ball,1,4.5,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,0,0,,,,,,"",""
+ball,1,4.6,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,1,0,,,,,,"",""
+ball,1,4.7,Zimbabwe,M Mupachikwa,B Biza,Riya Sharma,1,0,,,,,,"",""
+ball,1,5.1,Zimbabwe,M Mupachikwa,B Biza,Puja Mahato,0,0,,,,,,"",""
+ball,1,5.2,Zimbabwe,M Mupachikwa,B Biza,Puja Mahato,1,0,,,,,,"",""
+ball,1,5.3,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,0,0,,,,,,"",""
+ball,1,5.4,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,1,0,,,,,,"",""
+ball,1,5.5,Zimbabwe,M Mupachikwa,B Biza,Puja Mahato,0,0,,,,,,"",""
+ball,1,5.6,Zimbabwe,M Mupachikwa,B Biza,Puja Mahato,1,0,,,,,,"",""
+ball,1,6.1,Zimbabwe,M Mupachikwa,B Biza,Riya Sharma,1,0,,,,,,"",""
+ball,1,6.2,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,1,0,,,,,,"",""
+ball,1,6.3,Zimbabwe,M Mupachikwa,B Biza,Riya Sharma,1,0,,,,,,"",""
+ball,1,6.4,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,1,0,,,,,,"",""
+ball,1,6.5,Zimbabwe,M Mupachikwa,B Biza,Riya Sharma,1,0,,,,,,"",""
+ball,1,6.6,Zimbabwe,B Biza,M Mupachikwa,Riya Sharma,1,0,,,,,,"",""
+ball,1,7.1,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,0,0,,,,,,"",""
+ball,1,7.2,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,2,0,,,,,,"",""
+ball,1,7.3,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,2,0,,,,,,"",""
+ball,1,7.4,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,1,0,,,,,,"",""
+ball,1,7.5,Zimbabwe,M Mupachikwa,B Biza,Puja Mahato,1,0,,,,,,"",""
+ball,1,7.6,Zimbabwe,B Biza,M Mupachikwa,Puja Mahato,1,0,,,,,,"",""
+ball,1,8.1,Zimbabwe,B Biza,M Mupachikwa,SR Magar,1,0,,,,,,"",""
+ball,1,8.2,Zimbabwe,M Mupachikwa,B Biza,SR Magar,1,0,,,,,,"",""
+ball,1,8.3,Zimbabwe,B Biza,M Mupachikwa,SR Magar,0,0,,,,,,"",""
+ball,1,8.4,Zimbabwe,B Biza,M Mupachikwa,SR Magar,1,0,,,,,,"",""
+ball,1,8.5,Zimbabwe,M Mupachikwa,B Biza,SR Magar,0,0,,,,,,"",""
+ball,1,8.6,Zimbabwe,M Mupachikwa,B Biza,SR Magar,0,0,,,,,,lbw,M Mupachikwa
+ball,1,9.1,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,4,0,,,,,,"",""
+ball,1,9.2,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,9.3,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,9.4,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,4,0,,,,,,"",""
+ball,1,9.5,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,9.6,Zimbabwe,B Biza,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,10.1,Zimbabwe,K Ndlovu,B Biza,SR Magar,4,0,,,,,,"",""
+ball,1,10.2,Zimbabwe,K Ndlovu,B Biza,SR Magar,0,0,,,,,,"",""
+ball,1,10.3,Zimbabwe,K Ndlovu,B Biza,SR Magar,0,0,,,,,,"",""
+ball,1,10.4,Zimbabwe,K Ndlovu,B Biza,SR Magar,0,0,,,,,,"",""
+ball,1,10.5,Zimbabwe,K Ndlovu,B Biza,SR Magar,1,0,,,,,,"",""
+ball,1,10.6,Zimbabwe,B Biza,K Ndlovu,SR Magar,0,0,,,,,,"",""
+ball,1,11.1,Zimbabwe,K Ndlovu,B Biza,Puja Mahato,1,0,,,,,,"",""
+ball,1,11.2,Zimbabwe,B Biza,K Ndlovu,Puja Mahato,2,0,,,,,,"",""
+ball,1,11.3,Zimbabwe,B Biza,K Ndlovu,Puja Mahato,0,0,,,,,,caught,B Biza
+ball,1,11.4,Zimbabwe,L Tshuma,K Ndlovu,Puja Mahato,0,0,,,,,,"",""
+ball,1,11.5,Zimbabwe,L Tshuma,K Ndlovu,Puja Mahato,0,0,,,,,,"",""
+ball,1,11.6,Zimbabwe,L Tshuma,K Ndlovu,Puja Mahato,0,0,,,,,,"",""
+ball,1,12.1,Zimbabwe,K Ndlovu,L Tshuma,RC Belbashi,0,0,,,,,,"",""
+ball,1,12.2,Zimbabwe,K Ndlovu,L Tshuma,RC Belbashi,1,0,,,,,,"",""
+ball,1,12.3,Zimbabwe,L Tshuma,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,12.4,Zimbabwe,L Tshuma,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,12.5,Zimbabwe,L Tshuma,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,12.6,Zimbabwe,L Tshuma,K Ndlovu,RC Belbashi,0,0,,,,,,caught,L Tshuma
+ball,1,13.1,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,0,0,,,,,,"",""
+ball,1,13.2,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,4,0,,,,,,"",""
+ball,1,13.3,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,0,0,,,,,,"",""
+ball,1,13.4,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,2,0,,,,,,"",""
+ball,1,13.5,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,0,1,1,,,,,"",""
+ball,1,13.6,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,0,0,,,,,,"",""
+ball,1,13.7,Zimbabwe,K Ndlovu,J Nkomo,Puja Mahato,1,0,,,,,,"",""
+ball,1,14.1,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,0,0,,,,,,"",""
+ball,1,14.2,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,0,0,,,,,,"",""
+ball,1,14.3,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,4,0,,,,,,"",""
+ball,1,14.4,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,0,0,,,,,,"",""
+ball,1,14.5,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,2,0,,,,,,"",""
+ball,1,14.6,Zimbabwe,K Ndlovu,J Nkomo,K Joshi,0,0,,,,,,"",""
+ball,1,15.1,Zimbabwe,J Nkomo,K Ndlovu,RC Belbashi,1,0,,,,,,"",""
+ball,1,15.2,Zimbabwe,K Ndlovu,J Nkomo,RC Belbashi,4,0,,,,,,"",""
+ball,1,15.3,Zimbabwe,K Ndlovu,J Nkomo,RC Belbashi,4,0,,,,,,"",""
+ball,1,15.4,Zimbabwe,K Ndlovu,J Nkomo,RC Belbashi,3,0,,,,,,"",""
+ball,1,15.5,Zimbabwe,J Nkomo,K Ndlovu,RC Belbashi,0,0,,,,,,"",""
+ball,1,15.6,Zimbabwe,J Nkomo,K Ndlovu,RC Belbashi,3,0,,,,,,"",""
+ball,1,16.1,Zimbabwe,J Nkomo,K Ndlovu,SR Magar,1,0,,,,,,"",""
+ball,1,16.2,Zimbabwe,K Ndlovu,J Nkomo,SR Magar,0,0,,,,,,"",""
+ball,1,16.3,Zimbabwe,K Ndlovu,J Nkomo,SR Magar,1,0,,,,,,"",""
+ball,1,16.4,Zimbabwe,J Nkomo,K Ndlovu,SR Magar,1,0,,,,,,"",""
+ball,1,16.5,Zimbabwe,K Ndlovu,J Nkomo,SR Magar,4,0,,,,,,"",""
+ball,1,16.6,Zimbabwe,K Ndlovu,J Nkomo,SR Magar,1,0,,,,,,"",""
+ball,1,17.1,Zimbabwe,K Ndlovu,J Nkomo,Riya Sharma,1,0,,,,,,"",""
+ball,1,17.2,Zimbabwe,J Nkomo,K Ndlovu,Riya Sharma,0,0,,,,,,lbw,J Nkomo
+ball,1,17.3,Zimbabwe,CT Dhururu,K Ndlovu,Riya Sharma,0,0,,,,,,"",""
+ball,1,17.4,Zimbabwe,CT Dhururu,K Ndlovu,Riya Sharma,1,0,,,,,,"",""
+ball,1,17.5,Zimbabwe,K Ndlovu,CT Dhururu,Riya Sharma,1,0,,,,,,"",""
+ball,1,17.6,Zimbabwe,CT Dhururu,K Ndlovu,Riya Sharma,1,0,,,,,,"",""
+ball,1,18.1,Zimbabwe,CT Dhururu,K Ndlovu,SR Magar,1,0,,,,,,"",""
+ball,1,18.2,Zimbabwe,K Ndlovu,CT Dhururu,SR Magar,2,0,,,,,,"",""
+ball,1,18.3,Zimbabwe,K Ndlovu,CT Dhururu,SR Magar,1,0,,,,,,"",""
+ball,1,18.4,Zimbabwe,CT Dhururu,K Ndlovu,SR Magar,1,0,,,,,,"",""
+ball,1,18.5,Zimbabwe,K Ndlovu,CT Dhururu,SR Magar,4,0,,,,,,"",""
+ball,1,18.6,Zimbabwe,K Ndlovu,CT Dhururu,SR Magar,1,0,,,,,,"",""
+ball,1,19.1,Zimbabwe,K Ndlovu,CT Dhururu,Riya Sharma,1,0,,,,,,"",""
+ball,1,19.2,Zimbabwe,CT Dhururu,K Ndlovu,Riya Sharma,0,0,,,,,,lbw,CT Dhururu
+ball,1,19.3,Zimbabwe,C Chatonzwa,K Ndlovu,Riya Sharma,0,0,,,,,,"",""
+ball,1,19.4,Zimbabwe,C Chatonzwa,K Ndlovu,Riya Sharma,1,0,,,,,,"",""
+ball,1,19.5,Zimbabwe,K Ndlovu,C Chatonzwa,Riya Sharma,4,0,,,,,,"",""
+ball,1,19.6,Zimbabwe,K Ndlovu,C Chatonzwa,Riya Sharma,0,1,,,,1,,"",""
+ball,2,0.1,Nepal,B Rawal,Samjhana Khadka,N Sibanda,1,0,,,,,,"",""
+ball,2,0.2,Nepal,Samjhana Khadka,B Rawal,N Sibanda,1,0,,,,,,"",""
+ball,2,0.3,Nepal,B Rawal,Samjhana Khadka,N Sibanda,0,0,,,,,,"",""
+ball,2,0.4,Nepal,B Rawal,Samjhana Khadka,N Sibanda,0,0,,,,,,"",""
+ball,2,0.5,Nepal,B Rawal,Samjhana Khadka,N Sibanda,0,0,,,,,,"",""
+ball,2,0.6,Nepal,B Rawal,Samjhana Khadka,N Sibanda,4,0,,,,,,"",""
+ball,2,1.1,Nepal,Samjhana Khadka,B Rawal,J Nkomo,1,0,,,,,,"",""
+ball,2,1.2,Nepal,B Rawal,Samjhana Khadka,J Nkomo,4,0,,,,,,"",""
+ball,2,1.3,Nepal,B Rawal,Samjhana Khadka,J Nkomo,0,5,5,,,,,"",""
+ball,2,1.4,Nepal,B Rawal,Samjhana Khadka,J Nkomo,0,0,,,,,,"",""
+ball,2,1.5,Nepal,B Rawal,Samjhana Khadka,J Nkomo,0,2,2,,,,,"",""
+ball,2,1.6,Nepal,Samjhana Khadka,B Rawal,J Nkomo,1,0,,,,,,"",""
+ball,2,1.7,Nepal,B Rawal,Samjhana Khadka,J Nkomo,0,0,,,,,,"",""
+ball,2,1.8,Nepal,B Rawal,Samjhana Khadka,J Nkomo,0,1,1,,,,,"",""
+ball,2,1.9,Nepal,B Rawal,Samjhana Khadka,J Nkomo,1,0,,,,,,"",""
+ball,2,2.1,Nepal,B Rawal,Samjhana Khadka,N Sibanda,1,0,,,,,,"",""
+ball,2,2.2,Nepal,Samjhana Khadka,B Rawal,N Sibanda,2,0,,,,,,"",""
+ball,2,2.3,Nepal,Samjhana Khadka,B Rawal,N Sibanda,0,0,,,,,,"",""
+ball,2,2.4,Nepal,Samjhana Khadka,B Rawal,N Sibanda,4,0,,,,,,"",""
+ball,2,2.5,Nepal,Samjhana Khadka,B Rawal,N Sibanda,0,0,,,,,,caught,Samjhana Khadka
+ball,2,2.6,Nepal,Puja Mahato,B Rawal,N Sibanda,0,0,,,,,,"",""
+ball,2,3.1,Nepal,B Rawal,Puja Mahato,C Chatonzwa,2,0,,,,,,"",""
+ball,2,3.2,Nepal,B Rawal,Puja Mahato,C Chatonzwa,1,0,,,,,,"",""
+ball,2,3.3,Nepal,Puja Mahato,B Rawal,C Chatonzwa,0,0,,,,,,"",""
+ball,2,3.4,Nepal,Puja Mahato,B Rawal,C Chatonzwa,0,0,,,,,,"",""
+ball,2,3.5,Nepal,Puja Mahato,B Rawal,C Chatonzwa,4,0,,,,,,"",""
+ball,2,3.6,Nepal,Puja Mahato,B Rawal,C Chatonzwa,0,1,1,,,,,"",""
+ball,2,3.7,Nepal,Puja Mahato,B Rawal,C Chatonzwa,0,0,,,,,,"",""
+ball,2,4.1,Nepal,B Rawal,Puja Mahato,K Chigora,0,2,2,,,,,"",""
+ball,2,4.2,Nepal,Puja Mahato,B Rawal,K Chigora,0,1,,,,1,,"",""
+ball,2,4.3,Nepal,B Rawal,Puja Mahato,K Chigora,0,0,,,,,,"",""
+ball,2,4.4,Nepal,B Rawal,Puja Mahato,K Chigora,0,1,1,,,,,"",""
+ball,2,4.5,Nepal,B Rawal,Puja Mahato,K Chigora,0,1,1,,,,,"",""
+ball,2,4.6,Nepal,B Rawal,Puja Mahato,K Chigora,0,0,,,,,,"",""
+ball,2,4.7,Nepal,B Rawal,Puja Mahato,K Chigora,0,1,1,,,,,"",""
+ball,2,4.8,Nepal,B Rawal,Puja Mahato,K Chigora,1,0,,,,,,"",""
+ball,2,4.9,Nepal,Puja Mahato,B Rawal,K Chigora,0,1,1,,,,,"",""
+ball,2,4.10,Nepal,Puja Mahato,B Rawal,K Chigora,0,1,1,,,,,"",""
+ball,2,4.11,Nepal,Puja Mahato,B Rawal,K Chigora,0,0,,,,,,"",""
+ball,2,4.12,Nepal,Puja Mahato,B Rawal,K Chigora,0,1,,,1,,,"",""
+ball,2,5.1,Nepal,Puja Mahato,B Rawal,C Chatonzwa,1,0,,,,,,"",""
+ball,2,5.2,Nepal,B Rawal,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,5.3,Nepal,B Rawal,Puja Mahato,C Chatonzwa,0,0,,,,,,lbw,B Rawal
+ball,2,5.4,Nepal,I Barma,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,5.5,Nepal,I Barma,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,5.6,Nepal,I Barma,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,6.1,Nepal,Puja Mahato,I Barma,L Mabhero,0,1,1,,,,,"",""
+ball,2,6.2,Nepal,Puja Mahato,I Barma,L Mabhero,0,0,,,,,,"",""
+ball,2,6.3,Nepal,Puja Mahato,I Barma,L Mabhero,1,0,,,,,,"",""
+ball,2,6.4,Nepal,I Barma,Puja Mahato,L Mabhero,1,0,,,,,,"",""
+ball,2,6.5,Nepal,Puja Mahato,I Barma,L Mabhero,0,0,,,,,,"",""
+ball,2,6.6,Nepal,Puja Mahato,I Barma,L Mabhero,2,0,,,,,,"",""
+ball,2,6.7,Nepal,Puja Mahato,I Barma,L Mabhero,0,0,,,,,,"",""
+ball,2,7.1,Nepal,I Barma,Puja Mahato,L Tshuma,1,0,,,,,,"",""
+ball,2,7.2,Nepal,Puja Mahato,I Barma,L Tshuma,4,0,,,,,,"",""
+ball,2,7.3,Nepal,Puja Mahato,I Barma,L Tshuma,1,0,,,,,,"",""
+ball,2,7.4,Nepal,I Barma,Puja Mahato,L Tshuma,0,0,,,,,,"",""
+ball,2,7.5,Nepal,I Barma,Puja Mahato,L Tshuma,1,0,,,,,,"",""
+ball,2,7.6,Nepal,Puja Mahato,I Barma,L Tshuma,0,0,,,,,,"",""
+ball,2,8.1,Nepal,I Barma,Puja Mahato,L Mabhero,1,0,,,,,,"",""
+ball,2,8.2,Nepal,Puja Mahato,I Barma,L Mabhero,1,0,,,,,,"",""
+ball,2,8.3,Nepal,I Barma,Puja Mahato,L Mabhero,4,0,,,,,,"",""
+ball,2,8.4,Nepal,I Barma,Puja Mahato,L Mabhero,0,0,,,,,,"",""
+ball,2,8.5,Nepal,I Barma,Puja Mahato,L Mabhero,1,0,,,,,,"",""
+ball,2,8.6,Nepal,Puja Mahato,I Barma,L Mabhero,0,0,,,,,,"",""
+ball,2,9.1,Nepal,I Barma,Puja Mahato,L Tshuma,0,0,,,,,,"",""
+ball,2,9.2,Nepal,I Barma,Puja Mahato,L Tshuma,6,0,,,,,,"",""
+ball,2,9.3,Nepal,I Barma,Puja Mahato,L Tshuma,1,0,,,,,,"",""
+ball,2,9.4,Nepal,Puja Mahato,I Barma,L Tshuma,0,0,,,,,,"",""
+ball,2,9.5,Nepal,Puja Mahato,I Barma,L Tshuma,1,0,,,,,,"",""
+ball,2,9.6,Nepal,I Barma,Puja Mahato,L Tshuma,1,0,,,,,,"",""
+ball,2,10.1,Nepal,I Barma,Puja Mahato,B Biza,0,0,,,,,,"",""
+ball,2,10.2,Nepal,I Barma,Puja Mahato,B Biza,4,0,,,,,,"",""
+ball,2,10.3,Nepal,I Barma,Puja Mahato,B Biza,1,0,,,,,,"",""
+ball,2,10.4,Nepal,Puja Mahato,I Barma,B Biza,0,0,,,,,,"",""
+ball,2,10.5,Nepal,Puja Mahato,I Barma,B Biza,2,0,,,,,,"",""
+ball,2,10.6,Nepal,Puja Mahato,I Barma,B Biza,0,0,,,,,,"",""
+ball,2,11.1,Nepal,I Barma,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,11.2,Nepal,I Barma,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,11.3,Nepal,I Barma,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,11.4,Nepal,I Barma,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,11.5,Nepal,I Barma,Puja Mahato,J Nkomo,0,0,,,,,,bowled,I Barma
+ball,2,11.6,Nepal,K Joshi,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,12.1,Nepal,Puja Mahato,K Joshi,B Biza,0,0,,,,,,"",""
+ball,2,12.2,Nepal,Puja Mahato,K Joshi,B Biza,1,0,,,,,,"",""
+ball,2,12.3,Nepal,K Joshi,Puja Mahato,B Biza,1,0,,,,,,"",""
+ball,2,12.4,Nepal,Puja Mahato,K Joshi,B Biza,6,0,,,,,,"",""
+ball,2,12.5,Nepal,Puja Mahato,K Joshi,B Biza,0,0,,,,,,"",""
+ball,2,12.6,Nepal,Puja Mahato,K Joshi,B Biza,1,0,,,,,,"",""
+ball,2,13.1,Nepal,Puja Mahato,K Joshi,J Nkomo,1,0,,,,,,"",""
+ball,2,13.2,Nepal,K Joshi,Puja Mahato,J Nkomo,0,0,,,,,,bowled,K Joshi
+ball,2,13.3,Nepal,SR Magar,Puja Mahato,J Nkomo,0,0,,,,,,"",""
+ball,2,13.4,Nepal,SR Magar,Puja Mahato,J Nkomo,0,1,1,,,,,"",""
+ball,2,13.5,Nepal,SR Magar,Puja Mahato,J Nkomo,4,0,,,,,,"",""
+ball,2,13.6,Nepal,SR Magar,Puja Mahato,J Nkomo,1,0,,,,,,"",""
+ball,2,13.7,Nepal,Puja Mahato,SR Magar,J Nkomo,0,0,,,,,,"",""
+ball,2,14.1,Nepal,SR Magar,Puja Mahato,N Sibanda,0,1,1,,,,,"",""
+ball,2,14.2,Nepal,SR Magar,Puja Mahato,N Sibanda,1,0,,,,,,"",""
+ball,2,14.3,Nepal,Puja Mahato,SR Magar,N Sibanda,0,0,,,,,,"",""
+ball,2,14.4,Nepal,Puja Mahato,SR Magar,N Sibanda,1,0,,,,,,"",""
+ball,2,14.5,Nepal,SR Magar,Puja Mahato,N Sibanda,0,0,,,,,,"",""
+ball,2,14.6,Nepal,SR Magar,Puja Mahato,N Sibanda,1,0,,,,,,"",""
+ball,2,14.7,Nepal,Puja Mahato,SR Magar,N Sibanda,1,0,,,,,,"",""
+ball,2,15.1,Nepal,Puja Mahato,SR Magar,C Chatonzwa,1,0,,,,,,"",""
+ball,2,15.2,Nepal,SR Magar,Puja Mahato,C Chatonzwa,1,0,,,,,,"",""
+ball,2,15.3,Nepal,Puja Mahato,SR Magar,C Chatonzwa,0,0,,,,,,"",""
+ball,2,15.4,Nepal,Puja Mahato,SR Magar,C Chatonzwa,1,0,,,,,,"",""
+ball,2,15.5,Nepal,SR Magar,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,15.6,Nepal,SR Magar,Puja Mahato,C Chatonzwa,0,0,,,,,,"",""
+ball,2,16.1,Nepal,Puja Mahato,SR Magar,N Sibanda,1,0,,,,,,"",""
+ball,2,16.2,Nepal,SR Magar,Puja Mahato,N Sibanda,0,0,,,,,,"",""
+ball,2,16.3,Nepal,SR Magar,Puja Mahato,N Sibanda,1,0,,,,,,"",""
+ball,2,16.4,Nepal,Puja Mahato,SR Magar,N Sibanda,1,0,,,,,,"",""
+ball,2,16.5,Nepal,SR Magar,Puja Mahato,N Sibanda,1,0,,,,,,"",""
+ball,2,16.6,Nepal,Puja Mahato,SR Magar,N Sibanda,6,0,,,,,,"",""
+ball,2,17.1,Nepal,SR Magar,Puja Mahato,K Chigora,0,0,,,,,,"",""
+ball,2,17.2,Nepal,SR Magar,Puja Mahato,K Chigora,0,0,,,,,,"",""
+ball,2,17.3,Nepal,SR Magar,Puja Mahato,K Chigora,1,0,,,,,,retired hurt,SR Magar
+ball,2,17.4,Nepal,Puja Mahato,RC Belbashi,K Chigora,1,0,,,,,,"",""
+ball,2,17.5,Nepal,RC Belbashi,Puja Mahato,K Chigora,1,0,,,,,,"",""
+ball,2,17.6,Nepal,Puja Mahato,RC Belbashi,K Chigora,1,0,,,,,,"",""
+ball,2,18.1,Nepal,Puja Mahato,RC Belbashi,C Chatonzwa,0,0,,,,,,"",""
+ball,2,18.2,Nepal,Puja Mahato,RC Belbashi,C Chatonzwa,1,0,,,,,,"",""
+ball,2,18.3,Nepal,RC Belbashi,Puja Mahato,C Chatonzwa,1,0,,,,,,"",""
+ball,2,18.4,Nepal,Puja Mahato,RC Belbashi,C Chatonzwa,4,0,,,,,,"",""
+ball,2,18.5,Nepal,Puja Mahato,RC Belbashi,C Chatonzwa,0,0,,,,,,"",""
+ball,2,18.6,Nepal,Puja Mahato,RC Belbashi,C Chatonzwa,1,0,,,,,,"",""
+ball,2,19.1,Nepal,Puja Mahato,RC Belbashi,J Nkomo,2,0,,,,,,"",""
+ball,2,19.2,Nepal,Puja Mahato,RC Belbashi,J Nkomo,0,0,,,,,,"",""
+ball,2,19.3,Nepal,Puja Mahato,RC Belbashi,J Nkomo,4,0,,,,,,"",""

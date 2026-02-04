@@ -1,0 +1,314 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Ireland
+info,gender,female
+info,season,2025/26
+info,date,2026/01/28
+info,event,Women's T20 World Cup Qualifier
+info,match_number,21
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,KE Bryce
+info,umpire,Rizwan Akram
+info,umpire,Shathira Jakir
+info,reserve_umpire,S Redfern
+info,tv_umpire,K Klaaste
+info,match_referee,Reon King
+info,winner,Scotland
+info,winner_runs,39
+info,player,Scotland,DEM Carter
+info,player,Scotland,K Fraser
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,M McColl
+info,player,Scotland,O Bell
+info,player,Scotland,PA Chatterji
+info,player,Scotland,R Slater
+info,player,Scotland,AH Maqsood
+info,player,Scotland,C Abel
+info,player,Ireland,CE Coulter Reilly
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Paul
+info,player,Ireland,R Stokell
+info,player,Ireland,L Little
+info,player,Ireland,AN Kelly
+info,player,Ireland,J Maguire
+info,player,Ireland,A Dalzell
+info,player,Ireland,AK Maguire
+info,player,Ireland,LA McBride
+info,registry,people,A Dalzell,66498395
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AK Maguire,f888a374
+info,registry,people,AN Kelly,397369e0
+info,registry,people,C Abel,d92d3563
+info,registry,people,CE Coulter Reilly,39f351c6
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,K Fraser,a0a65375
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Little,4f86926b
+info,registry,people,L Paul,07248d8e
+info,registry,people,LA McBride,9bd0d19d
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,O Bell,385eac52
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Slater,8a452195
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Reon King,20fbf68c
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Redfern,5b038989
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,Shathira Jakir,6b992a6f
+ball,1,0.1,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,0.2,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,0.3,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,0.4,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,0.5,Scotland,DEM Carter,K Fraser,O Prendergast,1,0,,,,,,"",""
+ball,1,0.6,Scotland,K Fraser,DEM Carter,O Prendergast,0,0,,,,,,"",""
+ball,1,1.1,Scotland,DEM Carter,K Fraser,A Dalzell,2,0,,,,,,"",""
+ball,1,1.2,Scotland,DEM Carter,K Fraser,A Dalzell,0,0,,,,,,"",""
+ball,1,1.3,Scotland,DEM Carter,K Fraser,A Dalzell,4,0,,,,,,"",""
+ball,1,1.4,Scotland,DEM Carter,K Fraser,A Dalzell,1,0,,,,,,"",""
+ball,1,1.5,Scotland,K Fraser,DEM Carter,A Dalzell,0,0,,,,,,"",""
+ball,1,1.6,Scotland,K Fraser,DEM Carter,A Dalzell,6,0,,,,,,"",""
+ball,1,2.1,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,2.2,Scotland,DEM Carter,K Fraser,O Prendergast,0,0,,,,,,"",""
+ball,1,2.3,Scotland,DEM Carter,K Fraser,O Prendergast,1,0,,,,,,"",""
+ball,1,2.4,Scotland,K Fraser,DEM Carter,O Prendergast,0,0,,,,,,"",""
+ball,1,2.5,Scotland,K Fraser,DEM Carter,O Prendergast,0,0,,,,,,"",""
+ball,1,2.6,Scotland,K Fraser,DEM Carter,O Prendergast,0,0,,,,,,"",""
+ball,1,3.1,Scotland,DEM Carter,K Fraser,LA McBride,0,0,,,,,,"",""
+ball,1,3.2,Scotland,DEM Carter,K Fraser,LA McBride,1,0,,,,,,"",""
+ball,1,3.3,Scotland,K Fraser,DEM Carter,LA McBride,0,0,,,,,,"",""
+ball,1,3.4,Scotland,K Fraser,DEM Carter,LA McBride,1,0,,,,,,"",""
+ball,1,3.5,Scotland,DEM Carter,K Fraser,LA McBride,1,0,,,,,,"",""
+ball,1,3.6,Scotland,K Fraser,DEM Carter,LA McBride,1,0,,,,,,"",""
+ball,1,4.1,Scotland,K Fraser,DEM Carter,A Dalzell,4,0,,,,,,"",""
+ball,1,4.2,Scotland,K Fraser,DEM Carter,A Dalzell,0,0,,,,,,"",""
+ball,1,4.3,Scotland,K Fraser,DEM Carter,A Dalzell,1,0,,,,,,"",""
+ball,1,4.4,Scotland,DEM Carter,K Fraser,A Dalzell,0,0,,,,,,caught,DEM Carter
+ball,1,4.5,Scotland,KE Bryce,K Fraser,A Dalzell,0,0,,,,,,"",""
+ball,1,4.6,Scotland,KE Bryce,K Fraser,A Dalzell,0,1,1,,,,,"",""
+ball,1,4.7,Scotland,KE Bryce,K Fraser,A Dalzell,4,0,,,,,,"",""
+ball,1,5.1,Scotland,K Fraser,KE Bryce,LA McBride,4,0,,,,,,"",""
+ball,1,5.2,Scotland,K Fraser,KE Bryce,LA McBride,4,0,,,,,,"",""
+ball,1,5.3,Scotland,K Fraser,KE Bryce,LA McBride,4,0,,,,,,"",""
+ball,1,5.4,Scotland,K Fraser,KE Bryce,LA McBride,0,0,,,,,,"",""
+ball,1,5.5,Scotland,K Fraser,KE Bryce,LA McBride,0,0,,,,,,"",""
+ball,1,5.6,Scotland,K Fraser,KE Bryce,LA McBride,0,0,,,,,,"",""
+ball,1,6.1,Scotland,KE Bryce,K Fraser,AN Kelly,1,0,,,,,,"",""
+ball,1,6.2,Scotland,K Fraser,KE Bryce,AN Kelly,2,0,,,,,,"",""
+ball,1,6.3,Scotland,K Fraser,KE Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,6.4,Scotland,KE Bryce,K Fraser,AN Kelly,1,0,,,,,,"",""
+ball,1,6.5,Scotland,K Fraser,KE Bryce,AN Kelly,6,0,,,,,,"",""
+ball,1,6.6,Scotland,K Fraser,KE Bryce,AN Kelly,0,0,,,,,,"",""
+ball,1,7.1,Scotland,KE Bryce,K Fraser,AK Maguire,0,1,1,,,,,"",""
+ball,1,7.2,Scotland,KE Bryce,K Fraser,AK Maguire,4,0,,,,,,"",""
+ball,1,7.3,Scotland,KE Bryce,K Fraser,AK Maguire,0,0,,,,,,"",""
+ball,1,7.4,Scotland,KE Bryce,K Fraser,AK Maguire,1,0,,,,,,"",""
+ball,1,7.5,Scotland,K Fraser,KE Bryce,AK Maguire,2,0,,,,,,"",""
+ball,1,7.6,Scotland,K Fraser,KE Bryce,AK Maguire,0,0,,,,,,"",""
+ball,1,7.7,Scotland,K Fraser,KE Bryce,AK Maguire,0,0,,,,,,"",""
+ball,1,8.1,Scotland,KE Bryce,K Fraser,J Maguire,1,0,,,,,,"",""
+ball,1,8.2,Scotland,K Fraser,KE Bryce,J Maguire,0,0,,,,,,bowled,K Fraser
+ball,1,8.3,Scotland,SJ Bryce,KE Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,8.4,Scotland,SJ Bryce,KE Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,8.5,Scotland,KE Bryce,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,8.6,Scotland,KE Bryce,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,9.1,Scotland,KE Bryce,SJ Bryce,AK Maguire,4,0,,,,,,"",""
+ball,1,9.2,Scotland,KE Bryce,SJ Bryce,AK Maguire,0,0,,,,,,"",""
+ball,1,9.3,Scotland,KE Bryce,SJ Bryce,AK Maguire,4,0,,,,,,"",""
+ball,1,9.4,Scotland,KE Bryce,SJ Bryce,AK Maguire,0,1,,,,1,,"",""
+ball,1,9.5,Scotland,SJ Bryce,KE Bryce,AK Maguire,0,1,,,,1,,"",""
+ball,1,9.6,Scotland,KE Bryce,SJ Bryce,AK Maguire,1,0,,,,,,"",""
+ball,1,10.1,Scotland,KE Bryce,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,10.2,Scotland,KE Bryce,SJ Bryce,J Maguire,4,0,,,,,,"",""
+ball,1,10.3,Scotland,KE Bryce,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,10.4,Scotland,SJ Bryce,KE Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,10.5,Scotland,SJ Bryce,KE Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,10.6,Scotland,KE Bryce,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,11.1,Scotland,KE Bryce,SJ Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,11.2,Scotland,SJ Bryce,KE Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,11.3,Scotland,KE Bryce,SJ Bryce,LA McBride,0,0,,,,,,"",""
+ball,1,11.4,Scotland,KE Bryce,SJ Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,11.5,Scotland,SJ Bryce,KE Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,11.6,Scotland,KE Bryce,SJ Bryce,LA McBride,0,0,,,,,,caught,KE Bryce
+ball,1,12.1,Scotland,SJ Bryce,A Lister,AN Kelly,0,0,,,,,,"",""
+ball,1,12.2,Scotland,SJ Bryce,A Lister,AN Kelly,2,0,,,,,,"",""
+ball,1,12.3,Scotland,SJ Bryce,A Lister,AN Kelly,1,0,,,,,,"",""
+ball,1,12.4,Scotland,A Lister,SJ Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,12.5,Scotland,SJ Bryce,A Lister,AN Kelly,1,0,,,,,,"",""
+ball,1,12.6,Scotland,A Lister,SJ Bryce,AN Kelly,0,0,,,,,,"",""
+ball,1,13.1,Scotland,SJ Bryce,A Lister,LA McBride,1,0,,,,,,"",""
+ball,1,13.2,Scotland,A Lister,SJ Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,13.3,Scotland,SJ Bryce,A Lister,LA McBride,1,0,,,,,,"",""
+ball,1,13.4,Scotland,A Lister,SJ Bryce,LA McBride,2,0,,,,,,"",""
+ball,1,13.5,Scotland,A Lister,SJ Bryce,LA McBride,1,0,,,,,,"",""
+ball,1,13.6,Scotland,SJ Bryce,A Lister,LA McBride,1,0,,,,,,"",""
+ball,1,14.1,Scotland,SJ Bryce,A Lister,O Prendergast,0,0,,,,,,"",""
+ball,1,14.2,Scotland,SJ Bryce,A Lister,O Prendergast,6,0,,,,,,"",""
+ball,1,14.3,Scotland,SJ Bryce,A Lister,O Prendergast,4,0,,,,,,"",""
+ball,1,14.4,Scotland,SJ Bryce,A Lister,O Prendergast,2,0,,,,,,"",""
+ball,1,14.5,Scotland,SJ Bryce,A Lister,O Prendergast,1,0,,,,,,"",""
+ball,1,14.6,Scotland,A Lister,SJ Bryce,O Prendergast,0,0,,,,,,"",""
+ball,1,15.1,Scotland,SJ Bryce,A Lister,J Maguire,1,0,,,,,,"",""
+ball,1,15.2,Scotland,A Lister,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,15.3,Scotland,A Lister,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,15.4,Scotland,A Lister,SJ Bryce,J Maguire,0,0,,,,,,bowled,A Lister
+ball,1,15.5,Scotland,M McColl,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,15.6,Scotland,M McColl,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,16.1,Scotland,M McColl,SJ Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,16.2,Scotland,SJ Bryce,M McColl,AN Kelly,1,0,,,,,,"",""
+ball,1,16.3,Scotland,M McColl,SJ Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,16.4,Scotland,SJ Bryce,M McColl,AN Kelly,1,0,,,,,,"",""
+ball,1,16.5,Scotland,M McColl,SJ Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,16.6,Scotland,SJ Bryce,M McColl,AN Kelly,4,0,,,,,,"",""
+ball,1,17.1,Scotland,M McColl,SJ Bryce,J Maguire,0,0,,,,,,"",""
+ball,1,17.2,Scotland,M McColl,SJ Bryce,J Maguire,4,0,,,,,,"",""
+ball,1,17.3,Scotland,M McColl,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,17.4,Scotland,SJ Bryce,M McColl,J Maguire,1,0,,,,,,"",""
+ball,1,17.5,Scotland,M McColl,SJ Bryce,J Maguire,1,0,,,,,,"",""
+ball,1,17.6,Scotland,SJ Bryce,M McColl,J Maguire,1,0,,,,,,"",""
+ball,1,18.1,Scotland,SJ Bryce,M McColl,A Dalzell,4,0,,,,,,"",""
+ball,1,18.2,Scotland,SJ Bryce,M McColl,A Dalzell,4,0,,,,,,"",""
+ball,1,18.3,Scotland,SJ Bryce,M McColl,A Dalzell,1,0,,,,,,"",""
+ball,1,18.4,Scotland,M McColl,SJ Bryce,A Dalzell,4,0,,,,,,"",""
+ball,1,18.5,Scotland,M McColl,SJ Bryce,A Dalzell,4,0,,,,,,"",""
+ball,1,18.6,Scotland,M McColl,SJ Bryce,A Dalzell,4,0,,,,,,"",""
+ball,1,19.1,Scotland,SJ Bryce,M McColl,AN Kelly,4,0,,,,,,"",""
+ball,1,19.2,Scotland,SJ Bryce,M McColl,AN Kelly,1,0,,,,,,"",""
+ball,1,19.3,Scotland,M McColl,SJ Bryce,AN Kelly,4,0,,,,,,"",""
+ball,1,19.4,Scotland,M McColl,SJ Bryce,AN Kelly,0,0,,,,,,"",""
+ball,1,19.5,Scotland,M McColl,SJ Bryce,AN Kelly,1,0,,,,,,"",""
+ball,1,19.6,Scotland,SJ Bryce,M McColl,AN Kelly,0,0,,,,,,caught,SJ Bryce
+ball,2,0.1,Ireland,CE Coulter Reilly,GH Lewis,KE Bryce,0,0,,,,,,"",""
+ball,2,0.2,Ireland,CE Coulter Reilly,GH Lewis,KE Bryce,0,0,,,,,,"",""
+ball,2,0.3,Ireland,CE Coulter Reilly,GH Lewis,KE Bryce,0,0,,,,,,bowled,CE Coulter Reilly
+ball,2,0.4,Ireland,O Prendergast,GH Lewis,KE Bryce,0,0,,,,,,"",""
+ball,2,0.5,Ireland,O Prendergast,GH Lewis,KE Bryce,1,0,,,,,,"",""
+ball,2,0.6,Ireland,GH Lewis,O Prendergast,KE Bryce,0,0,,,,,,"",""
+ball,2,1.1,Ireland,O Prendergast,GH Lewis,R Slater,1,0,,,,,,"",""
+ball,2,1.2,Ireland,GH Lewis,O Prendergast,R Slater,0,0,,,,,,"",""
+ball,2,1.3,Ireland,GH Lewis,O Prendergast,R Slater,0,0,,,,,,"",""
+ball,2,1.4,Ireland,GH Lewis,O Prendergast,R Slater,4,0,,,,,,"",""
+ball,2,1.5,Ireland,GH Lewis,O Prendergast,R Slater,0,0,,,,,,"",""
+ball,2,1.6,Ireland,GH Lewis,O Prendergast,R Slater,0,1,1,,,,,"",""
+ball,2,1.7,Ireland,GH Lewis,O Prendergast,R Slater,0,0,,,,,,"",""
+ball,2,2.1,Ireland,O Prendergast,GH Lewis,KE Bryce,4,0,,,,,,"",""
+ball,2,2.2,Ireland,O Prendergast,GH Lewis,KE Bryce,1,0,,,,,,"",""
+ball,2,2.3,Ireland,GH Lewis,O Prendergast,KE Bryce,1,0,,,,,,"",""
+ball,2,2.4,Ireland,O Prendergast,GH Lewis,KE Bryce,0,0,,,,,,caught,O Prendergast
+ball,2,2.5,Ireland,L Paul,GH Lewis,KE Bryce,1,0,,,,,,"",""
+ball,2,2.6,Ireland,GH Lewis,L Paul,KE Bryce,0,0,,,,,,"",""
+ball,2,3.1,Ireland,L Paul,GH Lewis,PA Chatterji,0,1,1,,,,,"",""
+ball,2,3.2,Ireland,L Paul,GH Lewis,PA Chatterji,0,0,,,,,,"",""
+ball,2,3.3,Ireland,L Paul,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,3.4,Ireland,GH Lewis,L Paul,PA Chatterji,0,0,,,,,,"",""
+ball,2,3.5,Ireland,GH Lewis,L Paul,PA Chatterji,1,0,,,,,,"",""
+ball,2,3.6,Ireland,L Paul,GH Lewis,PA Chatterji,4,0,,,,,,"",""
+ball,2,3.7,Ireland,L Paul,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,4.1,Ireland,L Paul,GH Lewis,O Bell,1,0,,,,,,"",""
+ball,2,4.2,Ireland,GH Lewis,L Paul,O Bell,6,0,,,,,,"",""
+ball,2,4.3,Ireland,GH Lewis,L Paul,O Bell,4,0,,,,,,"",""
+ball,2,4.4,Ireland,GH Lewis,L Paul,O Bell,0,0,,,,,,"",""
+ball,2,4.5,Ireland,GH Lewis,L Paul,O Bell,0,0,,,,,,"",""
+ball,2,4.6,Ireland,GH Lewis,L Paul,O Bell,1,0,,,,,,"",""
+ball,2,5.1,Ireland,GH Lewis,L Paul,R Slater,0,0,,,,,,"",""
+ball,2,5.2,Ireland,GH Lewis,L Paul,R Slater,0,1,1,,,,,"",""
+ball,2,5.3,Ireland,GH Lewis,L Paul,R Slater,4,0,,,,,,"",""
+ball,2,5.4,Ireland,GH Lewis,L Paul,R Slater,1,0,,,,,,"",""
+ball,2,5.5,Ireland,L Paul,GH Lewis,R Slater,0,0,,,,,,"",""
+ball,2,5.6,Ireland,L Paul,GH Lewis,R Slater,1,0,,,,,,"",""
+ball,2,5.7,Ireland,GH Lewis,L Paul,R Slater,0,0,,,,,,"",""
+ball,2,6.1,Ireland,L Paul,GH Lewis,K Fraser,4,0,,,,,,"",""
+ball,2,6.2,Ireland,L Paul,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,6.3,Ireland,L Paul,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,6.4,Ireland,L Paul,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,6.5,Ireland,L Paul,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,6.6,Ireland,L Paul,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,7.1,Ireland,GH Lewis,L Paul,AH Maqsood,6,0,,,,,,"",""
+ball,2,7.2,Ireland,GH Lewis,L Paul,AH Maqsood,0,0,,,,,,"",""
+ball,2,7.3,Ireland,GH Lewis,L Paul,AH Maqsood,1,0,,,,,,"",""
+ball,2,7.4,Ireland,L Paul,GH Lewis,AH Maqsood,0,0,,,,,,"",""
+ball,2,7.5,Ireland,L Paul,GH Lewis,AH Maqsood,1,0,,,,,,"",""
+ball,2,7.6,Ireland,GH Lewis,L Paul,AH Maqsood,0,0,,,,,,"",""
+ball,2,8.1,Ireland,L Paul,GH Lewis,K Fraser,1,0,,,,,,"",""
+ball,2,8.2,Ireland,GH Lewis,L Paul,K Fraser,0,0,,,,,,"",""
+ball,2,8.3,Ireland,GH Lewis,L Paul,K Fraser,0,0,,,,,,"",""
+ball,2,8.4,Ireland,GH Lewis,L Paul,K Fraser,4,0,,,,,,"",""
+ball,2,8.5,Ireland,GH Lewis,L Paul,K Fraser,0,0,,,,,,"",""
+ball,2,8.6,Ireland,GH Lewis,L Paul,K Fraser,1,0,,,,,,"",""
+ball,2,9.1,Ireland,GH Lewis,L Paul,AH Maqsood,0,0,,,,,,"",""
+ball,2,9.2,Ireland,GH Lewis,L Paul,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.3,Ireland,L Paul,GH Lewis,AH Maqsood,0,0,,,,,,lbw,L Paul
+ball,2,9.4,Ireland,R Stokell,GH Lewis,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.5,Ireland,GH Lewis,R Stokell,AH Maqsood,1,0,,,,,,"",""
+ball,2,9.6,Ireland,R Stokell,GH Lewis,AH Maqsood,1,0,,,,,,"",""
+ball,2,10.1,Ireland,R Stokell,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.2,Ireland,GH Lewis,R Stokell,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.3,Ireland,R Stokell,GH Lewis,PA Chatterji,4,0,,,,,,"",""
+ball,2,10.4,Ireland,R Stokell,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.5,Ireland,GH Lewis,R Stokell,PA Chatterji,1,0,,,,,,"",""
+ball,2,10.6,Ireland,R Stokell,GH Lewis,PA Chatterji,1,0,,,,,,"",""
+ball,2,11.1,Ireland,R Stokell,GH Lewis,AH Maqsood,0,1,1,,,,,"",""
+ball,2,11.2,Ireland,R Stokell,GH Lewis,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.3,Ireland,R Stokell,GH Lewis,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.4,Ireland,R Stokell,GH Lewis,AH Maqsood,0,0,,,,,,"",""
+ball,2,11.5,Ireland,R Stokell,GH Lewis,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.6,Ireland,GH Lewis,R Stokell,AH Maqsood,1,0,,,,,,"",""
+ball,2,11.7,Ireland,R Stokell,GH Lewis,AH Maqsood,0,1,1,,,,,"",""
+ball,2,11.8,Ireland,R Stokell,GH Lewis,AH Maqsood,0,1,,,,1,,"",""
+ball,2,12.1,Ireland,R Stokell,GH Lewis,KE Bryce,2,0,,,,,,"",""
+ball,2,12.2,Ireland,R Stokell,GH Lewis,KE Bryce,0,0,,,,,,caught,R Stokell
+ball,2,12.3,Ireland,L Little,GH Lewis,KE Bryce,0,0,,,,,,"",""
+ball,2,12.4,Ireland,L Little,GH Lewis,KE Bryce,1,0,,,,,,"",""
+ball,2,12.5,Ireland,GH Lewis,L Little,KE Bryce,1,0,,,,,,"",""
+ball,2,12.6,Ireland,L Little,GH Lewis,KE Bryce,2,0,,,,,,"",""
+ball,2,13.1,Ireland,GH Lewis,L Little,K Fraser,1,0,,,,,,"",""
+ball,2,13.2,Ireland,L Little,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,13.3,Ireland,L Little,GH Lewis,K Fraser,0,0,,,,,,"",""
+ball,2,13.4,Ireland,L Little,GH Lewis,K Fraser,1,0,,,,,,"",""
+ball,2,13.5,Ireland,GH Lewis,L Little,K Fraser,0,0,,,,,,bowled,GH Lewis
+ball,2,13.6,Ireland,AN Kelly,L Little,K Fraser,0,0,,,,,,"",""
+ball,2,14.1,Ireland,L Little,AN Kelly,O Bell,6,0,,,,,,"",""
+ball,2,14.2,Ireland,L Little,AN Kelly,O Bell,1,0,,,,,,"",""
+ball,2,14.3,Ireland,AN Kelly,L Little,O Bell,1,0,,,,,,"",""
+ball,2,14.4,Ireland,L Little,AN Kelly,O Bell,0,0,,,,,,"",""
+ball,2,14.5,Ireland,L Little,AN Kelly,O Bell,1,0,,,,,,"",""
+ball,2,14.6,Ireland,AN Kelly,L Little,O Bell,1,0,,,,,,"",""
+ball,2,15.1,Ireland,AN Kelly,L Little,AH Maqsood,0,0,,,,,,stumped,AN Kelly
+ball,2,15.2,Ireland,J Maguire,L Little,AH Maqsood,0,0,,,,,,"",""
+ball,2,15.3,Ireland,J Maguire,L Little,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.4,Ireland,L Little,J Maguire,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.5,Ireland,J Maguire,L Little,AH Maqsood,1,0,,,,,,"",""
+ball,2,15.6,Ireland,L Little,J Maguire,AH Maqsood,4,0,,,,,,"",""
+ball,2,16.1,Ireland,J Maguire,L Little,KE Bryce,1,0,,,,,,"",""
+ball,2,16.2,Ireland,L Little,J Maguire,KE Bryce,0,0,,,,,,caught,L Little
+ball,2,16.3,Ireland,A Dalzell,J Maguire,KE Bryce,0,0,,,,,,"",""
+ball,2,16.4,Ireland,A Dalzell,J Maguire,KE Bryce,1,0,,,,,,"",""
+ball,2,16.5,Ireland,J Maguire,A Dalzell,KE Bryce,1,0,,,,,,"",""
+ball,2,16.6,Ireland,A Dalzell,J Maguire,KE Bryce,4,0,,,,,,"",""
+ball,2,17.1,Ireland,J Maguire,A Dalzell,PA Chatterji,2,0,,,,,,"",""
+ball,2,17.2,Ireland,J Maguire,A Dalzell,PA Chatterji,1,0,,,,,,"",""
+ball,2,17.3,Ireland,A Dalzell,J Maguire,PA Chatterji,1,0,,,,,,"",""
+ball,2,17.4,Ireland,J Maguire,A Dalzell,PA Chatterji,0,0,,,,,,caught,J Maguire
+ball,2,17.5,Ireland,AK Maguire,A Dalzell,PA Chatterji,0,1,,,,1,,"",""
+ball,2,17.6,Ireland,A Dalzell,AK Maguire,PA Chatterji,1,0,,,,,,"",""
+ball,2,18.1,Ireland,A Dalzell,AK Maguire,K Fraser,1,0,,,,,,"",""
+ball,2,18.2,Ireland,AK Maguire,A Dalzell,K Fraser,1,0,,,,,,"",""
+ball,2,18.3,Ireland,A Dalzell,AK Maguire,K Fraser,1,0,,,,,,run out,A Dalzell
+ball,2,18.4,Ireland,LA McBride,AK Maguire,K Fraser,0,1,1,,,,,"",""
+ball,2,18.5,Ireland,LA McBride,AK Maguire,K Fraser,0,0,,,,,,"",""
+ball,2,18.6,Ireland,LA McBride,AK Maguire,K Fraser,1,0,,,,,,"",""
+ball,2,18.7,Ireland,AK Maguire,LA McBride,K Fraser,0,0,,,,,,"",""
+ball,2,19.1,Ireland,LA McBride,AK Maguire,PA Chatterji,1,0,,,,,,"",""
+ball,2,19.2,Ireland,AK Maguire,LA McBride,PA Chatterji,0,0,,,,,,run out,AK Maguire
